@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Teste: teste.md
