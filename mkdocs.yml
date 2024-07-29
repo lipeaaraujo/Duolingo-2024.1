@@ -25,5 +25,6 @@ theme:
         name: Modo claro
 
 nav:
-  - Home: index.md
-  - Teste: teste.md
+  - Inicio: index.md
+  - Atas: 
+    - Reunião 29/07: atas/ata_29_07.md
