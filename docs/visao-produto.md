@@ -41,7 +41,7 @@ O Duolingo oferece:
 
 - Abordagem gamificada: Ao trazer ligas, competição entre amigos, ofensivas, desafios e recompensas
 - Personalização do Conteúdo: Fornece um aprendizado adaptável as necessidades do usuário
-- Ampla Oferta de Idiomas: 
+- Ampla Oferta de Idiomas 
 - Interatividade e Colaboração: Devido a gamificação que promove a interação entre os usuários
 - Oferece uma experiencia completa de aprendizado de idiomas de forma gratuita.
 
