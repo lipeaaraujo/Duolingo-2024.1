@@ -1,8 +1,28 @@
-site_name: My Docs
+site_name: Duolingo
+repo_name: "Duolingo-2024.1"
+repo_url: https://github.com/lipeaaraujo/Duolingo-2024.1
+
 theme:
+  logo: assets/images/duolingo-logo.svg
+  favicon: assets/images/duolingo-logo.svg
   name: material
+  language: pt
   features:
     - navigation.tabs
+  palette:
+    - scheme: default
+      primary: green
+      accent: indigo
+      toggle:
+        icon: material/weather-night 
+        name: Modo escuro
+        
+    - scheme: slate
+      primary: green
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
 
 nav:
   - Home: index.md
