@@ -25,5 +25,5 @@ theme:
         name: Modo claro
 
 nav:
-  - Home: index.md
-  - Teste: teste.md
+  - Inicio: index.md
+  - Visão do Produto: visao-produto.md
