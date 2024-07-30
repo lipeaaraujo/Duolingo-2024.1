@@ -50,4 +50,4 @@ Essa modificação foi realizada para... dentro do contexto que... (descreva o m
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 29/07/2024 | 1.0 | Criação do documento | Felipe Amorim |
+| 30/07/2024 | 1.0 | Criação do documento | Felipe Amorim |
