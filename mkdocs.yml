@@ -28,4 +28,5 @@ nav:
   - Inicio: index.md
   - Planejamento:
     - Guia de Contribuição: planejamento/guia-contribuicao.md
+    - Ferramentas: planejamento/ferramenta.md
   - Visão do Produto: visao-produto.md
