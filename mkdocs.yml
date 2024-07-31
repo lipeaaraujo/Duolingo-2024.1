@@ -26,5 +26,11 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Planejamento:
+    - Aplicativo Escolhido: planejamento/app-escolhido.md
+    - Guia de Contribuição: planejamento/guia-contribuicao.md
+    - Ferramentas: planejamento/ferramenta.md
+    - Comunicação: planejamento/comunicacao.md
+    - Cronograma: planejamento/cronograma.md
   - Visão do Produto: visao-produto.md
   - Pré-Rastrabilidade: pre-rastreabilidade.md
