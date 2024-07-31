@@ -4,7 +4,7 @@
 
 Essa página é dedicada para a documentação do projeto do grupo 08 da disciplina de Requisitos de Software, ministrada pelo professor Maurício Serrano na Universidade de Brasília (campus FGA), durante o 1° semestre de 2024.
 
-O aplicativo que escolhemos foi o app mobile do **Duolingo**
+O trabalho se concentra no app mobile gratuito do **Duolingo**, sua logo retratada na figura 1.
 
 <div style="display: flex; flex-direction: column; align-items: center; padding: 50px;">
   <img width="500px" src="/assets/images/duolingo-portrait.svg"/>
@@ -15,15 +15,37 @@ O Duolingo é uma plataforma de aprendizado de idiomas, lançada em 2011, que of
 
 ## Integrantes
 
-| Foto | Nome | GitHub |
-| - | - | - |
-| [<img style="border-radius: 50%;" width="100px" src="https://github.com/lipeaaraujo.png">](https://github.com/lipeaaraujo) | Felipe Amorim de Araújo | [lipeaaraujo](https://github.com/lipeaaraujo) |
-| [<img style="border-radius: 50%;" width="100px" src="https://github.com/gabryelns.png">](https://github.com/gabryelns) | Gabryel Nicolas S de Sousa | [gabryelns](https://github.com/gabryelns) |
-| [<img style="border-radius: 50%;" width="100px" src="https://github.com/GuiDutra21.png">](https://github.com/GuiDutra21) | Guilherme Silva Dutra | [GuiDutra21](https://github.com/GuiDutra21) |
-| [<img style="border-radius: 50%;" width="100px" src="https://github.com/JulioR2022.png">](https://github.com/JulioR2022) | Julio Roberto | [JulioR2022](https://github.com/JulioR2022) |
-| [<img style="border-radius: 50%;" width="100px" src="https://github.com/raquel-andrade.png">](https://github.com/raquel-andrade) | Raquel Ferreira Andrade | [raquel-andrade](https://github.com/raquel-andrade) |
-| [<img style="border-radius: 50%;" width="100px" src="https://github.com/samuelalvess.png">](https://github.com/samuelalvess) | Samuel Alves Silva | [samuelalvess](https://github.com/samuelalvess) |
+<div style="display: flex; gap: 30px; font-size: 14px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img style="border-radius: 50%;" width="150px" src="https://github.com/lipeaaraujo.png">
+    <a href="https://github.com/lipeaaraujo">Felipe Amorim de Araújo</a>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img style="border-radius: 50%;" width="150px" src="https://github.com/gabryelns.png">
+    <a href="https://github.com/gabryelns">Gabryel Nicolas S de Sousa</a>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img style="border-radius: 50%;" width="150px" src="https://github.com/GuiDutra21.png">
+    <a href="https://github.com/GuiDutra21">Guilherme Silva Dutra</a>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img style="border-radius: 50%;" width="150px" src="https://github.com/JulioR2022.png">
+    <a href="https://github.com/JulioR2022">Julio Roberto</a>
+  </div>
+</div>
+
+<div style="display: flex; margin-top: 30px; gap: 30px; font-size: 14px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img style="border-radius: 50%;" width="150px" src="https://github.com/raquel-andrade.png">
+    <a href="https://github.com/raquel-andrade">Raquel Ferreira Andrade</a>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img style="border-radius: 50%;" width="150px" src="https://github.com/samuelalvess.png">
+    <a href="https://github.com/samuelalvess">Samuel Alves Silva</a>
+  </div>
+</div>
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação e adição dos membros | Felipe Amorim |
+| 31/07/2024 | 1.1 | Edição dos textos de introdução e da parte de integrantes | Felipe Amorim |
