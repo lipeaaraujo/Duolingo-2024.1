@@ -6,10 +6,10 @@ Essa página é dedicada para a documentação do projeto do grupo 08 da discipl
 
 O trabalho se concentra no app mobile gratuito do **Duolingo**, sua logo retratada na figura 1.
 
-<div style="display: flex; flex-direction: column; align-items: center; padding: 50px;">
-  <img width="500px" src="/assets/images/duolingo-portrait.svg"/>
-  Figura 1 - Logo do Duolingo
-</div>
+<center>
+  <img width="500px" src="assets/images/duolingo-portrait.svg"/>
+  <p>Figura 1 - Logo do Duolingo</p>
+</center>
 
 O Duolingo é uma plataforma de aprendizado de idiomas, lançada em 2011, que oferece uma abordagem gamificada e adaptativa para o ensino de línguas, disponível em aplicativo e website. Nosso projeto, visa analisar e eliciar os requisitos do aplicativo mobile do Duolingo. Utilizando técnicas como entrevistas, questionários e análise documental, buscamos identificar as necessidades dos usuários e stakeholders para definir melhorias que aprimorem a experiência de aprendizado no Duolingo.
 
