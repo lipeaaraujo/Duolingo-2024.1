@@ -6,8 +6,8 @@ Essa página é dedicada para a documentação do projeto do grupo 08 da discipl
 
 O trabalho se concentra no app mobile gratuito do **Duolingo**, sua logo retratada na figura 1.
 
-<div style="display: flex; flex-direction: column; align-items: center; padding: 50px;">
-  <img width="500px" src="/assets/images/duolingo-portrait.svg"/>
+<div style="display: flex; flex-direction: column; align-itvems: center; padding: 50px;">
+  <img width="500px" src="assets/images/duolingo-portrait.svg"/>
   Figura 1 - Logo do Duolingo
 </div>
 
