@@ -30,6 +30,7 @@ A partir da utilização do Duolingo, e com auxílio do lucidspark, conseguimos 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1RdYFLuXDLI?si=WJWoY6rIn_y1Lv4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
+
 # **Referência**
 
 1. CTEC2402 Software Development Project. Introducing Rich Pictures. Disponível em: <https://www.scribd.com/document/227529428/Rich-Picture-Guidelines> Acesso em 25 julho 2024.
