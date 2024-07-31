@@ -8,9 +8,30 @@ Antes de começar, clone o repositório para o seu computador local
 
 É importante que toda nova adição deve ser criada como uma **issue** antes de ser implementada. **Verifique se uma issue retratando a mesma modificação ainda não existe!**
 
-Para começar a contribuir no projeto, crie uma **nova branch** para a **issue** em questão e após isso abra um **pull-request** com suas modificações. Qualquer contribuição somente irá para a branch principal (**main**) após a aprovação do **pull-request** 
+Para começar a contribuir no projeto, crie uma **nova branch** para a **issue** em questão e após isso abra um **pull-request** com suas modificações. Qualquer contribuição somente irá para a branch principal (**main**) após a aprovação do **pull-request**
+
+![Diagrama de Pull Request](/assets/images/diagrama-pr.png)
 
 A seguir segue os templates e padrões de contribuição do projeto:
+
+## Padrão de criação de issue
+
+### Título da issue (problema)
+
+```
+### Descrição
+
+(breve descrição do problema)
+Realizar de a criação do artefato... e subir para documentação...
+
+### Tarefas
+
+(separe as tarefas a serem realizadas)
+- Criar artefato
+- ...
+- Subir página para documentação
+- ...
+```
 
 ## Padrão de criação de branch
 
@@ -40,6 +61,7 @@ Exemplo:
 
 ### Título (baseado na issue ou branch)
 
+```
 ### Descrição
 
 Esse pull request introduz... (descreva a adição ou modificação realizada na branch)
@@ -47,7 +69,9 @@ Esse pull request introduz... (descreva a adição ou modificação realizada na
 ### Motivação e Contexto
 
 Essa modificação foi realizada para... dentro do contexto que... (descreva o motivo da modificação e o contexto para sua realização)
+```
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 30/07/2024 | 1.0 | Criação do documento | Felipe Amorim |
+| 31/07/2024 | 1.1 | Adicionando diagrama de pull-request e padrão de criação issue | Felipe Amorim |
