@@ -1,4 +1,4 @@
-site_name: Duolingo
+site_name: My Docs
 repo_name: "Duolingo-2024.1"
 repo_url: https://github.com/lipeaaraujo/Duolingo-2024.1
 
@@ -30,5 +30,6 @@ nav:
     - Aplicativo Escolhido: planejamento/app-escolhido.md
     - Guia de Contribuição: planejamento/guia-contribuicao.md
     - Ferramentas: planejamento/ferramenta.md
+    - Comunicação: planejamento/comunicacao.md
     - Cronograma: planejamento/cronograma.md
   - Visão do Produto: visao-produto.md
