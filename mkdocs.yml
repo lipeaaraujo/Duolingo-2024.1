@@ -27,6 +27,7 @@ theme:
 nav:
   - Inicio: index.md
   - Planejamento:
+    - Aplicativo Escolhido: planejamento/app-escolhido.md
     - Guia de Contribuição: planejamento/guia-contribuicao.md
     - Ferramentas: planejamento/ferramenta.md
   - Visão do Produto: visao-produto.md
