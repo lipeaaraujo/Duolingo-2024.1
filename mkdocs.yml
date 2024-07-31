@@ -27,3 +27,4 @@ theme:
 nav:
   - Inicio: index.md
   - Visão do Produto: visao-produto.md
+  - Pré-Rastrabilidade: pre-rastreabilidade.md
