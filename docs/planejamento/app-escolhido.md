@@ -5,7 +5,8 @@
 O primeiro passo para a introdução e começo do projeto foi a escolha de um **aplicativo** para ser tema de nossa análise. Inicialmente, fizemos uma enquete entre os próprios membros do grupo com algumas ideias de aplicativos utilizando o Whatsapp, encontrada na figura 1.
 
 <center>
-  <img src="../assets/images/enquete-aplicativo.png"/>
+
+  ![Enquete do App](../assets/images/enquete-aplicativo.png)
 
   **Figura 01** - Enquete realizada entre os membros
 </center>
@@ -17,7 +18,8 @@ As opções da enquete foram o Duolingo, Adidas Running, Onefootball e o Spotify
 O Duolingo é o aplicativo mais popular do mundo para o aprendizado de idiomas gratuito, seu lançamento aconteceu no ano de 2011 e a plataforma está disponível para aplicativo mobile e website. A seguir a logo visual do Duolingo, na figura 2.
 
 <center>
-  <img width="500px" src="../assets/images/duolingo-portrait.svg"/>
+
+  ![Enquete do App](../assets/images/duolingo-portrait.svg)
 
   **Figura 02** - Logo do Duolingo
 </center>
