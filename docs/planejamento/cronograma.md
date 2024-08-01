@@ -11,7 +11,7 @@ Planejamento de tarefas
 |Criação do Brainstorming|Felipe Amorim, Gabryel Nicolas, Guilherme Silva, Julio Roberto, Raquel Ferreira, Samuel Alves|24/07/2024|24/07/2024|
 |Criação do RichPicture|Felipe Amorim, Guilherme Silva, Julio Roberto, Raquel Ferreira, Samuel Alves|24/07/2024|26/07/2024|
 |Criação das Storytelling (personas e jornada de usuário)|Felipe Amorim, Gabryel Nicolas, Guilherme Silva, Julio Roberto, Raquel Ferreira|24/07/2024|26/07/2024|
-|Criação do visão do produto|Felipe Amorim, Gabryel Nicolas, Guilherme Silva, Julio Roberto, Raquel Ferreira, Samuel Alves|26/07/2024|26/07/2024|
+|Criação do documento de visão do produto|Felipe Amorim, Gabryel Nicolas, Guilherme Silva, Julio Roberto, Raquel Ferreira, Samuel Alves|26/07/2024|26/07/2024|
 |Analise de Protocolo|Felipe Amorim, Gabryel Nicolas, Guilherme Silva, Julio Roberto|27/07/2024|28/07/2024|
 
 | Data | Versão | Descrição | Autor |
