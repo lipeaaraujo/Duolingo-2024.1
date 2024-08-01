@@ -28,3 +28,22 @@ nav:
   - Inicio: index.md
   - Atas: 
     - Reunião 29/07: atas/ata_29_07.md
+  - Planejamento:
+    - Aplicativo Escolhido: planejamento/app-escolhido.md
+    - Guia de Contribuição: planejamento/guia-contribuicao.md
+    - Ferramentas: planejamento/ferramenta.md
+    - Comunicação: planejamento/comunicacao.md
+    - Cronograma: planejamento/cronograma.md
+  - Visão do Produto: visao-produto.md
+  - Pré-Rastreabilidade: pre-rastreabilidade.md
+  - Elicitação:
+    - Introdução: Elicitacao/Elicitacao_introducao.md
+    - Elicitação de Requisitos:
+      - Brainstorming: Elicitacao/ElicitacaodeRequisitos/brainstorm.md
+      - Observação/Introspecção: Elicitacao/ElicitacaodeRequisitos/observacao.md
+      - StoryTelling: Elicitacao/ElicitacaodeRequisitos/storytelling.md
+      - Análise de Protocolo: Elicitacao/ElicitacaodeRequisitos/protocolo.md
+      - Junção dos Requisitos: Elicitacao/ElicitacaodeRequisitos/juncao-requisitos.md
+    - Priorização de Requisitos:
+      - Técnicas:  Elicitacao/priorizacao/tecnicas.md
+      - Requisitos Priorizados: Elicitacao/priorizacao/priorizados.md
