@@ -1,4 +1,4 @@
-# Observação e Introspecção (Mapa Mental)
+# Observação e Introspecção
 
 ## Introdução ao método
 
@@ -27,20 +27,15 @@ Como uma das primeiras atividades para entender o aplicativo do Duolingo, foi mo
 
 Com base no mapa mental gerado, foi feita uma análise com 3 membros do grupo reunidos, observando os principais requisitos funcionais e não-funcionais a serem levantados pela simples observação dos elementos no aplicativo e do mapa mental, tendo em mente o escopo e objetivos do trabalho.
 
-## Gravação
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xWtumPgR8cc?si=2Cxp9kjaLBhXd5li" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Vídeo 01** - Reunião da Elicitação a partir do Mapa Mental
-
-**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)
-
-</center>
-
 ## Requisitos elicitados
 
 Os requisitos identificados podem ser encontrados na composição da tabela 01, contendo os funcionais, e na tabela 02, contendo os não-funcionais.
+
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não Funcional n° x
+- **MMx**: Requisito n° x da técnica do Mapa Mental
 
 <center>
 
@@ -81,6 +76,17 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 </center>
 
+## Gravação
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xWtumPgR8cc?si=2Cxp9kjaLBhXd5li" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 01** - Reunião da Elicitação a partir do Mapa Mental
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)
+
+</center>
+
 ## Histórico de Versão
 
 <center>
@@ -88,5 +94,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>

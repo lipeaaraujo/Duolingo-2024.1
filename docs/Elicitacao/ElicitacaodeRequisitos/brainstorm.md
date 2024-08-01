@@ -36,6 +36,12 @@ Os artefatos gerados a partir dessa técnica estão disponibilizados a seguir:
 
 Os requisitos identificados podem ser encontrados na composição da tabela 01, contendo os funcionais, e na tabela 02, contendo os não-funcionais.
 
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não-Funcional n° x
+- **BSx**: Requisito n° x da técnica de brainstorming
+
 <center>
 
 ### Tabela 01 - Requisitos funcionais
@@ -76,6 +82,16 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 </center>
 
+## Gravação
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lgt6_mWpJ3g?si=qrUtTi7s8_xBIPiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 2**: Elicitação dos requisitos a partir da técnica de Brainstorming
+
+**Autores**:  [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)
+</center>
+
 ## Histórico de Versão
 
 <center>
@@ -83,5 +99,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)|
 
 </center>

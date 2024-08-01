@@ -53,6 +53,14 @@ O Duolingo oferece:
 - **Melhorar a Interatividade:** Introduzir funcionalidades sociais que permitam aos usuários formar grupos de estudo, participar de competições e compartilhar seu progresso com amigos e familiares
 - **Integração de Tecnologias Avançadas:** Utilizar tecnologias avançadas, como reconhecimento de voz e inteligência artificial, para enriquecer a experiência de aprendizado e fornecer feedback em tempo real.
 
+## Gravação
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBPB_R6j16w?si=ZdnfIkl3Ui4DcLTy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 1**: Criação do documento de Visão do Produto
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)
+</center>
 ## Histórico de Versão
 
 <center>

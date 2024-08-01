@@ -4,6 +4,15 @@ Este documento agrupa todos os requisitos elicitados no projeto, abrangendo toda
 
 ## Requisitos Elicitados
 
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não-Funcional n° x
+- **BSx**: Requisito n° x da técnica de Brainstorming
+- **MMx**: Requisito n° x da técnica do Mapa Mental
+- **STx**: Requisito n° x da técnica de Storytelling
+- **APx**: Requisito n° x da técnica de Análise de Protocolo
+
 <center>
 
 ### Tabela 01 - Requisitos
@@ -67,5 +76,6 @@ Este documento agrupa todos os requisitos elicitados no projeto, abrangendo toda
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 01/08/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>

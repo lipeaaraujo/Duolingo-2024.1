@@ -16,7 +16,7 @@ Para realizar o storytelling os membros do grupo se reuniram e criaram personage
 
 ![Storytelling](../../assets/images/Persona_jornada_1.png)
 
-**Figura 01** - Persona 1
+**Figura 1** - Persona 1
 
 </center>
 
@@ -24,7 +24,7 @@ Para realizar o storytelling os membros do grupo se reuniram e criaram personage
 
 ![Storytelling](../../assets/images/Persona_Jornada_2.png)
 
-**Figura 02** - Persona 2
+**Figura 2** - Persona 2
 
 </center>
 
@@ -32,7 +32,7 @@ Para realizar o storytelling os membros do grupo se reuniram e criaram personage
 
 ![Storytelling](../../assets/images/Persona_Jornada_3.png)
 
-**Figura 03** - Persona 3
+**Figura 3** - Persona 3
 
 </center>
 
@@ -51,6 +51,11 @@ Para realizar o storytelling os membros do grupo se reuniram e criaram personage
 
 Os requisitos identificados podem ser encontrados na composição da tabela 01, contendo os funcionais, e na tabela 02, contendo os não-funcionais.
 
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não-Funcional n° x
+- **STx**: Requisito n° x da técnica do Storytelling
 <center>
 
 ### Tabela 01 - Requisitos funcionais
@@ -92,5 +97,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 
 </center>
