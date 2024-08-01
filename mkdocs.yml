@@ -35,7 +35,7 @@ nav:
   - Visão do Produto: visao-produto.md
   - Pré-Rastreabilidade: pre-rastreabilidade.md
   - Elicitação:
-    - Elicitação Introdução: Elicitacao/Elicitacao_introducao.md
+    - Introdução: Elicitacao/Elicitacao_introducao.md
     - Elicitação de Requisitos:
       - Brainstorming: Elicitacao/ElicitacaodeRequisitos/brainstorm.md
       - Observação/Introspecção: Elicitacao/ElicitacaodeRequisitos/observacao.md
