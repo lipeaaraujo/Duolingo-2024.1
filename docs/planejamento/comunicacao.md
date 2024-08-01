@@ -16,7 +16,12 @@ Este documento possui o intuito de expor as ferramentas de comunicação utiliza
 Essas são as principais plataformas utilizadas pela equipe para prover uma comunicação eficiente.
 </center>
 
+## Histórico de Versão
+
+<center>
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 31/07/2024 | 1.0 | Criação do documento | Raquel Ferreira |
+| 31/07/2024 | 1.0 | Criação do documento | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+
+</center>

@@ -8,7 +8,8 @@ O trabalho se concentra no app mobile gratuito do **Duolingo**, sua logo retrata
 
 <center>
   <img width="500px" src="assets/images/duolingo-portrait.svg"/>
-  <p>Figura 1 - Logo do Duolingo</p>
+  
+  **Figura 01** - Logo do Duolingo
 </center>
 
 O Duolingo é uma plataforma de aprendizado de idiomas, lançada em 2011, que oferece uma abordagem gamificada e adaptativa para o ensino de línguas, disponível em aplicativo e website. Nosso projeto, visa analisar e eliciar os requisitos do aplicativo mobile do Duolingo. Utilizando técnicas como entrevistas, questionários e análise documental, buscamos identificar as necessidades dos usuários e stakeholders para definir melhorias que aprimorem a experiência de aprendizado no Duolingo.
@@ -45,7 +46,13 @@ O Duolingo é uma plataforma de aprendizado de idiomas, lançada em 2011, que of
   </div>
 </div>
 
+## Histórico de Versão
+
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 31/07/2024 | 1.0 | Criação e adição dos membros | Felipe Amorim |
-| 31/07/2024 | 1.1 | Edição dos textos de introdução e da parte de integrantes | Felipe Amorim |
+| 31/07/2024 | 1.0 | Criação e adição dos membros | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 31/07/2024 | 1.1 | Edição dos textos de introdução e da parte de integrantes | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
+</center>

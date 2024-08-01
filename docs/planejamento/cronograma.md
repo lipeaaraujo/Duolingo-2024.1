@@ -14,6 +14,12 @@ Planejamento de tarefas
 |Criação do documento de visão do produto|Felipe Amorim, Gabryel Nicolas, Guilherme Silva, Julio Roberto, Raquel Ferreira, Samuel Alves|26/07/2024|26/07/2024|
 |Analise de Protocolo|Felipe Amorim, Gabryel Nicolas, Guilherme Silva, Julio Roberto|27/07/2024|28/07/2024|
 
+## Histórico de Versão
+
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 31/07/2024 | 1.0 | Criação do documento | Gabryel Nicolas |
+| 31/07/2024 | 1.0 | Criação do documento | [Gabryel Nicolas S de Sousa](https://github.com/gabryelns) |
+
+</center>

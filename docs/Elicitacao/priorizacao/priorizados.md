@@ -4,6 +4,19 @@
 
 Esse documento agrupa os resultados da priorização dos requisitos utilizando as técnicas do Three Level Scale e MoSCoW sobre a tabela de requisitos elicitados
 
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não-Funcional n° x
+- **BSx**: Requisito n° x da técnica de Brainstorming
+- **MMx**: Requisito n° x da técnica do Mapa Mental
+- **STx**: Requisito n° x da técnica de Storytelling
+- **APx**: Requisito n° x da técnica de Análise de Protocolo
+- **M**: Must have
+- **S**: Should have
+- **C**: Could have
+- **W**: Would have
+
 <center>
 
 ### Tabela 01 - Requisitos Priorizados pelo Three Level Scale
@@ -112,6 +125,13 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 
 </center>
 
+## Histórico de Versão
+
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 01/08/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda nas tabelas | [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+
+</center>

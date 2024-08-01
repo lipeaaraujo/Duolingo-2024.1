@@ -20,8 +20,13 @@ Essas são as ferramentas principais utilizadas pela equipe para gerenciar e col
 
 </center>
 
+## Histórico de Versão
+
+<center>
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 31/07/2024 | 1.0 | Criação do documento | Gabryel Nicolas |
-| 31/07/2024 | 1.1 | Alterando as ferramentas e texto | Felipe Amorim |
+| 31/07/2024 | 1.0 | Criação do documento | [Gabryel Nicolas S de Sousa](https://github.com/gabryelns) |
+| 31/07/2024 | 1.1 | Alterando as ferramentas e texto | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
+</center>

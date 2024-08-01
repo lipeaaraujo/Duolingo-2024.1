@@ -14,3 +14,13 @@ Existem várias técnicas de elicitação de requisitos disponíveis para ajudar
 8. Análise de Protocolo
 9. Análise de Discurso
 10. Etnografia
+
+## Histórico de Versão
+
+<center>
+
+| Data | Versão | Descrição | Autor |
+| ---- | ------ | --------- | ----- |
+| 01/08/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+
+</center>

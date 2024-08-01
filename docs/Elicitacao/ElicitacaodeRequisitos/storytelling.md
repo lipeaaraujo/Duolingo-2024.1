@@ -13,16 +13,27 @@ A técnica de storytelling foi escolhida para elicitar os requisitos do aplicati
 Para realizar o storytelling os membros do grupo se reuniram e criaram personagens e suas respectivas histórias de usuário. Foram desenvolvidos três perfis de personagens representativos dos diferentes tipos de usuários do sistema, além dos comportamentos e das necessidades de cada um, aspectos importantes para a análise da influência da interação dos usuários com o sistema, e foi elaborado histórias de usuário que descrevem situações reais nas quais os personagens interagem com o aplicativo. Por fim, o grupo mapeou a jornada do usuário, retratando a rotina, e detalhando do início até a conclusão das tarefas realizadas por cada personagem. Essa metodologia forneceu uma visão abrangente e detalhada dos requisitos, permitindo uma abordagem mais centrada no usuário e alinhada com seus comportamentos e necessidades. Os artefatos gerados pelo storytelling pode ser observado nas figuras a seguir. 
 
 <center>
+
 ![Storytelling](../../assets/images/Persona_jornada_1.png)
-Figura 01 - Persona 1
+
+**Figura 1** - Persona 1
+
 </center>
+
 <center>
+
 ![Storytelling](../../assets/images/Persona_Jornada_2.png)
-Figura 02 - Persona 2
+
+**Figura 2** - Persona 2
+
 </center>
+
 <center>
+
 ![Storytelling](../../assets/images/Persona_Jornada_3.png)
-Figura 03 - Persona 3
+
+**Figura 3** - Persona 3
+
 </center>
 
 ## Gravações
@@ -30,7 +41,7 @@ Figura 03 - Persona 3
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OW-2Q-uERm8?si=EzZHCBSaolMIjj5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Vídeo 1 - Elicitação de requisitos a partir do storytelling
+**Vídeo 01** - Elicitação de requisitos a partir do storytelling
 
 **Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022)
 <br></br>
@@ -40,6 +51,11 @@ Vídeo 1 - Elicitação de requisitos a partir do storytelling
 
 Os requisitos identificados podem ser encontrados na composição da tabela 01, contendo os funcionais, e na tabela 02, contendo os não-funcionais.
 
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não-Funcional n° x
+- **STx**: Requisito n° x da técnica do Storytelling
 <center>
 
 ### Tabela 01 - Requisitos funcionais
@@ -76,6 +92,11 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 ## Histórico de versões
 
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+
+</center>

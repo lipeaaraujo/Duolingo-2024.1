@@ -16,7 +16,7 @@ Os artefatos gerados a partir dessa técnica estão disponibilizados a seguir:
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3B68DaGgxew?si=DnQwxuE63JRZ3N5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Video 1 - Reunião Brainstorming
+**Video 01** - Reunião Brainstorming
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns)
 <br></br>
@@ -25,7 +25,8 @@ Video 1 - Reunião Brainstorming
 
 <center>
 <iframe src="https://drive.google.com/file/d/17q6rHpNhTjfEV-USrC6Pl5ev9xbgxVq3/preview" width="600" height="500"></iframe>
-Documento 1 - Questionário Brainstorming
+
+**Documento 01** - Questionário Brainstorming
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns)
 <br></br>
@@ -34,6 +35,12 @@ Documento 1 - Questionário Brainstorming
 ## Requisitos elicitados
 
 Os requisitos identificados podem ser encontrados na composição da tabela 01, contendo os funcionais, e na tabela 02, contendo os não-funcionais.
+
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não-Funcional n° x
+- **BSx**: Requisito n° x da técnica de brainstorming
 
 <center>
 
@@ -73,11 +80,25 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | RNF10 | BS25 | Deve suportar uma grande quantidade de usuários simultâneos   |
 | RNF11 | BS26 | O aplicativo deve estar disponível a qualquer horário e local  |
 
+</center>
+
+## Gravação
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lgt6_mWpJ3g?si=qrUtTi7s8_xBIPiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 2**: Elicitação dos requisitos a partir da técnica de Brainstorming
+
+**Autores**:  [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)
+</center>
+
+## Histórico de Versão
+
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)|
 
 </center>
-
-
-

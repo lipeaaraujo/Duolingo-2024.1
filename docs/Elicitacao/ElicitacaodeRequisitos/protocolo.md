@@ -46,6 +46,12 @@ Para realizar a análise de protocolo, dividimos a equipe em duas duplas. Uma pe
 
 Os requisitos identificados podem ser encontrados na composição da tabela 01, contendo os funcionais, e na tabela 02, contendo os não-funcionais.
 
+### Legenda para as Tabelas 01 e 02:
+
+- **RFx**: Requisito Funcional n° x
+- **RNFx**: Requisito Não-Funcional n° x
+- **APx**: Requisito n° x da técnica de Análise de Protocolo
+
 <center>
 
 ### Tabela 01 - Requisitos funcionais
@@ -78,6 +84,9 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 </center>
 
+
+## Gravação
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YlpZo2vErSI?si=OCidZhPwWQQStLoK" title="Elicitação de requisitos a partir da Análise de Protocolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -85,10 +94,16 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 **Vídeo 3**: Elicitação de requisitos a partir da Análise de Protocolo
 
 **Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022),[Samuel Alves Silva](https://github.com/samuelalvess)
+
 </center>
 
-## Histórico de versão
+## Histórico de Versão
+
+<center>
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+
+</center>
