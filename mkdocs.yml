@@ -33,4 +33,14 @@ nav:
     - Comunicação: planejamento/comunicacao.md
     - Cronograma: planejamento/cronograma.md
   - Visão do Produto: visao-produto.md
-  - Pré-Rastrabilidade: pre-rastreabilidade.md
+  - Pré-Rastreabilidade: pre-rastreabilidade.md
+  - Elicitação: 
+    - Elicitacao de Requisitos:
+      - Brainstorming: Elicitacao/ElicitacaodeRequisitos/brainstorm.md
+      - Observação/Introspecção: Elicitacao/ElicitacaodeRequisitos/observacao.md
+      - StoryTelling: Elicitacao/ElicitacaodeRequisitos/storytelling.md
+      - Análise de Protocolo: Elicitacao/ElicitacaodeRequisitos/protocolo.md
+      - Junção dos Requisitos: Elicitacao/ElicitacaodeRequisitos/juncao-requisitos.md
+    - Priorização de Requisitos:
+      - Técnicas:  Elicitacao/priorizacao/tecnicas.md
+      - Requisitos Priorizados: Elicitacao/priorizacao/priorizados.md
