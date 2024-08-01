@@ -26,6 +26,18 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Atas: 
+    - Reunião 1 - 25/07: atas/ata_25_07-1.md
+    - Reunião 1 - 27/07: atas/ata_27_07-1.md
+    - Reunião 2 - 27/07: atas/ata_27_07-2.md
+    - Reunião 1 - 29/07: atas/ata_29_07-1.md
+    - Reunião 2 - 29/07: atas/ata_29_07-2.md
+    - Reunião 1 - 30/07: atas/ata_30_07-1.md
+    - Reunião 2 - 30/07: atas/ata_30_07-2.md
+    - Reunião 3 - 30/07: atas/ata_30_07-3.md
+    - Reunião 4 - 30/07: atas/ata_30_07-4.md
+    - Reunião 1 - 31/07: atas/ata_31_07-1.md
+    - Reunião 2 - 31/07: atas/ata_31_07-2.md
   - Planejamento:
     - Aplicativo Escolhido: planejamento/app-escolhido.md
     - Guia de Contribuição: planejamento/guia-contribuicao.md
