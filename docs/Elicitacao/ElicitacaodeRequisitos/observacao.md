@@ -87,6 +87,12 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 </center>
 
+## Referências
+
+1. Wiegers, Karl Eugene (2013). Software Requirements, 3nd Edition. Disponível em <https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf>. Acesso em: 31 de julho, 2024.
+
+2. Medeiros, Marcelo (2021). Requisitos de Software - Conceitos e Técnicas de Elicitação. Disponível em <https://edisciplinas.usp.br/pluginfile.php/7993139/mod_resource/content/1/05%20-%20Requisitos%20de%20Software%20-%20Conceitos%20e%20T%C3%A9cnicas%20de%20Elicita%C3%A7%C3%A3o.PDF>. Acesso em: 31 de julho, 2024
+
 ## Histórico de Versão
 
 <center>
@@ -95,5 +101,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>

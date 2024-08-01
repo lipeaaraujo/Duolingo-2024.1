@@ -15,6 +15,11 @@ Existem várias técnicas de elicitação de requisitos disponíveis para ajudar
 9. Análise de Discurso
 10. Etnografia
 
+### Referência
+
+1. [Ebrary] Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
+2. [Ebrary] Chemuturi, Murali. Mastering Software Quality Assurance: Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010.
+
 ## Histórico de Versão
 
 <center>

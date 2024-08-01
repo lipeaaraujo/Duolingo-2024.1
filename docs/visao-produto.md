@@ -63,10 +63,18 @@ O Duolingo oferece:
 </center>
 ## Histórico de Versão
 
+## Referências
+
+1. UNIVERSIDADE FEDERAL DE LAVRAS. Documento de Visão do Produto. Base de Conhecimento. Disponível em: <https://kb.ufla.br/books/termos-e-definicoes/page/documento-de-visao-do-produto>. Acesso em: 29 julho. 2024.
+
+2. Benassi, J. L. G., & Amaral, D. C.. (2011). Método para a descrição da visão do produto no contexto do gerenciamento ágil de projetos. Production, 21(3), 392–403. Disponível em: <https://doi.org/10.1590/S0103-65132011005000042>. Acesso em : 29 de julho/2024.
+
 <center>
 
+## 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 29/07/2024 | 1.0 | Criação do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess) |
+| 01/08/2024 | 1.1 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>

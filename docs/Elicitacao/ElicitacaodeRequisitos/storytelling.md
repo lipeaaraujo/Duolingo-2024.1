@@ -90,6 +90,12 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 </center>
 
+## Referências
+
+1. FERRARI, Priscila. O que é storytelling e como usar em projetos. Disponível em: <https://programathor.com.br/blog/storytelling/>. Acesso em: 31 de julho, 2024
+
+2. UNIVERSIDADE FEDERAL DE SANTA CATARINA. Técnicas de Elicitação de Requisitos - Histórias de Usuário. Retraining. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-historias-de-usuario.> Acesso em: 31 jul. 2024.
+
 ## Histórico de versões
 
 <center>
@@ -98,5 +104,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+| 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>

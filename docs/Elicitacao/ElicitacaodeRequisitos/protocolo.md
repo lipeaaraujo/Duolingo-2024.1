@@ -97,6 +97,12 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 </center>
 
+### Referências
+
+1. UNIVERSIDADE FEDERAL DE SANTA CATARINA. Técnicas de Elicitação de Requisitos - Análise de Protocolo. Retraining. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-protocolo.> Acesso em: 31 julho. 2024.
+
+2. ACERTBR. Técnicas de Elicitação de Requisitos. Disponível em: <https://acertbr.com.br/tecnicas-de-elicitacao-de-requisitos/.> Acesso em: 31 julho. 2024.
+
 ## Histórico de Versão
 
 <center>
@@ -105,5 +111,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+| 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>
