@@ -1,6 +1,6 @@
 # Visão do Produto
 
-O propósito deste documento é fornecer uma visão clara e detalhada da plataforma **mobile** do **Duolingo**, descrevendo suas visões e objetivos, bem como alinhar todas as partes interessadas quanto à direção do projeto.
+O propósito deste documento é fornecer uma visão clara e detalhada da plataforma **mobile** do **Duolingo**, descrevendo suas visões e objetivos, restringindo a análise às suas funcionalidades gratuitas, bem como alinhar todas as partes interessadas quanto à direção do projeto.
 
 ### 1.1 Problema
 
