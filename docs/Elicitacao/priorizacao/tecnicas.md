@@ -33,6 +33,12 @@ A técnica MoSCoW é uma abordagem popular para a priorização de requisitos em
 
 </center>
 
+## Referências
+
+1. Wiegers, Karl Eugene (2013). Software Requirements, 3nd Edition. Disponível em <https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf>. Acesso em: 31 de julho.
+
+2. Software & Systems Requirements Engineering: In Practice - Brian Berenbach, Daniel Paulish, Juergen Kazmeier, Arnold Rudorfer
+
 ## Histórico de Versão
 
 <center>
@@ -40,5 +46,6 @@ A técnica MoSCoW é uma abordagem popular para a priorização de requisitos em
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 01/08/2024 | 1.1 | Adicionando referências | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>

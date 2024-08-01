@@ -123,7 +123,6 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RNF46 | 46  | [AP14](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | As mensagens de feedback devem ser claras e objetivas                    | M    |
 | RNF47 | 47  | [AP16](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | O design do aplicativo deve ser padronizado                              | S    |
 
-
 </center>
 
 ## Histórico de Versão

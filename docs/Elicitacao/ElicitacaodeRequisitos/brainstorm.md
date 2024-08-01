@@ -92,6 +92,12 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 **Autores**:  [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)
 </center>
 
+
+## Referências
+1. UNIVERSIDADE FEDERAL DE SANTA CATARINA. Técnicas de Elicitação de Requisitos - Brainstorming. Retraining. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming.> Acesso em: 31 jul. 2024.
+
+2. DEVMEDIA. Técnicas para Levantamento de Requisitos. Disponível em: <https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151.>  Acesso em: 31 jul. 2024.
+
 ## Histórico de Versão
 
 <center>
@@ -100,5 +106,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)|
+| 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>
