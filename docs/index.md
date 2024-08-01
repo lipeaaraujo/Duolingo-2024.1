@@ -46,7 +46,13 @@ O Duolingo é uma plataforma de aprendizado de idiomas, lançada em 2011, que of
   </div>
 </div>
 
+## Histórico de Versão
+
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 31/07/2024 | 1.0 | Criação e adição dos membros | Felipe Amorim |
-| 31/07/2024 | 1.1 | Edição dos textos de introdução e da parte de integrantes | Felipe Amorim |
+| 31/07/2024 | 1.0 | Criação e adição dos membros | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 31/07/2024 | 1.1 | Edição dos textos de introdução e da parte de integrantes | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
+</center>

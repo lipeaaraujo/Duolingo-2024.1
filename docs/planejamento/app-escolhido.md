@@ -34,7 +34,13 @@ A seguir alguns links oficiais com mais informações sobre a plataforma:
 - [Duolingo: Sobre o Duolingo](https://support.duolingo.com/hc/pt-br/categories/200280540-Sobre-o-Duolingo)
 - [Duolingo: Quem somos](https://pt.duolingo.com/info)
 
+## Histórico de Versão
+
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 31/07/2024 | 1.0 | Criação da página | Felipe Amorim |
-| 01/08/2024 | 1.1 | Concertando as imagens | Felipe Amorim |
+| 31/07/2024 | 1.0 | Criação da página | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 01/08/2024 | 1.1 | Concertando as imagens | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
+</center>

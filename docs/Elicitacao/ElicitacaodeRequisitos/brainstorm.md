@@ -74,11 +74,14 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | RNF10 | BS25 | Deve suportar uma grande quantidade de usuários simultâneos   |
 | RNF11 | BS26 | O aplicativo deve estar disponível a qualquer horário e local  |
 
+</center>
+
+## Histórico de Versão
+
+<center>
+
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>
-
-
-

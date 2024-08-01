@@ -76,19 +76,20 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | RNF03 | AP16 | O aplicativo deve ter uma padronização do design respeitando o significado cultural das cores |
 | RNF04 | AP17 | O aplicativo deve ser gamificado |
 
-</center>
-
-<center>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YlpZo2vErSI?si=OCidZhPwWQQStLoK" title="Elicitação de requisitos a partir da Análise de Protocolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Vídeo 3**: Elicitação de requisitos a partir da Análise de Protocolo
 
 **Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022),[Samuel Alves Silva](https://github.com/samuelalvess)
+
 </center>
 
-## Histórico de versão
+## Histórico de Versão
+
+<center>
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+
+</center>

@@ -75,9 +75,14 @@ Esse pull request introduz... (descreva a adição ou modificação realizada na
 
 Essa modificação foi realizada para... dentro do contexto que... (descreva o motivo da modificação e o contexto para sua realização)
 ```
+## Histórico de Versão
+
+<center>
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 30/07/2024 | 1.0 | Criação do documento | Felipe Amorim |
-| 31/07/2024 | 1.1 | Adicionando diagrama de pull-request e padrão de criação issue | Felipe Amorim |
-| 31/07/2024 | 1.2 | Centralizando imagem | Felipe Amorim |
+| 30/07/2024 | 1.0 | Criação do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 31/07/2024 | 1.1 | Adicionando diagrama de pull-request e padrão de criação issue | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 31/07/2024 | 1.2 | Centralizando imagem | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
+</center>

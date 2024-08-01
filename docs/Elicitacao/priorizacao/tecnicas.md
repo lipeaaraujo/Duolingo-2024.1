@@ -33,6 +33,8 @@ A técnica MoSCoW é uma abordagem popular para a priorização de requisitos em
 
 </center>
 
+## Histórico de Versão
+
 <center>
 
 | Data | Versão | Descrição | Autor |

@@ -58,9 +58,14 @@ Este documento agrupa todos os requisitos elicitados no projeto, abrangendo toda
 | RNF46 | 46 | [AP14](protocolo.md#tabela-02-requisitos-nao-funcionais) | As mensagens de feedback devem ser claras e objetivas |
 | RNF47 | 47 | [AP16](protocolo.md#tabela-02-requisitos-nao-funcionais) | O design do aplicativo deve ser padronizado |
 
-
 </center>
+
+## Histórico de Versão
+
+<center>
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 01/08/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+
+</center>
