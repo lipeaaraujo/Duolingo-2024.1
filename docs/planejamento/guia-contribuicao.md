@@ -10,7 +10,12 @@ Antes de começar, clone o repositório para o seu computador local
 
 Para começar a contribuir no projeto, crie uma **nova branch** para a **issue** em questão e após isso abra um **pull-request** com suas modificações. Qualquer contribuição somente irá para a branch principal (**main**) após a aprovação do **pull-request**
 
+<center>
+
 ![Diagrama de Pull Request](../assets/images/diagrama-pr.png)
+
+**Figura 01** - Diagrama de Pull-Request
+</center>
 
 A seguir segue os templates e padrões de contribuição do projeto:
 

@@ -16,7 +16,7 @@ A técnica MoSCoW é uma abordagem popular para a priorização de requisitos em
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJBGt8vn42w?si=0BLH2Rq4pGqzllKb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Video 1 - Priorização com Three-Level Scale
+**Video 01** - Priorização com Three-Level Scale
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)
 <br></br>
@@ -26,7 +26,7 @@ Video 1 - Priorização com Three-Level Scale
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZJc0EsGMXY?si=GFcibB1ULKGMJ9dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Video 2 - Priorização com MoSCoW
+**Video 02** - Priorização com MoSCoW
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)
 <br></br>

@@ -19,8 +19,10 @@ A escolha das técnicas de observação e introspecção para a elicitação de 
 Como uma das primeiras atividades para entender o aplicativo do Duolingo, foi montado um mapa mental com as principais funcionalidades visíveis no uso do aplicativo, os membros do grupo se reuniram para utilizar cada um separadamente o aplicativo no celular e descrever as principais abas e funcionalidades, gerando o seguinte diagrama no LucidCharts que pode ser observado na figura 01.
 
 <center>
+
 ![Mapa Mental](../../assets/images/Mapa_Mental_v1.jpeg)
-Figura 01 - Primeira versão do mapa mental
+
+**Figura 01** - Primeira versão do mapa mental
 </center>
 
 Com base no mapa mental gerado, foi feita uma análise com 3 membros do grupo reunidos, observando os principais requisitos funcionais e não-funcionais a serem levantados pela simples observação dos elementos no aplicativo e do mapa mental, tendo em mente o escopo e objetivos do trabalho.
@@ -30,7 +32,7 @@ Com base no mapa mental gerado, foi feita uma análise com 3 membros do grupo re
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xWtumPgR8cc?si=2Cxp9kjaLBhXd5li" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Vídeo 1 - Reunião da Elicitação a partir do Mapa Mental
+**Vídeo 01** - Reunião da Elicitação a partir do Mapa Mental
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)
 
