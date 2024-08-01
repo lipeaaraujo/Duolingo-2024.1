@@ -34,8 +34,9 @@ nav:
     - Cronograma: planejamento/cronograma.md
   - Visão do Produto: visao-produto.md
   - Pré-Rastreabilidade: pre-rastreabilidade.md
-  - Elicitação: 
-    - Elicitacao de Requisitos:
+  - Elicitação:
+    - Elicitação Introdução: Elicitacao/Elicitacao_introducao.md
+    - Elicitação de Requisitos:
       - Brainstorming: Elicitacao/ElicitacaodeRequisitos/brainstorm.md
       - Observação/Introspecção: Elicitacao/ElicitacaodeRequisitos/observacao.md
       - StoryTelling: Elicitacao/ElicitacaodeRequisitos/storytelling.md
