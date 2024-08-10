@@ -13,6 +13,7 @@ Este vídeo em formato de apresentação representa o artefato final da primeira
 
 </center>
 
+## Histórico de Versão
 
 <center>
 

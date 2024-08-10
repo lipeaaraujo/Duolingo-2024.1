@@ -2,7 +2,9 @@
 
 Este documento mostra o cronograma que fizemos para as entregas do projeto da disciplina de requisitos semstre 2024.1, visando a organização das realizações e distribuições das tarefas e a construção de artefatos para o projeto. Podendo sofrer alterações
 
-## Cronograma de Entregas
+<center>
+
+### Tabela 01 - Cronograma de Entregas
 
 | Atividade | Conteúdo | Data de Entrega |
 |-----------|----------|-----------------|
@@ -10,8 +12,11 @@ Este documento mostra o cronograma que fizemos para as entregas do projeto da di
 | Entrega 2 | Modelagem com léxico, cenários e casos de usos, e modelagem ágil | 20/08/2024 |
 | Entrega 3 | Não definido | Não definido |
 
-## Entrega 1
-Planejamento de tarefas
+</center>
+
+<center>
+
+### Tabela 02 - Cronograma da Primeira Entrega 
 
 | Tarefa | Responsáveis | Data de Início | Data de Término |
 |--------|-------------|---------------|----------------|
@@ -24,6 +29,8 @@ Planejamento de tarefas
 |Elicitação dos requisitos|[Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)|30/07/2024|30/07/2024|
 |Priorização dos requisitos|[Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)|31/07/2024|31/07/2024|
 |Apresentação da primeira entrega|[Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess)|01/08/2024|01/08/2024|
+
+</center>
 
 ## Histórico de Versão
 
