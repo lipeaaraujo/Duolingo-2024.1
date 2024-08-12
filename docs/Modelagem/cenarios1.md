@@ -23,7 +23,9 @@
 | CN3  | Cadastro de conta                         |
 | CN4  | Fazer lições                              |
 | CN5  | Acompanhamento de progresso               |
-| CN6  | Personalização  às necessidades do usuário|
+| CN6  | Personalização às necessidades do usuário |
+| CN7  |  Escolher o idioma base do Duolingo       |
+| CN8  |  Fazer compra na loja                     |
 
 
 ## CN1 -  Escolha de um idioma
@@ -99,6 +101,32 @@
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**       |
 | Exceção  | Queda de internet antes de concluir a pesquisa.<br> O aparelho celular não funcionar corretamente      |
 
+## CN7 - Escolher o idioma base do Duolingo
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Escolher o idioma base do Duolingo   |
+| Objetivo  | o **usuário** deseja escolher o idioma base do **Duolingo**    |
+| Contexto  | Local: Em casa <br>  Pré-condições: Ter acesso a internet e ter o aplicativo instalado    |
+| Recursos  |  Dispositivo celulares e semelhantes.<br> Acesso à internet.       |
+| Atores  | O **usuário** do **Duolingo**       |
+| Episódios | O **usuário** pega o celular.<br>O **usuário** abre o **Duolingo**.<br> Seleciona a aba de escolha de idiomas. </br> Busca pelo idioma base desejado. </br> Seleciona o Idioma que deseja aprender , dentre os disponiveis no idioma base escokhido.</br> Clica no botão de continuar.<br> Responde uma breve pesquisa.<br> O aplicativo abre a primeira **lição** do curso escolhido.       |
+| Restrição  |  Dispostivo utilizado suporta o **Duolingo**, e o Idioma que deseja estudar esta sisponivel no Idioma base desejado       |
+| Exceção  | Queda de internet antes de concluir a pesquisa.<br> O aparelho celular não funcionar corretamente      |
+
+## CN8 - Fazer compra na loja
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Fazer compra na loja   |
+| Objetivo  | o **usuário** fazer compra na loja do **Duolingo**    |
+| Contexto  | Local: Em casa <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado, ter **cristais** ou dinheiro suficiente    |
+| Recursos  |  Dispositivo celulares e semelhantes.<br> Acesso à internet. </br> Ter **cristais** ou dinheiro suficiente      |
+| Atores  | O **usuário** do **Duolingo**       |
+| Episódios | O **usuário** pega o celular.<br>O **usuário** abre o **Duolingo**.<br> Seleciona o icone de cristam na região superior da tela inicial. </br> Seleciona o que deseja comprar. </br> Se a comprar for em cristais , é so clicar no botão de confirmação. </br> Se não, seleciona a forma de pagamento.  </br> Clique em continuar. <br> O aplicativo volta pra tela inicial.        |
+| Restrição  |  Dispostivo utilizado suporta o **Duolingo**, ter **cristais** ou dinheiro suficiente            |
+| Exceção  | Queda de internet antes de concluir a compra.<br> O aparelho celular não funcionar corretamente.      |
+
+
+
 
 
 
@@ -109,6 +137,7 @@
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 10/08/2024 | 1.0 | Criação do documento |[Julio Roberto](https://github.com/JulioR2022), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns)|
+| 10/08/2024 | 1.1 | Criação do CN7 e CN8 |[Julio Roberto](https://github.com/JulioR2022)|
 
 
 </center>
