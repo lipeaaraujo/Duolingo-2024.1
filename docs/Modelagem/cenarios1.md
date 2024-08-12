@@ -1,21 +1,11 @@
-# Cenarios Grupo 1
+# Cenários - Dupla 1
 
+A seguir a tabela de cenários produzidos pela Dupla 1 e a descrição completa baseada no Modelo de Cenário de cada um:
 
+<center>
 
-###### Tabela 1: Modelo de Cenário
-| Elemento | Descrição     |
-|----------|---------------------|
-| Titulo  | O titulo do cenário        |
-| Objetivo  | O que deve ser alcançado com a realização de uma certa tarefa        |
-| Contexto  | Descreve o estado inicial da tarefa    |
-| Recursos  | Ferramentas que devem estar dispobíveis para ocorrência do cenário       |
-| Atores  | O responsavel pela realização da tarefa        |
-| Episódios | Descrição em etapas de como os cenários se desenrolam        |
-| Restrição  | Caracteristicas que o cenario precisa atender        |
-| Exceção  | Situaçõs que podem interromper o cenario       |
+### Tabela 1: Cenários Produzidos
 
-
-###### Tabela 2: Cenários Produzidos
 | ID   | Titulo                                    |
 |------|-------------------------------------------|
 | CN1  | Escolha de um idioma                      |
@@ -25,11 +15,13 @@
 | CN5  | Acompanhamento de progresso               |
 | CN6  | Personalização  às necessidades do usuário|
 
+**Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
-## CN1 -  Escolha de um idioma
+### Tabela 2: CN1 -  Escolha de um idioma
+
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | Escolha de um idioma   |
+| Titulo  | Escolha de um idioma |
 | Objetivo  | O **usuario** deseja escolher um idioma de prefêrencia       |
 | Contexto  | Local: Em casa <br>  Pré-condições: Ter acesso a internet e ter o aplicativo instalado    |
 | Recursos  | Dispositivo celulares e semelhantes.<br> Acesso à internet.       |
@@ -38,8 +30,9 @@
 | Restrição  | Dispostivo utilizado suporta o **Duolingo**        |
 | Exceção  | Queda de internet antes de concluir o processo de escolha.<br> O aparelho celular não funcionar corretamente        |
 
+**Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
-## CN2 - Refazer lição
+### Tabela 3: CN2 - Refazer lição
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Refazer **lição**       |
@@ -51,7 +44,9 @@
 | Restrição  |  A **lição** deve estar concluida       |
 | Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente     |
 
-## CN3 - Cadastro de conta
+**Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+### Tabela 4: CN3 - Cadastro de conta
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Cadastro de conta        |
@@ -63,7 +58,9 @@
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**       |
 | Exceção  | Queda de internet antes de concluir o processo de criação.<br> O aparelho celular não funcionar corretamente     |
 
-## CN4 - Fazer lições
+**Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+### Tabela 5: CN4 - Fazer lições
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Fazer liçoes       |
@@ -75,7 +72,9 @@
 | Restrição  |       |
 | Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente     |
 
-## CN5 - Acompanhamento de progresso
+**Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+### Tabela 6: CN5 - Acompanhamento de progresso
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Acompanhamento de progresso        |
@@ -87,7 +86,9 @@
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**       |
 | Exceção  | Queda de internet ao tentar acessar a aba de progresso.<br> Dados de progresso não atualizados corretamente.     |
 
-## CN6 - Personalização  às necessidades do usuário
+**Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+### Tabela 7: CN6 - Personalização  às necessidades do usuário
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Personalização  às necessidades do usuário    |
@@ -99,8 +100,9 @@
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**       |
 | Exceção  | Queda de internet antes de concluir a pesquisa.<br> O aparelho celular não funcionar corretamente      |
 
+**Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
-
+</center>
 
 ## Histórico de Versão
 
@@ -108,11 +110,6 @@
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 10/08/2024 | 1.0 | Criação do documento |[Julio Roberto](https://github.com/JulioR2022), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns)|
-
+| 10/08/2024 | 1.0 | Criação do documento e tabela de cenários da dupla 1 |[Julio Roberto](https://github.com/JulioR2022), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns)|
 
 </center>
-
-
-
-

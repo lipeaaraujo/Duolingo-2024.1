@@ -14,7 +14,7 @@ A partir da utilização do Duolingo, e com auxílio do lucidspark, conseguimos 
 ![Rich Picture](../assets/images/richPicture.png)
 **Figura 1**: Rich Picture Geral
 
-**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Gabryel Nicolas S de Sousa](https://github.com/gabryelns),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess) 2024
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Gabryel Nicolas S de Sousa](https://github.com/gabryelns),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 <br></br>
 <br></br>
 
