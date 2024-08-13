@@ -27,6 +27,14 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
+</center>
+
+## CN1 - Escolher curso
+
+Na tabela 2 está determinado o Cenário 1, que descreve a escolha de curso disponível por parte do usuário no Duolingo
+
+<center>
+
 ### Tabela 2: CN1 - Escolher curso
 
 | Elemento | Descrição     |
@@ -42,22 +50,38 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 3: CN2 - Refazer uma licao
+</center>
+
+## CN2 - Refazer uma lição
+
+Na tabela 3 está determinado o Cenário 2, que descreve a funcionalidade de revisão de lições disponíveis no Duolingo.
+
+<center>
+
+### Tabela 3: CN2
 
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Refazer uma lição |
-| Objetivo  | Permitir que o **usuário** revise e refaça uma lição já concluíd |
+| Objetivo  | Permitir que o **usuário** revise e refaça uma lição já concluída |
 | Contexto  | O **usuário** deseja revisar material previamente estudado |
 | Recursos  | Aplicativo instalado<br>Acesso à lição anterior<br>Funcionalidade de revisão habilitada |
 | Atores  | O **usuário** do **Duolingo** |
-| Episódios | O **usuário** acessa seu histórico de lições<br>Ele seleciona a lição que deseja refazer<brO **usuário** completa a lição novamente, revisando o conteúdo<br>O progresso de revisão é salvo |
+| Episódios | O **usuário** acessa seu histórico de lições<br>Ele seleciona a lição que deseja refazer<br>O **usuário** completa a lição novamente, revisando o conteúdo<br>O progresso de revisão é salvo |
 | Restrição  | A lição selecionada deve ter sido concluída anteriormente |
 | Exceção  | A lição pode não estar disponível para revisão se o conteúdo for alterado ou removido |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 4: CN3 - Criar conta
+</center>
+
+## CN3 - Criar conta
+
+Na tabela 4 está determinado o Cenário 3, que descreve o processo de criação de uma nova conta no Duolingo.
+
+<center>
+
+### Tabela 4: CN3
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -72,7 +96,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 5: CN4 - Personalizar a conta
+</center>
+
+## CN4 - Personalizar a conta
+
+Na tabela 5 está determinado o Cenário 4, que descreve como o usuário pode personalizar suas configurações no Duolingo.
+
+<center>
+
+### Tabela 5: CN4
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -87,21 +119,38 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 6: CN5 - Excluir a conta
+</center>
+
+## CN5 - Excluir a conta
+
+Na tabela 6 está determinado o Cenário 5, que descreve o processo de exclusão de uma conta no Duolingo.
+
+<center>
+
+### Tabela 6: CN5
+
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Excluir a conta |
 | Objetivo  | Permitir que o **usuário** exclua permanentemente sua conta e todos os dados associados |
 | Contexto  | O **usuário** deseja parar de usar o aplicativo e quer remover sua conta |
 | Recursos  | Aplicativo instalado<br>Acesso à internet<br>Função de exclusão de conta disponível |
-| Atores  | O **usurio** do **Duolingo** |
+| Atores  | O **usuário** do **Duolingo** |
 | Episódios | O **usuário** acessa as configurações da conta<br>Ele seleciona a opção de excluir a conta<br>O sistema solicita confirmação da exclusão<br>A conta é permanentemente excluída do sistema |
 | Restrição  | A exclusão da conta deve ser irreversível e todas as informações do usuário devem ser removidas |
 | Exceção  | A exclusão pode ser interrompida se o usuário não confirmar a ação ou se houver problemas de conexão |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 7: CN6 - Fazer lições
+</center>
+
+## CN6 - Fazer lições
+
+Na tabela 7 está determinado o Cenário 6, que descreve a funcionalidade de completar lições no Duolingo.
+
+<center>
+
+### Tabela 7: CN6
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -116,7 +165,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 8: CN7 -Receber feedback
+</center>
+
+## CN7 - Receber feedback
+
+Na tabela 8 está determinado o Cenário 7, que descreve a funcionalidade de feedback disponível no Duolingo.
+
+<center>
+
+### Tabela 8: CN7
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -131,7 +188,16 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 9: CN8 - Monitorar o progresso
+</center>
+
+## CN8 - Monitorar o progresso
+
+Na tabela 9 está determinado o Cenário 8, que descreve a funcionalidade de monitoramento do progresso no Duolingo.
+
+<center>
+
+### Tabela 9: CN8
+
 | Elemento | Descrição     |
 |----------|---------------------|
 | Titulo  | Monitorar o progresso |
@@ -145,7 +211,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 10: CN9 - Personalizar o aplicativo
+</center>
+
+## CN9 - Personalizar o aplicativo
+
+Na tabela 10 está determinado o Cenário 9, que descreve a funcionalidade de personalização do aplicativo Duolingo.
+
+<center>
+
+### Tabela 10: CN9
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -160,7 +234,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 11: CN10 - Receber notificações
+</center>
+
+## CN10 - Receber notificações
+
+Na tabela 11 está determinado o Cenário 10, que descreve a funcionalidade de recebimento de notificações no Duolingo.
+
+<center>
+
+### Tabela 11: CN10
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -175,7 +257,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 12: CN11 - Realizar missões
+</center>
+
+## CN11 - Realizar missões
+
+Na tabela 12 está determinado o Cenário 11, que descreve a funcionalidade de realizar missões dentro do Duolingo.
+
+<center>
+
+### Tabela 12: CN11
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -184,13 +274,21 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 | Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a **internet**, estar logado em uma conta |
 | Recursos  | Dispositivo celular ou semelhantes, <br> Acesso à **internet**, <br> Aplicativo do **Duolingo** instalado |
 | Atores  | **Usuário** do Duolingo |
-| Episódios | O **usuário** deseja realizar uma **missão** no **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo** no celular, O **usuário** acessa a tela de **missões**, <br> O **usuário** verifica a **missão** a ser feita, <br> O **usuário** realiza a **missão** |
+| Episódios | O **usuário** deseja realizar uma **missão** no **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo** no celular, <br> O **usuário** acessa a tela de **missões**, <br> O **usuário** verifica a **missão** a ser feita, <br> O **usuário** realiza a **missão** |
 | Restrição  | O **usuário** estar inscrito em um **curso**, <br> O app **Duolingo** disponibilizar uma **missão** para o **usuário** |
 | Exceção  | O **usuário** não estar inscrito em um **curso**, <br> O app **Duolingo** não ter disponibilizado uma **missão** para o **usuário** |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 13: CN12 - Receber recompensas
+</center>
+
+## CN12 - Receber recompensas
+
+Na tabela 13 está determinado o Cenário 12, que descreve a funcionalidade de recebimento de recompensas no Duolingo.
+
+<center>
+
+### Tabela 13: CN12
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -205,7 +303,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 14: CN13 - Competir em uma divisão
+</center>
+
+## CN13 - Competir em uma divisão
+
+Na tabela 14 está determinado o Cenário 13, que descreve a funcionalidade de competição em uma divisão no Duolingo.
+
+<center>
+
+### Tabela 14: CN13
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -220,7 +326,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 15: CN14 - Manter uma ofensiva
+</center>
+
+## CN14 - Manter uma ofensiva
+
+Na tabela 15 está determinado o Cenário 14, que descreve a funcionalidade de manter uma ofensiva no Duolingo.
+
+<center>
+
+### Tabela 15: CN14
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -229,13 +343,21 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 | Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a **internet**, estar logado em uma conta e não acessou o **Duolingo** no dia |
 | Recursos  | Dispositivo celular ou semelhantes, <br> Acesso à **internet**, <br> Aplicativo do **Duolingo** instalado |
 | Atores  | **Usuário** do Duolingo |
-| Episódios | O **usuário** deseja manter uma ofensiva no **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo** no celular, O **usuário** acessa o **curso** que está inscrito, <br> O **usuário** realiza uma **lição** do **curso**, <br> O app **Duolingo** incrementa os dias de **ofensiva** |
+| Episódios | O **usuário** deseja manter uma ofensiva no **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo** no celular, <br> O **usuário** acessa o **curso** que está inscrito, <br> O **usuário** realiza uma **lição** do **curso**, <br> O app **Duolingo** incrementa os dias de **ofensiva** |
 | Restrição  | O usuário estar inscrito em um **curso**, <br> O usuário ser capaz de realizar uma **lição** |
 | Exceção  | O **usuário** não estar inscrito em um **curso**, <br>  |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 16: CN15 - Utilizar a loja
+</center>
+
+## CN15 - Utilizar a loja
+
+Na tabela 16 está determinado o Cenário 15, que descreve a funcionalidade de utilizar a loja do Duolingo.
+
+<center>
+
+### Tabela 16: CN15
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -250,7 +372,15 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
-### Tabela 17: CN16 - Navegar entre interfaces
+</center>
+
+## CN16 - Navegar entre interfaces
+
+Na tabela 17 está determinado o Cenário 16, que descreve a funcionalidade de navegação entre interfaces no Duolingo.
+
+<center>
+
+### Tabela 17: CN16
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -259,11 +389,25 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 | Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a **internet** |
 | Recursos  | Dispositivo celular ou semelhantes, <br> Acesso à **internet**, <br> Aplicativo do **Duolingo** instalado |
 | Atores  | **Usuário** do Duolingo |
-| Episódios | O **usuário** utilizar o **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo** no celular, <br> O app **Duolingo** mostra sua interface, <br> O **usuário** nevega pelas interfaces, <br> O **usuário** encontra a seção desejada |
-| Restrição  | O app **Duolingo** apresentar uma interface intuitível e navegavel, <br> O **usuário** conseguir localizar a seção desejada |
+| Episódios | O **usuário** utilizar o **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo** no celular, <br> O app **Duolingo** mostra sua interface, <br> O **usuário** navega pelas interfaces, <br> O **usuário** encontra a seção desejada |
+| Restrição  | O app **Duolingo** apresentar uma interface intuitiva e navegável, <br> O **usuário** conseguir localizar a seção desejada |
 | Exceção  | O **usuário** não conseguir localizar uma seção desejada na interface, <br> A interface ser confusa para o **usuário** |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
+
+</center>
+
+## Gravação
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQvwzCvg30A?si=dbvvqR39fqb3N7Gi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 1**: Elaboração dos cenários
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
+
+</center>
 
 ## Histórico de Versão
 
@@ -272,5 +416,6 @@ A seguir a tabela de cenários produzidos pela Dupla 2 e a descrição completa 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 12/08/2024 | 1.0 | Criação do documento e tabela de cenários da dupla 2 | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess) |
+| 12/08/2024 | 1.1 | Ajustes no documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>

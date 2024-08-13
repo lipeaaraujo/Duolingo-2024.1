@@ -24,11 +24,11 @@ A seguir a tabela de cenários produzidos pela Dupla 1 e a descrição completa 
 
 ## CN1: Escolha de um idioma
 
-Na tabela 3 está determinado o Cenário CN1, que descreve como o usuário escolhe um idioma de interesse para estudar.
+Na tabela 2 está determinado o Cenário CN1, que descreve como o usuário escolhe um idioma de interesse para estudar.
 
 <center>
 
-### Tabela 3: CN1
+### Tabela 2: CN1
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -45,11 +45,11 @@ Na tabela 3 está determinado o Cenário CN1, que descreve como o usuário escol
 
 ## CN2 - Refazer lição
 
-Na tabela 4 está determinado o CN2, que descreve como refazer uma lição concluida anteriormente.
+Na tabela 3 está determinado o CN2, que descreve como refazer uma lição concluida anteriormente.
 
 <center>
 
-### Tabela 4: CN2
+### Tabela 3: CN2
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -66,11 +66,11 @@ Na tabela 4 está determinado o CN2, que descreve como refazer uma lição concl
 
 ## CN3 - Cadastro de conta
 
-Na tabela 5 está determinada a CN5, que descreve como o usuário pode cadastrar uma conta no Duolingo.
+Na tabela 4 está determinada a CN5, que descreve como o usuário pode cadastrar uma conta no Duolingo.
 
 <center>
 
-### Tabela 5: CN3
+### Tabela 4: CN3
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -87,11 +87,11 @@ Na tabela 5 está determinada a CN5, que descreve como o usuário pode cadastrar
 
 ## CN4 - Fazer lições
 
-Na tabela 6 está determinado a CN6 , que descreve como o usuário pode fazer uma lição por completo.
+Na tabela 5 está determinado a CN6 , que descreve como o usuário pode fazer uma lição por completo.
 
 <center>
 
-### Tabela 6: CN4
+### Tabela 5: CN4
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -108,11 +108,11 @@ Na tabela 6 está determinado a CN6 , que descreve como o usuário pode fazer um
 
 ## CN5 - Acompanhamento de progresso
 
-Na tabela 7 está determinada a CN5, que descreve como acompanhar o progresso individual.
+Na tabela 6 está determinada a CN5, que descreve como acompanhar o progresso individual.
 
 <center>
 
-### Tabela 7: CN5 
+### Tabela 6: CN5 
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -129,11 +129,11 @@ Na tabela 7 está determinada a CN5, que descreve como acompanhar o progresso in
 
 ## CN6 - Personalização  às necessidades do usuário
 
-Na tabela 8 está determinada a CN6, que descreve como o usuário personaliza o **Duolingo** conforme suas necessidades.
+Na tabela 7 está determinada a CN6, que descreve como o usuário personaliza o **Duolingo** conforme suas necessidades.
 
 <center>
 
-### Tabela 8: CN6
+### Tabela 7: CN6
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -150,11 +150,11 @@ Na tabela 8 está determinada a CN6, que descreve como o usuário personaliza o 
 
 ## CN7 - Escolher o idioma base do Duolingo
 
-Na tabela 9 está determinada a CN7, que descreve como alterar o idioma base do Duolingo.
+Na tabela 8 está determinada a CN7, que descreve como alterar o idioma base do Duolingo.
 
 <center>
 
-### Tabela 9: CN7
+### Tabela 8: CN7
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -171,11 +171,11 @@ Na tabela 9 está determinada a CN7, que descreve como alterar o idioma base do 
 
 ## CN8 - Fazer compra na loja
 
-Na tabela 10 está determinada a CN8, que descreve como realizar uma compra na loja no Duolingo.
+Na tabela 9 está determinada a CN8, que descreve como realizar uma compra na loja no Duolingo.
 
 <center>
 
-### Tabela 10: CN8
+### Tabela 9: CN8
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -192,11 +192,11 @@ Na tabela 10 está determinada a CN8, que descreve como realizar uma compra na l
 
 ## CN9 - Usuário faz estudo rápido
 
-Na tabela 11 está determinada a CN9, que descreve como fazer um estudo rápido no Duolingo.
+Na tabela 10 está determinada a CN9, que descreve como fazer um estudo rápido no Duolingo.
 
 <center>
 
-### Tabela 11: CN9
+### Tabela 10: CN9
 
 | Elemento | Descrição     |
 |----------|---------------------|

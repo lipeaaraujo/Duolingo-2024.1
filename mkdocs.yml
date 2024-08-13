@@ -61,6 +61,6 @@ nav:
       - Requisitos Priorizados: Elicitacao/priorizacao/priorizados.md
   - Modelagem:
     - Cenarios:
-      - Introdução: Modelagem/introducao.md
-      - Cenários - Dupla 1: Modelagem/cenarios1.md
-      - Cenários - Dupla 2: Modelagem/cenarios2.md
+      - Introdução: Modelagem/Cenarios/introducao.md
+      - Cenários - Dupla 1: Modelagem/Cenarios/cenarios1.md
+      - Cenários - Dupla 2: Modelagem/Cenarios/cenarios2.md

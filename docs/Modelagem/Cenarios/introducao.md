@@ -46,6 +46,13 @@ Ao fim da produção, os cenários produzidos foram unidos pelas duas duplas em 
 
 </center>
 
+## Referências
+
+1. REHMAN, T. ur; KHAN, M. N. A.; RIAZ, N. Analysis of requirement engineering processes, tools/techniques and methodologies. International Journal of Information Technology and Computer Science (IJITCS), v. 5, n. 3, p. 40, 2013.
+2. YOUSUF, M.; ASGER, M. Comparison of various requirements elicitation techniques.International Journal of Computer Applications, Foundation of Computer Science,v. 116, n. 4, 2015.
+3. SOMMERVILLE, I.Engenharia de software. Tradução Ivan Bosnic e Kalinka G. deO. Gonçalves; revisão técnica Kechi Hirama–. [S.l.]: São Paulo: Pearson Prentice Hall,2011.
+4. Universidade Federal de Santa Catarina. Técnicas de Elicitação de Requisitos: Cenários. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-cenarios.> Acesso em: 12 ago. 2024. 
+
 ## Histórico de Versão
 
 <center>
@@ -53,5 +60,6 @@ Ao fim da produção, os cenários produzidos foram unidos pelas duas duplas em 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 12/08/2024 | 1.0 | Criação do documento, introdução e metodologia | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess) |
+| 12/08/2024 | 1.1 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>
