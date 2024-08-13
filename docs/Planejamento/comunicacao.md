@@ -4,7 +4,7 @@
 Este documento possui o intuito de expor as ferramentas de comunicação utilizadas pelos intergrantes da disciplina de Requisitos de Software.
 <center>
 
-## Plataformas Utilizadas
+### Tabela 01 - Plataformas Utilizadas
 
 | Ferramenta | Descrição | Referencia|
 |------------|-----------|------------|
