@@ -14,8 +14,8 @@ A seguir a tabela de cenários produzidos pela Dupla 1 e a descrição completa 
 | CN4  | Fazer lições                              |
 | CN5  | Acompanhamento de progresso               |
 | CN6  | Personalização às necessidades do usuário |
-| CN7  | Escolher o idioma base do Duolingo       |
-| CN8  | Fazer compra na loja                     |
+| CN7  | Escolher o idioma base do Duolingo        |
+| CN8  | Fazer compra na loja                      |
 | CN9  | Usuário faz estudo rápido                 |
 
 **Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
@@ -41,6 +41,8 @@ Na tabela 2 está determinado o Cenário CN1, que descreve como o usuário escol
 | Restrição  | Dispostivo utilizado suporta o **Duolingo**        |
 | Exceção  | Queda de internet antes de concluir o processo de escolha.<br> O aparelho celular não funcionar corretamente        |
 
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
 </center>
 
 ## CN2 - Refazer lição
@@ -62,11 +64,13 @@ Na tabela 3 está determinado o CN2, que descreve como refazer uma lição concl
 | Restrição  |  A **lição** deve estar concluida       |
 | Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente     |
 
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
 </center>
 
 ## CN3 - Cadastro de conta
 
-Na tabela 4 está determinada a CN5, que descreve como o usuário pode cadastrar uma conta no Duolingo.
+Na tabela 4 está determinada a CN3, que descreve como o usuário pode cadastrar uma conta no Duolingo.
 
 <center>
 
@@ -83,11 +87,13 @@ Na tabela 4 está determinada a CN5, que descreve como o usuário pode cadastrar
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**       |
 | Exceção  | Queda de internet antes de concluir o processo de criação.<br> O aparelho celular não funcionar corretamente     |
 
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
 </center>
 
 ## CN4 - Fazer lições
 
-Na tabela 5 está determinado a CN6 , que descreve como o usuário pode fazer uma lição por completo.
+Na tabela 5 está determinado a CN4 , que descreve como o usuário pode fazer uma lição por completo.
 
 <center>
 
@@ -103,6 +109,8 @@ Na tabela 5 está determinado a CN6 , que descreve como o usuário pode fazer um
 | Episódios | O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona lição desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma questão.<br>**Duolingo** mostra um **pop-up** que identidica se o **usuário** acertou ou não.<br>**Usuário** termina a **lição**.<br>**Duolingo** mostra metricas de desempemho.      |
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**    |
 | Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente     |
+
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
 </center>
 
@@ -125,6 +133,8 @@ Na tabela 6 está determinada a CN5, que descreve como acompanhar o progresso in
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**       |
 | Exceção  | Queda de internet ao tentar acessar a aba de progresso.<br> Dados de progresso não atualizados corretamente.     |
 
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
 </center>
 
 ## CN6 - Personalização  às necessidades do usuário
@@ -145,6 +155,8 @@ Na tabela 7 está determinada a CN6, que descreve como o usuário personaliza o 
 | Episódios | O **usuário** pega o celular.<br>O **usuário** abre o **Duolingo**.<br> Seleciona o curso desejado para o apredizado.<br> Responde uma pesquisa que irá definir como o usuário personaliza o **Duolingo**.<br> Seleciona a meta de aprendizado.       |
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**       |
 | Exceção  | Queda de internet antes de concluir a pesquisa.<br> O aparelho celular não funcionar corretamente      |
+
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
 </center>
 
@@ -167,6 +179,8 @@ Na tabela 8 está determinada a CN7, que descreve como alterar o idioma base do 
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**, e o Idioma que deseja estudar esta sisponivel no Idioma base desejado       |
 | Exceção  | Queda de internet antes de concluir a pesquisa.<br> O aparelho celular não funcionar corretamente      |
 
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
 </center>
 
 ## CN8 - Fazer compra na loja
@@ -188,6 +202,8 @@ Na tabela 9 está determinada a CN8, que descreve como realizar uma compra na lo
 | Restrição  |  Dispostivo utilizado suporta o **Duolingo**, ter **cristais** ou dinheiro suficiente            |
 | Exceção  | Queda de internet antes de concluir a compra.<br> O aparelho celular não funcionar corretamente.      |
 
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
 </center>
 
 ## CN9 - Usuário faz estudo rápido
@@ -200,7 +216,7 @@ Na tabela 10 está determinada a CN9, que descreve como fazer um estudo rápido 
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | Fazer liçoes       |
+| Titulo  | Usuário faz estudo rápido      |
 | Objetivo  | O **usuário** deseja fazer uma um estudo rápido   |
 | Contexto  |  Local: Em casa.<br>Pré-condições: Ter acesso a internet, ter o aplicativo instalado e ter iniciado algum **curso** no **Duolingo**    |
 | Recursos  |  Dispositivo celulares e semelhantes.<br> Acesso à internet.       |
@@ -208,6 +224,8 @@ Na tabela 10 está determinada a CN9, que descreve como fazer um estudo rápido 
 | Episódios | O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona lição desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**. </br>**Usuário** termina a primeira etapa da **lição**.<br>**Duolingo** mostra metricas de desempemho.</br> Aplicativo retorna a tela principal      |
 | Restrição  |       |
 | Exceção  | Queda de internet antes de concluir a etapa da **lição** .<br> O aparelho celular não funcionar corretamente.     |
+
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
 </center>
 
@@ -242,5 +260,7 @@ Na tabela 10 está determinada a CN9, que descreve como fazer um estudo rápido 
 | 10/08/2024 | 1.0 | Criação do documento |[Julio Roberto](https://github.com/JulioR2022), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns)|
 | 12/08/2024 | 1.1 | Criação do CN7 e CN8 |[Julio Roberto](https://github.com/JulioR2022)|
 | 12/08/2024 | 1.2 | Criação do CN9 e ajustes no documento |[Julio Roberto](https://github.com/JulioR2022)|
+| 12/08/2024 | 1.3 | Ajustes no documento |[Julio Roberto](https://github.com/JulioR2022), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)|
+| 14/08/2024 | 1.4 | Ajustes no documento |[Julio Roberto](https://github.com/JulioR2022), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns)|
 
 </center>
