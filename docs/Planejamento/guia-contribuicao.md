@@ -32,10 +32,10 @@ Realizar de a criação do artefato... e subir para documentação...
 ### Tarefas
 
 (separe as tarefas a serem realizadas)
-- Criar artefato
-- ...
-- Subir página para documentação
-- ...
+[] - Criar artefato
+[] - ...
+[] - Subir página para documentação
+[] - ...
 ```
 
 ## Padrão de criação de branch
@@ -84,5 +84,6 @@ Essa modificação foi realizada para... dentro do contexto que... (descreva o m
 | 30/07/2024 | 1.0 | Criação do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 | 31/07/2024 | 1.1 | Adicionando diagrama de pull-request e padrão de criação issue | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 | 31/07/2024 | 1.2 | Centralizando imagem | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 08/08/2024 | 1.3 | Pequena modificação no padrão de criação de issue  | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>
