@@ -8,26 +8,26 @@ Durante a reunião gravada, foram também levantados 2 requisitos novos de autor
 
 ### Tabela 1: Cenários Produzidos
 
-| ID   | Titulo                                    |
-|------|-------------------------------------------|
-| CN1  | Escolher curso                            |
-| CN2  | Refazer uma lição                         |
-| CN3  | Cadastro de conta                         |
-| CN4  | Excluir conta                             |
-| CN5  | Fazer lições                              |
-| CN6  | Acompanhar progresso                      |
-| CN7  | Personalizar conta                        |
-| CN8  | Personalizar o aplicativo                 |
-| CN9  | Receber notificações                      |
-| CN10 | Realizar missões                          |
-| CN11 | Receber recompensas                       |
-| CN12 | Competir em uma divisão                   |
-| CN13 | Manter uma ofensiva                       |
-| CN14 | Utilizar a loja                           |
-| CN15 | Navegar entre interfaces                  |
-| CN16 | Escolher o idioma base do Duolingo        |
-| CN17 | Fazer login no Duolingo                   |
-| CN18 | Sair da conta                             |
+| ID   | Titulo                                    | Rastreabilidade |
+|------|-------------------------------------------|-----------------|
+| CN1  | Escolher curso                            | [Dupla 1](cenarios1.md#cn1-escolha-de-um-idioma), [Dupla 2](cenarios2.md#cn1---escolher-curso) |
+| CN2  | Refazer uma lição                         | [Dupla 1](cenarios1.md#cn2---refazer-lição) |
+| CN3  | Cadastro de conta                         | [Dupla 1](cenarios1.md#cn3---cadastro-de-conta) |
+| CN4  | Excluir conta                             | [Dupla 2](cenarios2.md#cn5---excluir-a-conta) |
+| CN5  | Fazer lições                              | [Dupla 1](cenarios1.md#cn4---fazer-lições), [Dupla 2](cenarios2.md#cn6---fazer-lições) |
+| CN6  | Acompanhar progresso                      | [Dupla 1](cenarios1.md#cn5---acompanhamento-de-progresso), [Dupla 2](cenarios2.md#cn8---monitorar-o-progresso) |
+| CN7  | Personalizar conta                        | [Dupla 2](cenarios2.md#cn4---personalizar-a-conta) |
+| CN8  | Personalizar o aplicativo                 | [Dupla 1](cenarios1.md#cn6---personalização--às-necessidades-do-usuário), [Dupla 2](cenarios2.md#cn9---personalizar-o-aplicativo) |
+| CN9  | Receber notificações                      | [Dupla 2](cenarios2.md#cn10---receber-notificações) |
+| CN10 | Realizar missões                          | [Dupla 2](cenarios2.md#cn11---realizar-missões) |
+| CN11 | Receber recompensas                       | [Dupla 2](cenarios2.md#cn12---receber-recompensas) |
+| CN12 | Competir em uma divisão                   | [Dupla 2](cenarios2.md#cn13---competir-em-uma-divisão) |
+| CN13 | Manter uma ofensiva                       | [Dupla 2](cenarios2.md#cn14---manter-uma-ofensiva) |
+| CN14 | Utilizar a loja                           | [Dupla 1](cenarios1.md#cn8---fazer-compra-na-loja), [Dupla 2](cenarios2.md#cn15---utilizar-a-loja) |
+| CN15 | Navegar entre interfaces                  | [Dupla 2](cenarios2.md#cn16---navegar-entre-interfaces) |
+| CN16 | Escolher o idioma base do Duolingo        | [Dupla 1](cenarios1.md#cn7---escolher-o-idioma-base-do-duolingo) |
+| CN17 | Fazer login no Duolingo                   | Dupla 1, Dupla 2 |
+| CN18 | Sair da conta                             | Dupla 1, Dupla 2 |
 
 **Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
@@ -466,5 +466,6 @@ Na Tabela 19 está detalhada a CN18, que descreve o processo de sair de uma cont
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 13/08/2024 | 1.0 | Criação do documento e junção dos cenários | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022) |
+| 14/08/2024 | 1.1 | Adição da rastreabilidade | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>
