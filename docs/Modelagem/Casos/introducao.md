@@ -8,8 +8,7 @@ Este conjunto de ferramentas facilita a comunicação entre desenvolvedores, ana
 
 ## Metodologia
 
-Na elaboração dos casos de uso foram criados dois diagramas, cada um representando um conjunto distinto de funcionalidades do sistema, identificando o ator (estudante) e definindo os casos de uso que indicam o fluxo de ações no sistema. Utilizamos a ferramenta Astah para a criação dos diagramas e após este passo foi realizada a especificação dos casos de uso de ambos. 
-
+A partir da técnica de observação foi realizada a elaboraçao dos casos de uso, ilustrados em dois diagramas, cada um representando um conjunto distinto de funcionalidades do sistema, identificando o ator (estudante) e definindo os casos de uso que indicam o fluxo de ações no sistema. Utilizamos a ferramenta Astah para a criação dos diagramas e após este passo foi realizada a especificação dos casos de uso de ambos. 
 
 <center>
 
