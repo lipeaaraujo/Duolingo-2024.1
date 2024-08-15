@@ -60,6 +60,7 @@ nav:
       - Técnicas:  Elicitacao/priorizacao/tecnicas.md
       - Requisitos Priorizados: Elicitacao/priorizacao/priorizados.md
   - Modelagem:
+    - Léxico: Modelagem/lexico.md
     - Cenarios:
       - Introdução: Modelagem/Cenarios/introducao.md
       - Cenários - Dupla 1: Modelagem/Cenarios/cenarios1.md
