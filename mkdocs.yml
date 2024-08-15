@@ -65,3 +65,7 @@ nav:
       - Cenários - Dupla 1: Modelagem/Cenarios/cenarios1.md
       - Cenários - Dupla 2: Modelagem/Cenarios/cenarios2.md
       - Cenários Finais: Modelagem/Cenarios/cenariosFinais.md
+    - Casos de uso:
+      - Introdução: Modelagem/Casos/introducao.md
+      - Diagramas de Casos de Uso: Modelagem/Casos/diagrama.md
+      - Especificação dos Casos de Uso: Modelagem/Casos/especificacao.md
