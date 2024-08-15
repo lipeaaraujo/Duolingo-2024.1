@@ -28,7 +28,7 @@ Após a definição da classificação, cada símbolo será descrito por sua **n
 
 ### Tabela 02 - Modelo de Léxico
 
-| Palavra | Noção | Impacto | Sinônimos |
+| Símbolo | Noção | Impacto | Sinônimos |
 |---------|-------|---------|-----------|
 | Nome do léxico | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 
@@ -38,11 +38,97 @@ Após a definição da classificação, cada símbolo será descrito por sua **n
 
 Importante ressaltar que este documento, assim como outros do projeto, pode sofrer constantes mudanças ao decorrer que o contexto do aplicativo é estudado e novos termos são levantados.
 
-## Objetos
+## Vocábulo
 
-## Verbos
+<center>
 
-## Estados
+### Tabela 03 - Objetos
+
+| Símbolo | Noção | Impacto | Sinônimos |
+|---------|-------|---------|-----------|
+| [Aba]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Árvore de Habilidades]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Coleções]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Configurações]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Conta]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Conquistas]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Coração]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Coroa]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Cristais]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Curso]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Desempenho]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Divisão]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Feedback]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Formulário]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Idioma padrão]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Interface]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Lição]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Loja]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Missão]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Nível]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Notificação]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Ofensiva]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Perfil]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Pontos de XP]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Pop-up]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Questão]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Recompensas]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Termos de Serviço]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Usuário]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+<center>
+
+### Tabela 04 - Verbos
+
+| Símbolo | Noção | Impacto | Sinônimos |
+|---------|-------|---------|-----------|
+| [Aprender]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Cadastrar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Comprar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Configurar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Desbloquear]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Excluir]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Logar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Deslogar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Navegar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Praticar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Personalizar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Reportar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Revisar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Salvar]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+<center>
+
+### Tabela 05 - Estados
+
+| Símbolo | Noção | Impacto | Sinônimos |
+|---------|-------|---------|-----------|
+| [Bloqueado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Concluído]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Desabilitado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Disponível]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Habilitado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Incompleto]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Logado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Não-logado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Offline]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Premium]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Sincronizado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+
+
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
 
 ## Histórico de Versão
 
@@ -51,5 +137,6 @@ Importante ressaltar que este documento, assim como outros do projeto, pode sofr
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 15/08/2024 | 1.0 | Criação do documento, introdução e metodologia | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 15/08/2024 | 1.1 | Adição das tabelas de objetos, verbos e estados | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>
