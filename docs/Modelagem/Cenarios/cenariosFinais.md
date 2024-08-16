@@ -11,23 +11,29 @@ Durante a reunião gravada, foram também levantados 2 requisitos novos de autor
 | ID   | Titulo                                    | Rastreabilidade |
 |------|-------------------------------------------|-----------------|
 | CN1  | Escolher curso                            | [Dupla 1](cenarios1.md#cn1-escolha-de-um-idioma), [Dupla 2](cenarios2.md#cn1---escolher-curso) |
-| CN2  | Refazer uma nível                         | [Dupla 1](cenarios1.md#cn2---refazer-lição) |
+| CN2  | Revisar nível                         | [Dupla 1](cenarios1.md#cn2---refazer-lição) |
 | CN3  | Cadastrar conta                         | [Dupla 1](cenarios1.md#cn3---cadastro-de-conta) |
 | CN4  | Excluir conta                             | [Dupla 2](cenarios2.md#cn5---excluir-a-conta) |
-| CN5  | Fazer lições                              | [Dupla 1](cenarios1.md#cn4---fazer-lições), [Dupla 2](cenarios2.md#cn6---fazer-lições) |
+| CN5  | Praticar lições                              | [Dupla 1](cenarios1.md#cn4---fazer-lições), [Dupla 2](cenarios2.md#cn6---fazer-lições) |
 | CN6  | Acompanhar progresso                      | [Dupla 1](cenarios1.md#cn5---acompanhamento-de-progresso), [Dupla 2](cenarios2.md#cn8---monitorar-o-progresso) |
-| CN7  | Personalizar conta                        | [Dupla 2](cenarios2.md#cn4---personalizar-a-conta) |
+| CN7  | Personalizar perfil                        | [Dupla 2](cenarios2.md#cn4---personalizar-a-conta) |
 | CN8  | Personalizar o aplicativo                 | [Dupla 1](cenarios1.md#cn6---personalização--às-necessidades-do-usuário), [Dupla 2](cenarios2.md#cn9---personalizar-o-aplicativo) |
 | CN9  | Receber notificações                      | [Dupla 2](cenarios2.md#cn10---receber-notificações) |
-| CN10 | Realizar missões                          | [Dupla 2](cenarios2.md#cn11---realizar-missões) |
-| CN11 | Receber recompensas                       | [Dupla 2](cenarios2.md#cn12---receber-recompensas) |
+| CN10 | Concluir missões                          | [Dupla 2](cenarios2.md#cn11---realizar-missões) |
+| CN11 | Conquistar recompensas                       | [Dupla 2](cenarios2.md#cn12---receber-recompensas) |
 | CN12 | Competir em uma divisão                   | [Dupla 2](cenarios2.md#cn13---competir-em-uma-divisão) |
 | CN13 | Manter uma ofensiva                       | [Dupla 2](cenarios2.md#cn14---manter-uma-ofensiva) |
 | CN14 | Utilizar a loja                           | [Dupla 1](cenarios1.md#cn8---fazer-compra-na-loja), [Dupla 2](cenarios2.md#cn15---utilizar-a-loja) |
 | CN15 | Navegar entre interfaces                  | [Dupla 2](cenarios2.md#cn16---navegar-entre-interfaces) |
 | CN16 | Escolher o idioma base do Duolingo        | [Dupla 1](cenarios1.md#cn7---escolher-o-idioma-base-do-duolingo) |
-| CN17 | Fazer login no Duolingo                   | Dupla 1, Dupla 2 |
-| CN18 | Sair da conta                             | Dupla 1, Dupla 2 |
+| CN17 | Fazer login no Duolingo                   | Após junção |
+| CN18 | Sair da conta                             | Após junção |
+| CN19 | Utilizar bloqueio de ofensiva                             | Após junção |
+| CN20 | Trocar senha da conta                             | Após junção |
+| CN21 | Trocar e-mail da conta                            | Após junção |
+| CN22 | Impedir o usuári de concluir lição                            | Após junção |
+| CN23 | Acessar coleções                             | Após junção |
+| CN24 | Acessar conquistas                            | Após junção |
 
 **Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
@@ -56,9 +62,9 @@ Na tabela 2 está determinado o Cenário 1, que descreve a escolha de curso disp
 
 </center>
 
-## CN2 - Refazer nível
+## CN2 - Revisar nível
 
-Na tabela 3 está determinado o CN2, que descreve como refazer um **nível concluido**.
+Na tabela 3 está determinado o CN2, que descreve como revisar um **nível concluido**.
 
 <center>
 
@@ -66,14 +72,14 @@ Na tabela 3 está determinado o CN2, que descreve como refazer um **nível concl
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | Refazer **nível**       |
-| Objetivo  | o **usuário** deseja refazer um **nível concluido**     |
-| Contexto  |  Local: Em casa.<br>Pré-condições: Ter acesso a internet, ter o aplicativo instalado e ter concluido a lição previamente    |
+| Titulo  | Revisar **nível**       |
+| Objetivo  | O **usuário** deseja revisa um **nível concluido** |
+| Contexto  |  Local: Em casa. <br> Pré-condições: Ter acesso a internet, ter o aplicativo instalado    |
 | Recursos  | Aplicativo **Duolingo**.<br> Dispositivo celulares e semelhantes.<br> Acesso à internet.       |
 | Atores  | O **usuário** do **Duolingo**       |
 | Episódios | O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona o **nível** desejado.<br>**Usuário** clica na opção "Revisar".<br> O **Duolingo** inicia a **lição**. |
-| Restrição  |  O **nível** deve estar concluido      |
-| Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente.</br>O **nível** não estar disponível para revisão, caso o conteúdo tenha sido alterado ou removido |
+| Restrição | O **nível** deve ter sido concluido anteriormente |
+| Exceção | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente.</br> O nível não ter sido concluído anteriormente. <br> O **nível** não estar disponível para revisão, caso o conteúdo tenha sido alterado ou removido |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
@@ -108,7 +114,7 @@ Na tabela 5 está determinado o Cenário 4, que descreve o processo de exclusão
 
 <center>
 
-### Tabela 5: CN5
+### Tabela 5: CN4
 
 | Elemento | Descrição     |
 |----------|---------------------|
@@ -125,9 +131,9 @@ Na tabela 5 está determinado o Cenário 4, que descreve o processo de exclusão
 
 </center>
 
-## CN5 - Fazer lição
+## CN5 - Praticar lição
 
-Na tabela 6 está determinado a CN5 , que descreve como o usuário pode fazer uma lição por completo.
+Na tabela 6 está determinado a CN5 , que descreve como o usuário pode praticar uma lição.
 
 <center>
 
@@ -135,14 +141,14 @@ Na tabela 6 está determinado a CN5 , que descreve como o usuário pode fazer um
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | **Fazer lição**       |
-| Objetivo  | Permitir que o **usuário** complete **lições** para aprender um novo idioma.   |
+| Titulo  | **Praticar** **lição** |
+| Objetivo  | Permitir que o **usuário** pratica **lições** para aprender um novo idioma. |
 | Contexto  |  Local: Na praia.<br>Pré-condições: Ter acesso a internet, ter o aplicativo instalado e ter iniciado algum **curso** no **Duolingo**.    |
 | Recursos  |  Aplicativo **Duolingo**.<br>Dispositivo celulares e semelhantes.<br> Acesso à internet. |
 | Atores  | O **usuário** do **Duolingo**       |
-| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão**.<br>**Duolingo** mostra um **pop-up** de **feedback**.<br>**Usuário** termina a **lição**.<br>**Duolingo** mostra **metricas de desempenho**.      |
-| Restrição  |  A **lição** deve estar disponível. |
-| Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente. <br>  A **lição** não estar disponível.     |
+| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão**.<br>**Duolingo** mostra um **pop-up** de **feedback**.<br>**Usuário** termina a **lição**.<br>**Duolingo** mostra o **desempenho**.      |
+| Restrição  |  A **lição** estar disponível. <br> O **usuário** ter **corações** suficientes |
+| Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente. <br>  A **lição** não estar disponível. <br> O **usuário** não ter **corações** suficientes |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
@@ -171,9 +177,9 @@ Na tabela 7 está determinada a CN6, que descreve como acompanhar o progresso in
 
 </center>
 
-## CN7 - Personalizar conta
+## CN7 - Personalizar perfil
 
-Na tabela 8 está determinado o Cenário 7, que descreve como o **usuário** pode **personalizar** suas **configurações** no **Duolingo**.
+Na tabela 8 está determinado o Cenário 7, que descreve como o usuário pode personalizar seu perfil no Duolingo.
 
 <center>
 
@@ -181,12 +187,12 @@ Na tabela 8 está determinado o Cenário 7, que descreve como o **usuário** pod
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | **Personalizar** **conta** |
-| Objetivo  | Permitir que o **usuário** ajuste suas preferências e personalize seu **perfil** |
-| Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a internet, estar **logado** em uma conta e ter o aplicativo instalado |
-| Recursos  | Aplicativo **Duolingo**.<br>Dispositivo celulares e semelhantes.<br> Acesso à internet.|
-| Atores  | O **usuário** do **Duolingo** |
-| Episódios | O **usuário** deseja **personalizar** sua **conta**.<br>O **usuário** pega o celular.<br>O **usuário** abre o **Duolingo**.<br>O **usuário** seleciona o ícone do **perfil**.<br>O **usuário** seleciona o ícone de configuração.<br> O **usuário** ajusta as preferências de idioma, metas de estudo, e outras configurações pessoais<br>As alterações são salvas e refletidas no perfil |
+| Titulo  | Personalizar perfil |
+| Objetivo  | Permitir que o usuário ajuste suas preferências e personalize seu perfil |
+| Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a internet, estar logado em uma conta e ter o aplicativo instalado |
+| Recursos  | Aplicativo Duolingo.<br>Dispositivo celulares e semelhantes.<br> Acesso à internet.|
+| Atores  | O usuário do Duolingo |
+| Episódios | O usuário deseja personalizar sua conta.<br>O usuário pega o celular.<br>O usuário abre o Duolingo.<br>O usuário seleciona o ícone do perfil.<br>O usuário seleciona o ícone de configuração.<br> O usuário ajusta as preferências de idioma, metas de estudo, seu avatar, e outras configurações pessoais<br>O Duolingo salva as alterações e são refletidas no perfil |
 | Restrição  | As opções de personalização disponíveis devem estar em conformidade com os recursos do aplicativo |
 | Exceção  | Queda de internet ao tentar *personalizar*.<br> O aparelho celular não funcionar corretamente.  |
 
@@ -240,9 +246,9 @@ Na tabela 10 está determinado o Cenário 9, que descreve a funcionalidade de re
 
 </center>
 
-## CN10 - Realizar missões
+## CN10 - Concluir missão
 
-Na tabela 11 está determinado o Cenário 10, que descreve a funcionalidade de realizar **missões** dentro do **Duolingo**.
+Na tabela 11 está determinado o Cenário 10, que descreve a funcionalidade de concluir uma **missão** dentro do **Duolingo**.
 
 <center>
 
@@ -250,12 +256,12 @@ Na tabela 11 está determinado o Cenário 10, que descreve a funcionalidade de r
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | Realizar **missões** |
-| Objetivo  | Realizar uma **missão** disponibilizada dentro do aplicativo **Duolingo** para o **usuário** |
+| Titulo  | Concluir **missões** |
+| Objetivo  | Concluir uma **missão** disponibilizada dentro do aplicativo **Duolingo** para o **usuário** |
 | Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a internet, estar **logado** em uma conta |
 | Recursos  | Dispositivo celular ou semelhantes, <br> Acesso à **internet**, <br> Aplicativo do **Duolingo**  |
 | Atores  | **Usuário** do **Duolingo** |
-| Episódios | O **usuário** deseja realizar uma **missão** no **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo**, <br> O **usuário** acessa a tela de **missões**, <br> O **usuário** verifica a **missão** a ser feita, <br> O **usuário** realiza a **missão** |
+| Episódios | O **usuário** deseja concluir uma **missão** no **Duolingo**, <br> O **usuário** acessa o aplicativo do **Duolingo**, <br> O **usuário** acessa a **aba** de **missões**, <br> O **usuário** verifica a **missão** a ser feita, <br> O **usuário** conclui a **missão** |
 | Restrição  | O **usuário** estar inscrito em um **curso**, <br> O app **Duolingo** disponibilizar uma **missão** para o **usuário** |
 | Exceção  | O **usuário** não estar inscrito em um **curso**, <br> O app **Duolingo** não ter disponibilizado uma **missão** para o **usuário**, <br> Queda de internet durante o uso <br> O aparelho celular não funcionar corretamente. |
 
@@ -263,9 +269,9 @@ Na tabela 11 está determinado o Cenário 10, que descreve a funcionalidade de r
 
 </center>
 
-## CN11 - Receber recompensas
+## CN11 - Conquistar recompensas
 
-Na tabela 12 está determinado o Cenário 11, que descreve a funcionalidade de recebimento de **recompensas** no **Duolingo**.
+Na tabela 12 está determinado o Cenário 11, que descreve a funcionalidade de conquistar uma **recompensa** no **Duolingo**.
 
 <center>
 
@@ -273,8 +279,8 @@ Na tabela 12 está determinado o Cenário 11, que descreve a funcionalidade de r
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | Receber **recompensas** |
-| Objetivo  | Receber uma **recompensa** após a conclusão de uma **lição** ou **missão** |
+| Titulo  | Conquistar **recompensas** |
+| Objetivo  | Conquistar uma **recompensa** após a conclusão de uma **lição** ou **missão** |
 | Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a internet, estar logado em uma conta |
 | Recursos  | Dispositivo celular ou semelhantes, <br> Acesso à internet, <br> Aplicativo **Duolingo**  |
 | Atores  | **Usuário** do Duolingo |
@@ -332,9 +338,9 @@ Na tabela 15 está determinado o Cenário 14, que descreve a funcionalidade de m
 
 </center>
 
-## CN14 - Utilizar a loja
+## CN14 - Fazer compra na loja
 
-Na tabela 16 está determinado o Cenário 15, que descreve a funcionalidade de utilizar a **loja** do **Duolingo**.
+Na tabela 15 está determinada a CN14, que descreve como realizar uma compra na loja no **Duolingo**.
 
 <center>
 
@@ -342,16 +348,16 @@ Na tabela 16 está determinado o Cenário 15, que descreve a funcionalidade de u
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | Utilizar a **loja** |
-| Objetivo  | Fazer utilização da **loja** dentro do app para adquirir recursos, usando os **cristais**, que podem ser utilizados dentro do **Duolingo** |
-| Contexto  | Local: Em casa <br> Pré-condições: Ter acesso a **internet**, estar **logado** em uma conta |
-| Recursos  | Dispositivo celular ou semelhantes, <br> Acesso à **internet**, <br> Aplicativo **Duolingo** instalado |
-| Atores  | **Usuário** do **Duolingo** |
-| Episódios | O **usuário** acessar a **loja** no **Duolingo**, <br> O **usuário** acessa o **Duolingo** no celular, <br> O **usuário** acessa a **aba** da **loja**, <br> O **usuário** realiza a compra desejada, <br> O **usuário** utiliza o que comprou dentro do **Duolingo** |
-| Restrição  | O **usuário** ter **cristais** disponíveis comprar recursos na **loja** |
-| Exceção  | Queda de internet durante a utilização do aplicativo, <br> O aparelho celular não funcionar corretamente, <br> O **usuário** não ter **cristais** suficientes para comprar o recurso desejado |
+| Titulo  | Fazer compra na **loja**   |
+| Objetivo  | O **usuário**  comprar **item** na **loja** do **Duolingo**    |
+| Contexto  | Local: Em casa <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado, ter **cristais** ou dinheiro suficiente    |
+| Recursos  |  Dispositivo celulares e semelhantes.<br> Acesso à internet. </br> Ter **cristais** ou dinheiro suficiente      |
+| Atores  | O **usuário** do **Duolingo**       |
+| Episódios | O **usuário** pega o celular.<br>O **usuário** abre o **Duolingo**.<br> **Usuário** seleciona o icone de cristal na região superior da **aba** inicial. </br> **Usuário** seleciona o que deseja comprar. </br> Se a comprar for em **cristais** , é so clicar no botão de confirmação. </br> Se não, seleciona a forma de pagamento.  </br> Clique em continuar. <br> O **Duolingo** armazena ou aplica o efeito do **item** comprado.<br> **Duolingo** volta para **aba** inicial.        |
+| Restrição  |  Dispostivo utilizado suporta o **Duolingo**, ter **cristais** ou dinheiro suficiente            |
+| Exceção  | Queda de internet antes de concluir a compra.<br> O aparelho celular não funcionar corretamente.      |
 
-**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
+**Autores**:[Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
 </center>
 
@@ -426,7 +432,7 @@ Na Tabela 18 está detalhada a CN17, que descreve o processo de **fazer login** 
 
 ## CN18 - Sair da conta
 
-Na Tabela 19 está detalhada a CN18, que descreve o processo de sair de uma conta no Duolingo
+Na Tabela 19 está detalhada a CN18, que descreve o processo de sair de uma conta no **Duolingo**
 
 <center>
 
@@ -444,6 +450,165 @@ Na Tabela 19 está detalhada a CN18, que descreve o processo de sair de uma cont
 | Exceção  | Queda de internet antes de sair, <br> O aparelho celular não funcionar corretamente |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+## CN19- Utilizar bloqueio de ofensiva
+
+Na Tabela 20 está detalhada a CN19, que descreve como utilizar o bloqueio de ofensiva no **Duolingo**
+
+<center>
+
+### Tabela 20 - CN19
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Utilizar bloqueio de ofensiva |
+| Objetivo  |  Utilizar um bloqueio de ofensiva  |
+| Contexto  | Local: Em casa <br>  Pré-condições: Ter acesso a internet, ter uma ofensiva |
+| Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
+| Atores  | O **usuário** do **Duolingo** |
+| Episódios | **Usuario** não deseja utilizar o **Duolingo** no dia.<br>**Duolingo** utiliza bloqueio de ofensiva disponível e protege ofensiva do **usuário**|
+| Restrição  | Ter o item bloqueio de ofensiva |
+| Exceção  | **Usuáio** não ter o item bloqueio de ofensiva|
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+## CN20 - Trocar senha da conta
+
+Na Tabela 21 está detalhada a CN20, que descreve como trocar a senha da **conta**.
+
+<center>
+
+### Tabela 21 - CN20
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Trocar senha da **conta** |
+| Objetivo  | Trocar a senha da **conta** no Duolingo |
+| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado e estar **logado** em uma **conta** |
+| Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
+| Atores  | O **usuário** do **Duolingo** |
+| Episódios | O **usuário** deseja trocar a senha da sua conta no **Duolingo**, <br> O **usuário** pega o celular, <br>O **usuário** abre o **Duolingo**, <br> **Usuário** seleciona a **aba** de **perfil**, </br> O **usuário** clica no ícone de engrenagem no canto superior da **aba** </br> O **usuário** clica no **campo** "Perfil", <br> **Duolingo** direciona para a **interface** de **perfil**.<br> **Usuário** clica no campo "Senha".<br> **Duolingo** direciona para a **aba** de mudança de senha.<br> **Usuário** altera a senha. <br> **Usuário** clica em no botão "SALVAR". |
+| Restrição  | O **usuário** deve saber a senha atual.|
+| Exceção  | Queda de internet antes de concluir a troca de senha,<br> O aparelho celular não funcionar corretamente, <br> O **usuário** não saber a senha atual |
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+## CN21 - Trocar e-mail da conta
+
+Na Tabela 22 está detalhada a CN21, que descreve como trocar o e-mail da **conta**. O processo é semelhante para trocar o nome do perfil e do **usuário**.
+
+<center>
+
+### Tabela 22 - CN20
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Trocar e-mail da **conta** |
+| Objetivo  | Trocar o -email da **conta** no Duolingo |
+| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado e estar **logado** em uma **conta** |
+| Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
+| Atores  | O **usuário** do **Duolingo** |
+| Episódios | O **usuário** deseja trocar a senha da sua conta no **Duolingo**, <br> O **usuário** pega o celular, <br>O **usuário** abre o **Duolingo**, <br> **Usuário** seleciona a **aba** de **perfil**, </br> O **usuário** clica no ícone de engrenagem no canto superior da **aba** </br> O **usuário** clica no **campo** "Perfil", <br> **Duolingo** direciona para a **interface** de **perfil**.<br> **Usuário** clica no campo "E-mail".<br> **Usuário** altera o e-mail. <br> **Usuário** retorna a **aba** anterior.<br> **Usuário** clica em "PRONTO" no campo superior da **aba**. |
+| Restrição  |Não há| 
+| Exceção  | Queda de internet antes de concluir a troca de senha,<br> O aparelho celular não funcionar corretamente, <br> O **usuário** não saber a senha atual |
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+## CN22 - Perder coração
+
+Na Tabela 23 está detalhada a CN22, que descreve como o **usuário** perde corações.
+
+<center>
+
+### Tabela 23 - CN22
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Perder **coração** |
+| Objetivo  |   Descrever como o **usuário** perde um **coração** |
+| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado , estar **logado** em uma **conta** e ter **corações** suficientes |
+| Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
+| Atores  | O **usuário** do **Duolingo** |
+| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão** erroneamente.<br>**Duolingo** desconta um **coração**.<br>**Usuário** termina a **lição**.<br>**Duolingo** mostra o **desempenho**.   |
+| Restrição  |Não há| 
+| Exceção  | Queda de internet antes de concluir a lição.<br> O aparelho celular não funcionar corretamente. |
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+## CN23 - Impedir o usuário de concluir lição
+
+Na Tabela 24 está detalhada a CN23, que descreve como o **usuário** é impedido de concluir uma **lição**.
+
+<center>
+
+### Tabela 24 - CN23
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Impedir o **usuário** de concluir **lição** |
+| Objetivo  |   Descrever como o **usuário** é expulso de uma **lição**. |
+| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado , estar **logado** em uma **conta** e ter só 1 **coração** restante.  |
+| Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
+| Atores  | O **usuário** do **Duolingo** |
+| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão** erroneamente.<br>**Duolingo** desconta um **coração**.<br> Numero de corações chega a zero.<br>**Usuário** é impedido de concluir a **lição**.   |
+| Restrição  |Não há| 
+| Exceção  | Queda de internet antes de concluir a lição.<br> O aparelho celular não funcionar corretamente. |
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Julio Roberto](https://github.com/JulioR2022), 2024
+
+</center>
+
+## CN23 - Acessar coleções
+
+Na Tabela 24 está detalhada a CN23, que descreve como Acessar **coleções**.
+
+<center>
+
+### Tabela 24 - CN23
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Acessar **coleções** |
+| Objetivo  | Visualizar as **coleções** do **usuário**|
+| Contexto  | Local: Em casa <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado e estar **logado** em uma **conta** |
+| Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
+| Atores  | O **usuário** do **Duolingo** |
+| Episódios | O **usuário** deseja acessar as suas **coleções**, <br> O **usuário** pega o celular, <br>O **usuário** abre o **Duolingo**, <br> O **Usuário** seleciona a **aba** de **praticar** </br> O **usuário** clica no retângulo referente a uma das **coleções** </br> O **usuário** dependendo da sua escolha consegue visualizar ou o seu conjunto de **erros**, ou as palavras aprendidas até o momento ou as **histórias** disponíveis.<br>|
+| Restrição  | O **usuário** deve ter realiza ao menos uma lição para o curso selecionado.| 
+| Exceção  | Queda de internet antes do **usuário** selecionar uma **coleção**,<br> O aparelho celular não funcionar corretamente<br>|
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Julio Roberto](https://github.com/JulioR2022), 2024
+
+## CN24 - Acessar conquistas
+
+Na Tabela 25 está detalhada o CN24, que descreve como acessar a **aba** de **conquistas** no Duolingo.
+
+<center>
+
+### Tabela 25 - CN24
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Acessar **conquistas** |
+| Objetivo  | Acessar a aba de **conquistas** adquiridas pelo **usuário**, ao concluir um marco de aprendizado |
+| Contexto  | Local: Em casa <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado e estar **logado** em uma **conta** |
+| Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
+| Atores  | O **usuário** do **Duolingo** |
+| Episódios | O **usuário** deseja acessar suas **conquistas** no Duolingo. <br> O usuário acessa o Duolingo. <br> O usuário abre a aba de perfil. <br> O usuário vai até a seção de conquistas e aperta em "Ver Todas". <br> O Duolingo apresenta todas as **conquistas** do **usuário** |
+| Restrição  | O **usuário** ter alguma conquista | 
+| Exceção  | Queda de internet antes de concluir a troca de senha,<br> O aparelho celular não funcionar corretamente, <br> O **usuário** não ter nenhuma conquista |
+
+**Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Julio Roberto](https://github.com/JulioR2022), 2024
 
 </center>
 
@@ -468,5 +633,6 @@ Na Tabela 19 está detalhada a CN18, que descreve o processo de sair de uma cont
 | 13/08/2024 | 1.0 | Criação do documento e junção dos cenários | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022) |
 | 14/08/2024 | 1.1 | Adição da rastreabilidade | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 | 14/08/2024 | 1.2 | Ajuste do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022) |
+| 14/08/2024 | 1.3 | Adição do CN19, CN20, CN21, CN22, CN23, CN24.<br>Ajustes no documento. | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 
 </center>
