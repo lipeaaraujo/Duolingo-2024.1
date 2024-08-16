@@ -147,8 +147,8 @@ Na tabela 6 está determinado a CN5 , que descreve como o usuário pode praticar
 | Recursos  |  Aplicativo **Duolingo**.<br>Dispositivo celulares e semelhantes.<br> Acesso à internet. |
 | Atores  | O **usuário** do **Duolingo**       |
 | Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão**.<br>**Duolingo** mostra um **pop-up** de **feedback**.<br>**Usuário** termina a **lição**.<br>**Duolingo** mostra o **desempenho**.      |
-| Restrição  |  A **lição** estar disponível. <br> O **usuário** ter **corações** suficientes |
-| Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente. <br>  A **lição** não estar disponível. <br> O **usuário** não ter **corações** suficientes |
+| Restrição  |  A **lição** estar disponível. <br> O **usuário** ter **vidas** suficientes |
+| Exceção  | Queda de internet antes de concluir a **lição**.<br> O aparelho celular não funcionar corretamente. <br>  A **lição** não estar disponível. <br> O **usuário** não ter **vidas** suficientes |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), 2024
 
@@ -522,9 +522,9 @@ Na Tabela 22 está detalhada a CN21, que descreve como trocar o e-mail da **cont
 
 </center>
 
-## CN22 - Perder coração
+## CN22 - Perder vida
 
-Na Tabela 23 está detalhada a CN22, que descreve como o **usuário** perde corações.
+Na Tabela 23 está detalhada a CN22, que descreve como o **usuário** perde vidas.
 
 <center>
 
@@ -532,12 +532,12 @@ Na Tabela 23 está detalhada a CN22, que descreve como o **usuário** perde cora
 
 | Elemento | Descrição     |
 |----------|---------------------|
-| Titulo  | Perder **coração** |
-| Objetivo  |   Descrever como o **usuário** perde um **coração** |
-| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado , estar **logado** em uma **conta** e ter **corações** suficientes |
+| Titulo  | Perder **vida** |
+| Objetivo  |   Descrever como o **usuário** perde uma **vida** |
+| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado , estar **logado** em uma **conta** e ter **vidas** suficientes |
 | Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
 | Atores  | O **usuário** do **Duolingo** |
-| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão** erroneamente.<br>**Duolingo** desconta um **coração**.<br>**Usuário** termina a **lição**.<br>**Duolingo** mostra o **desempenho**.   |
+| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão** erroneamente.<br>**Duolingo** desconta uma **vida**.<br>**Usuário** termina a **lição**.<br>**Duolingo** mostra o **desempenho**.   |
 | Restrição  |Não há| 
 | Exceção  | Queda de internet antes de concluir a lição.<br> O aparelho celular não funcionar corretamente. |
 
@@ -557,10 +557,10 @@ Na Tabela 24 está detalhada a CN23, que descreve como o **usuário** é impedid
 |----------|---------------------|
 | Titulo  | Impedir o **usuário** de concluir **lição** |
 | Objetivo  |   Descrever como o **usuário** é expulso de uma **lição**. |
-| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado , estar **logado** em uma **conta** e ter só 1 **coração** restante.  |
+| Contexto  | Local: Na praia <br>  Pré-condições: Ter acesso a internet, ter o aplicativo instalado , estar **logado** em uma **conta** e ter só 1 **vida** restante.  |
 | Recursos  | Aplicativo **Duolingo**, <br> Dispositivo celulares e semelhantes. <br> Acesso à internet. |
 | Atores  | O **usuário** do **Duolingo** |
-| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão** erroneamente.<br>**Duolingo** desconta um **coração**.<br> Numero de corações chega a zero.<br>**Usuário** é impedido de concluir a **lição**.   |
+| Episódios | O **usuário** deseja fazer uma **lição**.<br>O **usuário** pega o celular.<br>**Usuário** abre o **Duolingo**.<br>**Usuário** seleciona **lição** desejada.<br>**Usuário** clica na opção "Começar".<br> O **Duolingo** inicia a **lição**.</br> **Usuario** responde uma **questão** erroneamente.<br>**Duolingo** desconta uma **vida**.<br> Numero de vidas chega a zero.<br>**Usuário** é impedido de concluir a **lição**.   |
 | Restrição  |Não há| 
 | Exceção  | Queda de internet antes de concluir a lição.<br> O aparelho celular não funcionar corretamente. |
 
@@ -633,6 +633,6 @@ Na Tabela 25 está detalhada o CN24, que descreve como acessar a **aba** de **co
 | 13/08/2024 | 1.0 | Criação do documento e junção dos cenários | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022) |
 | 14/08/2024 | 1.1 | Adição da rastreabilidade | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 | 14/08/2024 | 1.2 | Ajuste do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022) |
-| 14/08/2024 | 1.3 | Adição do CN19, CN20, CN21, CN22, CN23, CN24.<br>Ajustes no documento. | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+| 16/08/2024 | 1.3 | Adição do CN19, CN20, CN21, CN22, CN23, CN24.<br>Ajustes no documento. | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 
 </center>

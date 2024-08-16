@@ -44,20 +44,21 @@ Importante ressaltar que este documento, assim como outros do projeto, pode sofr
 
 ### Tabela 03 - Objetos
 
-| Símbolo | Noção | Impacto | Sinônimos |
+| Símbolo | Denotação | Impacto | Sinônimos |
 |---------|-------|---------|-----------|
-| [Aba]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
-| [Árvore de Habilidades]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
-| [Coleções]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
-| [Configurações]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
-| [Conta]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
-| [Conquistas]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
-| [Coração]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Aba]() |Conjunto de elementos visuais logicamente relacionados podendo ser interativos ou não que ocupam a totalidade da tela do aparelho| As abas são usadas para organizar diferentes funcionalidades e conteúdos, como o perfil do **usuário**, as **lições**, as **divisões** e as configurações. O uso de abas permite que o usuário navegue facilmente entre diferentes partes do aplicativo, mantendo uma experiência organizada e eficiente. |Guia, Seção, Página |
+| [Trilha de Aprendizado]() | Denotação: marcação visual da trilha de aprendizagem, lições concluidas, de um **usuário** do Duolingo  | facilita a observação do progresso individual | trilha de progresso, jornada de aprendizado |
+| [Campo]() |Uma área de entrada ou exibição de dados em uma **interface** de **usuário**, onde o **usuário** pode inserir, selecionar ou visualizar informações específicas | Os **campos** facilitam a interação do **usuário** com o sistema, permitindo a coleta e apresentação de dados de maneira estruturada | Termos diferentes que tem significado similar  Área de entrada, Formulário, Box de entrada |
+| [Coleções]() |Reunião ordenada de objetos de mesmo interesse.  | Permite reunir um conjunto de irnforções importantes, como erros, para o aprendizado do usuário. | Conjuntos, repositórios, agrupamentos |
+| [Configurações]() |Um conjunto de opções que permite ao usuário personalizar e ajustar o funcionamento do aplicativo de acordo com suas preferências e necessidades. | As **configurações** são fundamentais para oferecer uma experiência de usuário personalizada, permitindo que cada indivíduo adapte o uso do aplicativo conforme suas necessidades e preferências pessoais.| Preferências, Ajustes, Opções |
+| [Conta]() | Registro de um usuário em uma plataforma ou serviço online | Permite personalizar a experiência com base nas preferências do usuário | Cadastro, login |
+| [Conquistas]() | Conjunto de metas alcançadas, metas estas definidas pelo **Duolingo**. | Auxilia o **usuário** a construir um sentimento de sucesso e progresso em seus estudos.  | Metas, objetivos |
 | [Coroa]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
-| [Cristais]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Cristais]() | Denotação: moeda de troca do **Duolingo** | Conotação: permite comprar itens e baús | Moeda, dinheiro |
 | [Curso]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Desempenho]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Divisão]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Erro]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Feedback]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Formulário]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Idioma padrão]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
@@ -75,6 +76,8 @@ Importante ressaltar que este documento, assim como outros do projeto, pode sofr
 | [Recompensas]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Termos de Serviço]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Usuário]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Vida]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), 2024
 
@@ -111,7 +114,7 @@ Importante ressaltar que este documento, assim como outros do projeto, pode sofr
 
 | Símbolo | Noção | Impacto | Sinônimos |
 |---------|-------|---------|-----------|
-| [Bloqueado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
+| [Bloqueado]() | Denotação: Indicação que um conteúdo, lição ou função não está acessível ao usuário no momento | Conotação: O usuário deve concluir  | Termos diferentes que tem significado similar |
 | [Concluído]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Desabilitado]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
 | [Disponível]() | Denotação: o que o termo significa | Conotação: efeito, uso ou ocorrência do termo na aplicação ou o efeito da aplicação sobre o termo | Termos diferentes que tem significado similar |
@@ -138,5 +141,6 @@ Importante ressaltar que este documento, assim como outros do projeto, pode sofr
 | ---- | ------ | --------- | ----- |
 | 15/08/2024 | 1.0 | Criação do documento, introdução e metodologia | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 | 15/08/2024 | 1.1 | Adição das tabelas de objetos, verbos e estados | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 16/08/2024 | 1.2 | Descrição dos objetos, verbos e estados | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 
 </center>
