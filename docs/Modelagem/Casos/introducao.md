@@ -46,6 +46,13 @@ A partir da técnica de observação foi realizada a elaboraçao dos casos de us
 
 </center>
 
+## Referências
+
+1. SILVA, J. UML: Diagrama de Casos de Uso. *Medium*. Disponível em: https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5. Acesso em: 15 ago. 2024.
+2. UNIVERSIDADE DE SÃO PAULO. Aula sobre Casos de Uso. Disponível em: https://edisciplinas.usp.br/pluginfile.php/3720765/course/section/857581/Aula02_CasosDeUso.pdf. Acesso em: 15 ago. 2024.
+3. SOMMERVILLE, I.Engenharia de software. Tradução Ivan Bosnic e Kalinka G. deO. Gonçalves; revisão técnica Kechi Hirama–. [S.l.]: São Paulo: Pearson Prentice Hall,2011.
+
+
 ## Histórico de Versão
 
 <center>
@@ -53,6 +60,7 @@ A partir da técnica de observação foi realizada a elaboraçao dos casos de us
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 14/08/2024 | 1.0 | Criação do documento | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 15/08/2024 | 1.1 | Adição das referências | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 
 </center>
 
