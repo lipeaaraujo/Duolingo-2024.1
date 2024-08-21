@@ -68,3 +68,4 @@ nav:
       - Cenários Finais: Modelagem/Cenarios/cenariosFinais.md
   - Modelagem Ágil:
     - Product Backlog: ModelagemAgil/product-backlog.md
+    - Priorização das Histórias de Usuário: ModelagemAgil/priorizacao-historias.md
