@@ -46,7 +46,7 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | RF01 | MM01 | O aplicativo deve oferecer uma variedade de idiomas e cursos |
 | RF02 | MM02 | Os cursos oferecidos devem estar divididos em seções |
 | RF03 | MM03 | As seções devem estar divididas em unidades |
-| RF04 | MM04 | As unidades devem estar divididas em lições |
+| RF04 | MM04 | As unidades devem estar divididas em níveis |
 | RF05 | MM05 | O aplicativo deve dar feedback para o usuário |
 | RF06 | MM06 | O usuário deve ser capaz de criar e gerenciar seu perfil |
 | RF07 | MM07 | O perfil do usuário deve exibir informações importantes |
@@ -60,19 +60,35 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | RF15 | MM15 | O aplicativo deve ter uma loja |
 | RF16 | MM16 | O aplicativo deve suportar compras com dinheiro real |
 | RF17 | MM17 | O aplicativo deve permitir a sincronização com contas de outras plataformas |
+| RF18 | MM18 | o usuário deve ser capaz de gerenciar o seu perfil |
+| RF19 | MM19 | Um nível deve ser dívido em lições |
+| RF20 | MM20 | O usuário deve ser capaz de reportar um problema |
+| RF21 | MM21 | O aplicativo deve fornecer um conjunto de notícias/novidades para o usuario |
+| RF22 | MM22 | O aplicativo permite ao usuário utilizar os seus respectivos itens |
+
+
 
 ### Tabela 02 - Requisitos não-funcionais
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RNF01 | MM18 | O aplicativo deve possuir gamificação |
-| RNF02 | MM19 | As ligas de competição devem suportar muitos usuários simultâneos |
-| RNF03 | MM20 | O aplicativo deve suportar uma grande quantidade de usuários simultâneos |
-| RNF04 | MM21 | As transações de compras dentro do aplicativo devem ser seguras |
-| RNF05 | MM22 | O aplicativo deve possuir uma interface intuitiva |
-| RNF06 | MM23 | O aplicativo deve ter uma navegação simples |
-| RNF07 | MM24 | As lições de curso devem ter conteúdo confiável e verificado |
-| RNF08 | MM25 | O feedback do aplicativo deve ser imediato |
+| RNF01 | MM23 | O aplicativo deve possuir gamificação |
+| RNF02 | MM24 | As ligas de competição devem suportar muitos usuários simultâneos |
+| RNF03 | MM25 | O aplicativo deve suportar uma grande quantidade de usuários simultâneos |
+| RNF04 | MM26 | As transações de compras dentro do aplicativo devem ser seguras |
+| RNF05 | MM27 | O aplicativo deve possuir uma interface intuitiva |
+| RNF06 | MM28 | O aplicativo deve ter uma navegação simples |
+| RNF07 | MM29 | As lições de curso devem ter conteúdo confiável e verificado |
+| RNF08 | MM30 | O feedback do aplicativo deve ser imediato |
+| RNF08 | MM31 | O aplicativo poderá ficar no máxima 24 horas inacessível devido a manutenção |
+| RNF09 | MM32 | O aplicativo deve realizar backups regulares |
+| RNF10 | MM33 | O aplicativo deve realizar a sincronização dos dados em nuvem de forma imediata |
+| RNF11 | MM34 | O aplicativo não deve ocupar mais do que 500 MB de armazenamento |
+| RNF12 | MM35 | As resposta a ações do usuário não podem ultrapassar 1,5 segundo |
+| RNF13 | MM36 | O sistema deve suportar versões anteriores |
+| RNF14 | MM37 | O design deve ser responsivo |
+| RNF15 | MM38 | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo |
+
 
 </center>
 
@@ -102,5 +118,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 19/08/2024 | 1.3 | Adição  e modificações em requisitos | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022) |
 
 </center>

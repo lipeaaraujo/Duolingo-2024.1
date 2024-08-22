@@ -48,24 +48,34 @@ Este documento agrupa todos os requisitos elicitados no projeto, abrangendo toda
 | RF27 | 27 | [AP05](protocolo.md#tabela-01-requisitos-funcionais) | Novas palavras devem ser visualmente destacas e deve-se mostrar a sua tradução |
 | RF28 | 28 | [AP06](protocolo.md#tabela-01-requisitos-funcionais) | Permite pular ou adiar questões de fala e escuta |
 | RF29 | 29 | [AP11](protocolo.md#tabela-01-requisitos-funcionais) | Permite o compartilhamento do perfil e de conquistas |
-| RNF30 | 30 | [BS16](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST13](storytelling.md#tabela-02-requisitos-nao-funcionais) | As lições do aplicativo devem ser interativas |
-| RNF31 | 31 | [BS17](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM25](observacao.md#tabela-02-requisitos-nao-funcionais) | Deve existir um feedback imediato após a realização de uma questão |
-| RNF32 | 32 | [BS18](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST16](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve possuir funcionalidades no modo off-line |
-| RNF33 | 33 | [BS19](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST18](storytelling.md#tabela-02-requisitos-nao-funcionais), [MM18](observacao.md#tabela-02-requisitos-nao-funcionais), [AP17](protocolo.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve ser gamificado |
-| RNF34 | 34 | [BS20](brainstorm.md#tabela-02-requisitos-nao-funcionais) | A maioria das funcionalidades devem ser gratuitas |
-| RNF35 | 35 | [BS21](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM20](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve suportar muitos usuários simultaneamente |
-| RNF36 | 36 | [BS22](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM23](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve apresentar uma navegação simples |
-| RNF37 | 37 | [BS23](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM22](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve apresentar uma interface intuitiva |
-| RNF38 | 38 | [BS24](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST12](storytelling.md#tabela-02-requisitos-nao-funcionais) | As lições devem ser curtas e objetivas |
-| RNF39 | 39 | [BS26](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST14](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve estar disponível a qualquer horário e local |
-| RNF40 | 40 | [ST15](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve estar disponível em diversos tipos de dispositivos |
-| RNF41 | 41 | [ST17](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve ser acessível para qualquer idade |
-| RNF42 | 42 | [ST19](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve estar disponível em diversos idiomas |
-| RNF43 | 43 | [ST20](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve permitir a sincronização de contas em dispositivos diferentes |
-| RNF44 | 44 | [MM21](observacao.md#tabela-02-requisitos-nao-funcionais) | As transações dentro da loja devem ser seguras |
-| RNF45 | 45 | [MM24](observacao.md#tabela-02-requisitos-nao-funcionais), [AP15](protocolo.md#tabela-02-requisitos-nao-funcionais) | As lições devem ter conteúdo confiável e verificado |
-| RNF46 | 46 | [AP14](protocolo.md#tabela-02-requisitos-nao-funcionais) | As mensagens de feedback devem ser claras e objetivas |
-| RNF47 | 47 | [AP16](protocolo.md#tabela-02-requisitos-nao-funcionais) | O design do aplicativo deve ser padronizado |
+| RF30 | 30 | [MM18](observacao.md#tabela-01-requisitos-funcionais) | O usuário deve ser capaz de gerenciar o seu perfil |
+| RF31 | 31 | [MM19](observacao.md#tabela-01-requisitos-funcionais) | Um nível deve ser dívido em lições |
+| RF32 | 32 | [MM20](observacao.md#tabela-01-requisitos-funcionais) | O usuário deve ser capaz de reportar um problema |
+| RF33 | 33 | [MM21](observacao.md#tabela-01-requisitos-funcionais) | O aplicativo deve fornecer um conjunto de notícias/novidades para o usuario |
+| RF34 | 34 | [MM22](observacao.md#tabela-01-requisitos-funcionais) | O aplicativo permite ao usuário utilizar os seus respectivos itens |
+| RNF35 | 35 | [BS16](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST13](storytelling.md#tabela-02-requisitos-nao-funcionais) | As lições do aplicativo devem ser interativas |
+| RNF36 | 36 | [BS17](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM30](observacao.md#tabela-02-requisitos-nao-funcionais) | Deve existir um feedback imediato após a realização de uma questão |
+| RNF37 | 37 | [BS18](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST16](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve possuir funcionalidades no modo off-line |
+| RNF38 | 38 | [BS19](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST18](storytelling.md#tabela-02-requisitos-nao-funcionais), [MM23](observacao.md#tabela-02-requisitos-nao-funcionais), [AP17](protocolo.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve ser gamificado |
+| RNF39 | 39 | [BS20](brainstorm.md#tabela-02-requisitos-nao-funcionais) | A maioria das funcionalidades devem ser gratuitas |
+| RNF40 | 40 | [BS21](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM25](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve suportar muitos usuários simultaneamente |
+| RNF41 | 41 | [BS22](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM28](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve apresentar uma navegação simples |
+| RNF42 | 42 | [BS23](brainstorm.md#tabela-02-requisitos-nao-funcionais), [MM27](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve apresentar uma interface intuitiva |
+| RNF43 | 43 | [BS24](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST12](storytelling.md#tabela-02-requisitos-nao-funcionais) | As lições devem ser curtas e objetivas |
+| RNF44 | 44 | [BS26](brainstorm.md#tabela-02-requisitos-nao-funcionais), [ST14](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve estar disponível 24 horas diárias, 7 dias por semana e em qualquer local |
+| RNF45 | 45 | [ST15](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve estar disponível em diversos tipos de dispositivos, como exemplo, Androids e IOSs|
+| RNF46 | 46 | [ST17](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve ser acessível para qualquer idade |
+| RNF47 | 47 | [ST19](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve estar disponível em diversos idiomas |
+| RNF48 | 48 | [ST20](storytelling.md#tabela-02-requisitos-nao-funcionais) | O aplicativo deve permitir a sincronização de contas em dispositivos diferentes |
+| RNF49 | 49 | [MM26](observacao.md#tabela-02-requisitos-nao-funcionais) | As transações dentro da loja devem ser seguras |
+| RNF50 | 50 | [MM29](observacao.md#tabela-02-requisitos-nao-funcionais), [AP15](protocolo.md#tabela-02-requisitos-nao-funcionais) | As lições devem ter conteúdo confiável e verificado |
+| RNF51 | 51 | [AP14](protocolo.md#tabela-02-requisitos-nao-funcionais) | As mensagens de feedback devem ser claras e objetivas |
+| RNF52 | 52 | [AP16](protocolo.md#tabela-02-requisitos-nao-funcionais) | O design do aplicativo deve ser padronizado |
+| RNF53 | 53 | [MM32](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento |
+| RNF54 | 54 | [MM35](observacao.md#tabela-02-requisitos-nao-funcionais)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo |
+| RNF55 | 55 | [MM36](observacao.md#tabela-02-requisitos-nao-funcionais)  | O sistema deve suportar versões anteriores |
+| RNF56 | 56 | [MM37](observacao.md#tabela-02-requisitos-nao-funcionais)  | O design deve ser responsivo |
+| RNF57 | 57 | [MM38](observacao.md#tabela-02-requisitos-nao-funcionais)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo |
 
 </center>
 
@@ -77,5 +87,6 @@ Este documento agrupa todos os requisitos elicitados no projeto, abrangendo toda
 | ---- | ------ | --------- | ----- |
 | 01/08/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 19/08/2024 | 1.2 | Ajustes no documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022)|
 
 </center>
