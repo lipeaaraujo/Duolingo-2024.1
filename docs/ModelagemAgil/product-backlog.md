@@ -109,15 +109,15 @@ Após a criação do quadro foi feito o detalhamento de cada um dos **Temas**, *
 | T03 | E11 | US31 | Recarregar as vidas | Usuário do Duolingo | Recarregar as vidas que utilizo para praticar lições | Continuar praticando sem precisar esperar | Alta | Implementado |
 | T03 | E12 | US32 | Conquistar pontos de XP das lições e missões | Usuário do Duolingo | Ganhar XP ao completar lições e missões | Aumentar meu nível e desbloquear recompensas | Alta | Implementado |
 | T03 | E12 | US33 | Receber baús com outras recompensas | Usuário do Duolingo | Receber baús com recompensas aleatórias | Aumentar o fator surpresa e me manter engajado | Média | Implementado |
-| T03 | E12 | US34 | Receber troféus de conquistas | Usuário do Duolingo | Ganhar troféus ao completar conquistas importantes | Sentir orgulho das minhas realizações e mostrar para os amigos | Alta | Implementado |
-| T03 | E12 | US35 | Receber recompensas por desafios da ofensiva | Usuário do Duolingo | Receber recompensas ao completar desafios da ofensiva | Manter minha ofensiva ativa e ganhar prêmios | Alta | Implementado |
+| T03 | E12 | US34 | Receber troféus de conquistas | Usuário do Duolingo | Ganhar troféus ao completar conquistas importantes | Sentir orgulho das minhas realizações e mostrar para os amigos | Baixa | Implementado |
+| T03 | E12 | US35 | Receber recompensas por desafios da ofensiva | Usuário do Duolingo | Receber recompensas ao completar desafios da ofensiva | Manter minha ofensiva ativa e ganhar prêmios | Baixa | Implementado |
 | T03 | E13 | US36 | Utilizar um bloqueio de ofensiva | Usuário do Duolingo | Usar um item para manter minha ofensiva caso eu perca um dia | Evitar a perda de progresso e manter a motivação | Alta | Implementado |
 | T03 | E13 | US37 | Manter uma ofensiva pessoal | Usuário do Duolingo | Manter minha ofensiva de estudo ativa diariamente | Aumentar minha disciplina e compromisso com o aprendizado | Alta | Implementado |
 | T03 | E13 | US38 | Manter uma ofensiva com amigos | Usuário do Duolingo | Compartilhar uma ofensiva com amigos e manter o grupo engajado | Tornar o aprendizado mais colaborativo e social | Média | Implementado |
 | T04 | E14 | US39 | Navegação simples | Usuário do Duolingo | Navegar facilmente pelo aplicativo | Focar no aprendizado sem dificuldades técnicas | Alta | Implementado |
 | T04 | E14 | US40 | Acessibilidade por idade | Usuário do Duolingo | Ajustar o aplicativo para diferentes faixas etárias | Facilitar o uso por pessoas de todas as idades | Alta | Implementado |
 | T04 | E14 | US41 | Funcionalidades gratuitas | Usuário do Duolingo | Acessar funcionalidades básicas sem pagar | Aprender sem precisar de uma assinatura premium | Alta | Implementado |
-| T04 | E14 | US42 | Acessar offline | Usuário do Duolingo | Utilizar o aplicativo mesmo sem internet | Continuar estudando em qualquer lugar, mesmo sem conexão | Alta | Implementado |
+| T04 | E14 | US42 | Acessar offline | Usuário do Duolingo | Utilizar o aplicativo mesmo sem internet | Continuar estudando em qualquer lugar, mesmo sem conexão | Média | Implementado |
 | T04 | E14 | US43 | Acessibilidade por idioma | Usuário do Duolingo | Ajustar o aplicativo para o idioma que eu falo | Facilitar o uso para falantes de diversos idiomas | Alta | Implementado |
 | T04 | E14 | US44 | Alterar as preferências de experiência | Usuário do Duolingo | Alterar as configurações do aplicativo de acordo com minhas preferências | Melhorar minha experiência e personalizar o uso do aplicativo | Média | Implementado |
 | T04 | E15 | US45 | Reportar um problema | Usuário do Duolingo | Reportar problemas técnicos ou de usabilidade | Ajudar a melhorar o aplicativo e evitar frustrações futuras | Alta | Implementado |
