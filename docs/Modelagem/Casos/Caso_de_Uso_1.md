@@ -151,6 +151,17 @@ A seguir, as tabelas das especificações de cada Caso de Uso do diagrama criado
 
 </center>
 
+## Gravações
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y79UCbiPNlE?si=VtJ5xOF3ov88pRNy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 1**: Especificação dos casos de uso
+
+**Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)
+
+</center>
 
 ## Histórico de Versão
 
@@ -160,6 +171,8 @@ A seguir, as tabelas das especificações de cada Caso de Uso do diagrama criado
 | ---- | ------ | --------- | ----- |
 | 15/08/2024 | 1.0 | Criação do documento | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 15/08/2024 | 1.1 | Adição das especificações dos casos de uso | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 22/08/2024 | 1.2 | Adição das gravações | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+
 
 </center>
 
