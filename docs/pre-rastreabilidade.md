@@ -43,12 +43,12 @@ Para detalhar mais aspectos sobre o aplicativo, criamos um Rich Picture separado
 ## Gravação
 
 <center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1RdYFLuXDLI?si=WJWoY6rIn_y1Lv4i" title="Realização do Rich Picture das seções" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Vídeo 1**: Realização do Rich Picture das seções
 
 **Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Samuel Alves Silva](https://github.com/samuelalvess) 2024
-
 
 </center>
 

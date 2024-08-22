@@ -39,6 +39,21 @@ Para realizar a análise de protocolo, dividimos a equipe em duas duplas. Uma pe
 **PDF 2**: PDF originado da análise de protocolo da dupla 2
 
 **Autores**:[Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Gabryel Nicolas S de Sousa](https://github.com/gabryelns)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ziTvwHXRAco?si=x0cXPhq7V_uRQrRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 3**: Análise de Protocolo com foco na funcionabilidade de Gerenciamento de Conta
+
+**Autores**: [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)
+
+<iframe src="https://drive.google.com/file/d/1MxKX37Uzt2cmW5HHLQXrnYV_qN4c6-Ie/preview" width="100%" height="600px" style="border: none;"></iframe>
+
+**PDF 3**: Documento gerado a partir da Análise de Protocolo no Video 3
+
+**Autores**: [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)
+
+
+
 </center>
 
 
@@ -112,5 +127,6 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 | 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 14/08/2024 | 1.3 | Adição de uma nova Análise de Protocolo com foco em Gerenciamenteo de Conta | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022)|
 
 </center>
