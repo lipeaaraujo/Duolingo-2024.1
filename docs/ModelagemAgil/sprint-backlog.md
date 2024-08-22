@@ -26,7 +26,7 @@ O **MVP** (Minimum Viable Product) refere-se a versão mais simples e funcional 
 | [US30](product-backlog.md#us30) | Comprar com dinheiro real na loja | Média | Alta |
 | [US31](product-backlog.md#us31) | Recarregar as vidas | Alta | Média |
 | [US32](product-backlog.md#us32) | Conquistar pontos de XP das lições e missões | Alta | Média |
-| [US36](product-backlog.md#us36) | Utilizar um bloqueio de ofensiva | Baixa | Baixa |
+| [US36](product-backlog.md#us36) | Utilizar um bloqueio de ofensiva | Média | Baixa |
 | [US37](product-backlog.md#us37) | Manter uma ofensiva pessoal | Alta | Média |
 | [US41](product-backlog.md#us41) | Funcionalidades gratuitas | Alta | Baixa |
 | [US43](product-backlog.md#us43) | Acessibilidade por idioma | Alta | Baixa |
@@ -46,27 +46,27 @@ Com a definição do **MVP**, as histórias de usuário restantes foram agregada
 
 | ID | Título | Prioridade | Dificuldade |
 |---|---|---|---|
-| [US03](product-backlog#us03) | Adicionar amigos | Alta | Média |
+| [US03](product-backlog#us03) | Adicionar amigos | Média | Média |
 | [US04](product-backlog#us04) | Interagir com amigos | Média | Alta |
 | [US05](product-backlog#us05) | Receber sugestões de amigos | Baixa | Média |
-| [US09](product-backlog#us09) | Sincronizar em diferentes dispositivos | Alta | Média |
+| [US09](product-backlog#us09) | Sincronizar em diferentes dispositivos | Média | Média |
 | [US10](product-backlog#us10) | Salvar várias contas no mesmo dispositivo | Média | Média |
-| [US12](product-backlog#us12) | Personalizar notificações | Alta | Baixa |
-| [US15](product-backlog#us15) | Realizar testes de unidade e seção | Alta | Baixa |
+| [US12](product-backlog#us12) | Personalizar notificações | Média | Baixa |
+| [US15](product-backlog#us15) | Realizar testes de unidade e seção | Média | Baixa |
 | [US17](product-backlog#us17) | Receber desempenho em uma lição | Média | Média |
 | [US19](product-backlog#us19) | Visualizar as coleções de erros, palavras e histórias | Média | Baixa |
 | [US20](product-backlog#us20) | Visualizar as conquistas | Média | Baixa |
 | [US23](product-backlog#us23) | Definir tempo disponível | Média | Baixa |
 | [US24](product-backlog#us24) | Personalizar exercícios de fala e escuta | Média | Média |
-| [US25](product-backlog#us25) | Competir com amigos | Alta | Baixa |
-| [US27](product-backlog#us27) | Realizar missões | Alta | Média |
+| [US25](product-backlog#us25) | Competir com amigos | Média | Baixa |
+| [US27](product-backlog#us27) | Realizar missões | Média | Média |
 | [US28](product-backlog#us28) |  Realizar missões dos amigos | Média | Média |
 | [US33](product-backlog#us33) | Receber baús com outras recompensas | Média | Baixa |
 | [US34](product-backlog#us34) | Receber troféus de conquistas | Baixa | Média |
-| [US35](product-backlog#us35) | Receber recompensas por desafios da ofensiva | Alta | Baixa |
+| [US35](product-backlog#us35) | Receber recompensas por desafios da ofensiva | Média | Baixa |
 | [US38](product-backlog#us38) | Manter uma ofensiva com amigos | Média | Média |
 | [US39](product-backlog#us39) | Navegação simples | Alta | Média |
-| [US40](product-backlog#us40) | Acessibilidade por idade | Alta | Baixa |
+| [US40](product-backlog#us40) | Acessibilidade por idade | Baixa | Baixa |
 | [US42](product-backlog#us42) | Acessar offline | Alta | Média |
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), 2024
@@ -149,6 +149,7 @@ Com base no cronograma as funcionalidades principais definidas no [Minimum Viabl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hiv2Qwk8VjI?si=TEQtBjmJQopcjO8G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Vídeo 1**: Criação do MVP e Incremento
+
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) 2024
 
 </center>
