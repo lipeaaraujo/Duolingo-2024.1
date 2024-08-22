@@ -59,3 +59,18 @@ nav:
     - Priorização de Requisitos:
       - Técnicas:  Elicitacao/priorizacao/tecnicas.md
       - Requisitos Priorizados: Elicitacao/priorizacao/priorizados.md
+  - Modelagem:
+    - Léxico: Modelagem/lexico.md
+    - Cenarios:
+      - Introdução: Modelagem/Cenarios/introducao.md
+      - Cenários - Dupla 1: Modelagem/Cenarios/cenarios1.md
+      - Cenários - Dupla 2: Modelagem/Cenarios/cenarios2.md
+      - Cenários Finais: Modelagem/Cenarios/cenariosFinais.md
+    - Casos de uso:
+      - Introdução: Modelagem/Casos/introducao.md
+      - Diagrama 1: Modelagem/Casos/Caso_de_Uso_1.md
+      - Diagrama 2: Modelagem/Casos/Caso_de_Uso_2.md
+  - Modelagem Ágil:
+    - Product Backlog: ModelagemAgil/product-backlog.md
+    - Priorização das Histórias de Usuário: ModelagemAgil/priorizacao-historias.md
+    - Minimum Viable Product e Sprint Backlog: ModelagemAgil/sprint-backlog.md
