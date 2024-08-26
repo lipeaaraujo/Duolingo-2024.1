@@ -26,6 +26,9 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Apresentações: 
+    - Entrega 1 - 01/08: Apresentacoes/apresentacao1.md
+    - Entrega 2 - 22/08: Apresentacoes/apresentacao2.md
   - Atas: 
     - Reunião 1 - 25/07: atas/ata_25_07-1.md
     - Reunião 1 - 27/07: atas/ata_27_07-1.md
@@ -40,11 +43,11 @@ nav:
     - Reunião 2 - 31/07: atas/ata_31_07-2.md
     - Reunião 1 - 06/08: atas/ata_06_08-1.md
   - Planejamento:
-    - Aplicativo Escolhido: planejamento/app-escolhido.md
-    - Guia de Contribuição: planejamento/guia-contribuicao.md
-    - Ferramentas: planejamento/ferramenta.md
-    - Comunicação: planejamento/comunicacao.md
-    - Cronograma: planejamento/cronograma.md
+    - Aplicativo Escolhido: Planejamento/app-escolhido.md
+    - Guia de Contribuição: Planejamento/guia-contribuicao.md
+    - Ferramentas: Planejamento/ferramenta.md
+    - Comunicação: Planejamento/comunicacao.md
+    - Cronograma: Planejamento/cronograma.md
   - Visão do Produto: visao-produto.md
   - Pré-Rastreabilidade: pre-rastreabilidade.md
   - Elicitação:
@@ -58,3 +61,20 @@ nav:
     - Priorização de Requisitos:
       - Técnicas:  Elicitacao/priorizacao/tecnicas.md
       - Requisitos Priorizados: Elicitacao/priorizacao/priorizados.md
+  - Modelagem:
+    - Léxico: Modelagem/lexico.md
+    - Cenarios:
+      - Introdução: Modelagem/Cenarios/introducao.md
+      - Cenários - Dupla 1: Modelagem/Cenarios/cenarios1.md
+      - Cenários - Dupla 2: Modelagem/Cenarios/cenarios2.md
+      - Cenários Finais: Modelagem/Cenarios/cenariosFinais.md
+    - Casos de uso:
+      - Introdução: Modelagem/Casos/introducao.md
+      - Diagrama 1: Modelagem/Casos/Caso_de_Uso_1.md
+      - Diagrama 2: Modelagem/Casos/Caso_de_Uso_2.md
+    - Especificação suplementar: Modelagem/especificacao.md
+  - Modelagem Ágil:
+    - NFR Framework: ModelagemAgil/nfr-framework.md
+    - Product Backlog: ModelagemAgil/product-backlog.md
+    - Priorização das Histórias de Usuário: ModelagemAgil/priorizacao-historias.md
+    - Minimum Viable Product e Sprint Backlog: ModelagemAgil/sprint-backlog.md
