@@ -72,6 +72,7 @@ nav:
       - Diagrama 1: Modelagem/Casos/Caso_de_Uso_1.md
       - Diagrama 2: Modelagem/Casos/Caso_de_Uso_2.md
     - Especificação suplementar: Modelagem/especificacao.md
+    - iStar: Modelagem/i-estrela.md 
   - Modelagem Ágil:
     - NFR Framework: ModelagemAgil/nfr-framework.md
     - Product Backlog: ModelagemAgil/product-backlog.md
