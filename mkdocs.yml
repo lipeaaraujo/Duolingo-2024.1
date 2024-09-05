@@ -78,25 +78,26 @@ nav:
     - Priorização das Histórias de Usuário: ModelagemAgil/priorizacao-historias.md
     - Minimum Viable Product e Sprint Backlog: ModelagemAgil/sprint-backlog.md
   - Verificação e Validação:
-    - Pré-Rastreabilidade: Verificacao-Validacao/rastreabilidade.md
-    - Elicitação: 
-      - Observação/Introspecção: Verificacao-Validacao/Elicitacao/observacao.md
-      - Brainstorming: Verificacao-Validacao/Elicitacao/brainstorming.md
-      - Análise de Protocolo: Verificacao-Validacao/Elicitacao/protocolo.md
-      - Storytelling: Verificacao-Validacao/Elicitacao/storytelling.md
-    - Priorização:
-      - Three-Level: Verificacao-Validacao/Priorizacao/three-level-scale.md
-      - Moscow:  Verificacao-Validacao/Priorizacao/moscow.md
-    - Modelagem:   
-      - Cenários: Verificacao-Validacao/Modelagem/cenarios.md
-      - Léxicos: Verificacao-Validacao/Modelagem/lexicos.md
-      - Casos de uso: Verificacao-Validacao/Modelagem/casos-de-uso.md
-    - Modelagem ágil:
-      - Especificação Suplementar: Verificacao-Validacao/ModelagemAgil/especificacao.md
-      - NFR Framework:  Verificacao-Validacao/ModelagemAgil/nfr.md
-      - Backlog:  Verificacao-Validacao/ModelagemAgil/backlog.md
-      - Priorização das US: Verificacao-Validacao/ModelagemAgil/priorizacao-us.md
-      - MVP: Verificacao-Validacao/ModelagemAgil/mvp.md
-      - i*: Verificacao-Validacao/ModelagemAgil/istar.md
+    - Verificação:
+      - Pré-Rastreabilidade: Verificacao-Validacao/rastreabilidade.md
+      - Elicitação: 
+        - Observação/Introspecção: Verificacao-Validacao/Elicitacao/observacao.md
+        - Brainstorming: Verificacao-Validacao/Elicitacao/brainstorming.md
+        - Análise de Protocolo: Verificacao-Validacao/Elicitacao/protocolo.md
+        - Storytelling: Verificacao-Validacao/Elicitacao/storytelling.md
+      - Priorização:
+        - Three-Level: Verificacao-Validacao/Priorizacao/three-level-scale.md
+        - Moscow:  Verificacao-Validacao/Priorizacao/moscow.md
+      - Modelagem:   
+        - Cenários: Verificacao-Validacao/Modelagem/cenarios.md
+        - Léxicos: Verificacao-Validacao/Modelagem/lexicos.md
+        - Casos de uso: Verificacao-Validacao/Modelagem/casos-de-uso.md
+        - Especificação Suplementar: Verificacao-Validacao/Modelagem/especificacao.md
+      - Modelagem Ágil:
+        - NFR Framework:  Verificacao-Validacao/ModelagemAgil/nfr.md
+        - Backlog:  Verificacao-Validacao/ModelagemAgil/backlog.md
+        - Priorização das US: Verificacao-Validacao/ModelagemAgil/priorizacao-us.md
+        - MVP: Verificacao-Validacao/ModelagemAgil/mvp.md
+        - iStar: Verificacao-Validacao/ModelagemAgil/istar.md
 
 

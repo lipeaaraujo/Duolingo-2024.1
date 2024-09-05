@@ -1,5 +1,4 @@
 ## Checklist de Validação do Léxico
-Claro! Aqui está a tabela completa, conforme solicitado:
 
 | ID | Descrição | Referência | Status |
 |-----|----------|------------|--------|
@@ -32,6 +31,7 @@ Claro! Aqui está a tabela completa, conforme solicitado:
 
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
-| 04/09/2024 | 1.0 | Criação do documento e realização da verificação | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+| 04/09/2024 | 1.0 | Criação do documento e checklists | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+| 05/09/2024 | 1.1 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 
 </center>
