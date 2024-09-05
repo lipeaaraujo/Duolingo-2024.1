@@ -1,4 +1,6 @@
-## Introdução
+## Intridução
+
+Esse documento tem como objetivo realizar a verificação do artefato [Brainstorming](../../Elicitacao/ElicitacaodeRequisitos/brainstorm.md) a partir do método de inspeção
 
 ## Checklist de Verificação para Elicitação via Brainstorm
 

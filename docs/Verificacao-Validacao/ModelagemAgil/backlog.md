@@ -1,3 +1,6 @@
+## Introdução
+Esse documento tem como objetivo realizar a verificação do artefato [Product Backlog](../../ModelagemAgil/product-backlog.md) a partir do método de inspeção
+
 ## Checklist de Validação do Product Backlog
 
 | ID  | Descrição | Referência | Status |

@@ -1,3 +1,7 @@
+## Introdução
+
+Esse documento tem como objetivo realizar a verificação do artefato [Istar](../../) a partir do método de inspeção
+
 ### Checklist de Verificação para Artefato iStar
 
 | ID  | Descrição | Referência | Status |

@@ -1,3 +1,6 @@
+## Introdução
+Esse documento tem como objetivo realizar a verificação do artefato [Storytelling](../../Elicitacao/ElicitacaodeRequisitos/storytelling.md) a partir do método de inspeção
+
 ## Checklist de Verificação para Elicitação via Storytelling
 
 | ID  | Descrição | Referência | Status |

@@ -1,3 +1,7 @@
+## Introdução
+
+Esse documento tem como objetivo realizar a verificação do artefato [Léxicos](../../Modelagem/lexico.md) a partir do método de inspeção
+
 ## Checklist de Validação do Léxico
 
 | ID | Descrição | Referência | Status |

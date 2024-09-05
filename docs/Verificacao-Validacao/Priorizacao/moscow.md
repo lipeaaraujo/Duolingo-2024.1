@@ -1,3 +1,7 @@
+## Introdução
+
+Esse documento tem como objetivo realizar a verificação do artefato [Moscow](../../Elicitacao/priorizacao/priorizados.md) a partir do método de inspeção
+
 ## Checklist de Verificação
 
 | ID | Descrição | Referência | Status |

@@ -1,3 +1,7 @@
+## Introdução
+
+Esse documento tem como objetivo realizar a verificação do artefato [MVP](../../ModelagemAgil/sprint-backlog.md) a partir do método de inspeção
+
 ## Checklist de Validação do MVP
 Aqui está a tabela atualizada com as referências mapeadas:
 
