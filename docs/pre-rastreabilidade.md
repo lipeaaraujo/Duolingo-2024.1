@@ -11,7 +11,7 @@ A partir da utilização do Duolingo, e com auxílio do lucidspark, conseguimos 
 
 <center>
 
-![Rich Picture](../assets/images/richPicture.png)
+![Rich Picture](assets/images/richPicture.png)
 **Figura 1**: Rich Picture Geral 1.0
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Gabryel Nicolas S de Sousa](https://github.com/gabryelns),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess) 2024
@@ -22,7 +22,7 @@ Com um entendimento melhor das funcionalidades do Duolingo após um maior tempo 
 
 <center>
 
-![Rich Picture](../assets/images/richPictureGeral2.png)
+![Rich Picture](assets/images/richPictureGeral2.png)
 **Figura 2**: Rich Picture Geral 2.0
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), 2024
@@ -33,7 +33,7 @@ Para detalhar mais aspectos sobre o aplicativo, criamos um Rich Picture separado
 
 <center>
 
-![Rich Picture](../assets/images/richPicture2.png)
+![Rich Picture](assets/images/richPicture2.png)
 **Figura 3**: Rich Picture das Seções
 
 **Autores**: [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),[Gabryel Nicolas S de Sousa](https://github.com/gabryelns),[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Samuel Alves Silva](https://github.com/samuelalvess) 2024
