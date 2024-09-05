@@ -23,7 +23,7 @@
 
 <a id="software-engineering">1.</a> Sommerville, I. (2011). Software Engineering (9th Edition). Addison-Wesley.
 
-<a id="requirements engineering">2.</a> [Leite, J. C. S. do Prado, & Franco, A. P. M. (1993). A strategy for conceptual model acquisition. Proceedings of the IEEE International Symposium on Requirements Engineering (RE'93)](https://ieeexplore.ieee.org/document/324853).
+<a id="requirements-engineering">2.</a> [Leite, J. C. S. do Prado, & Franco, A. P. M. (1993). A strategy for conceptual model acquisition. Proceedings of the IEEE International Symposium on Requirements Engineering (RE'93)](https://ieeexplore.ieee.org/document/324853).
 
 ## Histórico de Versão
 

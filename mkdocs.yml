@@ -2,6 +2,10 @@ site_name: Duolingo
 repo_name: "Duolingo-2024.1"
 repo_url: https://github.com/lipeaaraujo/Duolingo-2024.1
 
+markdown_extensions:
+  - toc:
+      permalink: "#"
+
 theme:
   logo: assets/images/duolingo-logo.svg
   favicon: assets/images/duolingo-logo.svg
@@ -71,7 +75,7 @@ nav:
       - Introdução: Modelagem/Casos/introducao.md
       - Diagrama 1: Modelagem/Casos/Caso_de_Uso_1.md
       - Diagrama 2: Modelagem/Casos/Caso_de_Uso_2.md
-    - Especificação suplementar: Modelagem/especificacao.md
+    - Especificação Suplementar: Modelagem/especificacao.md
   - Modelagem Ágil:
     - NFR Framework: ModelagemAgil/nfr-framework.md
     - Product Backlog: ModelagemAgil/product-backlog.md
@@ -79,6 +83,7 @@ nav:
     - Minimum Viable Product e Sprint Backlog: ModelagemAgil/sprint-backlog.md
   - Verificação e Validação:
     - Verificação:
+      - Introdução: Verificacao-Validacao/introducao.md
       - Pré-Rastreabilidade: Verificacao-Validacao/rastreabilidade.md
       - Elicitação: 
         - Observação/Introspecção: Verificacao-Validacao/Elicitacao/observacao.md
