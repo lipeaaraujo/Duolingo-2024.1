@@ -68,5 +68,6 @@ Esse documento tem como objetivo realizar a verificação do artefato [Brainstor
 | ---- | ------ | --------- | ----- |
 | 04/09/2024 | 1.0 | Criação do documento e checklists | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 | 05/09/2024 | 1.1 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+| 06/09/2024 | 1.2 | Adição do status e dos problemas encontrados | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 
 </center>

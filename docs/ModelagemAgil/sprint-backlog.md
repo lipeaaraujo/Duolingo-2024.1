@@ -115,7 +115,7 @@ Com isso, com base também nos dados de **priorização** de cada história, foi
 | [US46](product-backlog.md#us46) | Acessar Central de Ajuda | 3 | Sprint 7 |
 | [US10](product-backlog.md#us10) | Salvar várias contas no mesmo dispositivo | 3 | Sprint 7 |
 | [US03](product-backlog.md#us03) | Adicionar amigos | 5 | Sprint 8 |
-| [US04]inspeção(product-backlog.md#us28) | Realizar missões dos amigos | 3 | Sprint 9 |
+| [US04](product-backlog.md#us28) | Realizar missões dos amigos | 3 | Sprint 9 |
 | [US12](product-backlog.md#us12) | Personalizar notificações | 3 | Sprint 9 |
 | [US15](product-backlog.md#us15) | Realizar testes de unidade e seção | 3 | Sprint 10 |
 | [US24](product-backlog.md#us24) | Personalizar exercícios de fala e escuta | 3 | Sprint 10 | 
