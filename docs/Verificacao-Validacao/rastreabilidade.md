@@ -92,6 +92,12 @@ Esse documento tem como intuito realizar a verificação dos artefatos produzido
 
 </center>
 
+## Problemas Encontrados
+
+- Em alguns momentos foram implementadas operações interagindo diretamente com atores.
+- No Rich Picture das Seções não foram abordados todos os stackholders envolvidos, devido a uma escollha da equipe de simplificar e direcionar a representação.
+- No Rich Picture das Seções não foram abordados todas as principais entidades essenciais á um Rich Picture.
+
 ## Referências
 
 1. MONK, A.; Howard, S. The rich picture: a tool for reasoning about work context. Disponível em: <https://dl.acm.org/doi/10.1145/274430.274434>
@@ -106,6 +112,7 @@ Esse documento tem como intuito realizar a verificação dos artefatos produzido
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 04/09/2024 | 1.0 | Criação do documento |[Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)|
-
+| 06/09/2024 | 1.1 | Adiciona os problemas encontrados |[Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)|
+| 06/09/2024 | 1.2 | Aplicação do CheckList e Especificação de problemas encontrados |[Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)|
 
 </center>
