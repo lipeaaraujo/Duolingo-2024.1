@@ -1,21 +1,23 @@
 # Observação/Introspecção
 
-Neste documento será contemplado o checklist produzido para verificar a qualidade com que foi utilizada a técnica de [observação/introspecção](../../Elicitacao/ElicitacaodeRequisitos/observacao.md) para a elicitação de requisitos de software.
+## Introdução
+
+Neste documento será contemplado o checklist produzido para verificar a qualidade com que foi utilizada a técnica de [Observação/Introspecção](../../Elicitacao/ElicitacaodeRequisitos/observacao.md) para a elicitação de requisitos de software.
 
 <center>
 
-#### Checklist de Verificação para Elicitação via Observação/Introspeccção
+### Checklist de Verificação para Elicitação via Observação/Introspeccção
 
 | ID  | Descrição                                                                                       | Referência | Status |
 |-----|-------------------------------------------------------------------------------------------------|------------|--------| 
-| 1   | O objetivo da observação está claramente definido?                     | [<a href="#contextual-design" style="color: blue;">1</a>](#contextual-design)          |  Atende      |
+| 1   | O objetivo da observação está claramente definido? | [<a href="#contextual-design" style="color: blue;">1</a>](#contextual-design)          |  Atende      |
 | 2   | As atividades observadas foram selecionadas com base na relevância para os requisitos do sistema? |  [<a href="#contextual-design" style="color: blue;">1</a>](#contextual-design)       |     Atende   |
-| 3   | A observação foi realizada em um ambiente natural e sem interferência dos observadores?          | [<a href="#contextual-design" style="color: blue;">1</a>](#contextual-design)          |      Atende  |
+| 3   | A observação foi realizada em um ambiente natural e sem interferência dos observadores? | [<a href="#contextual-design" style="color: blue;">1</a>](#contextual-design)          |      Atende  |
 | 4   | Foram utilizados métodos para minimizar o impacto da presença do observador nas atividades observadas? | [<a href="#software" style="color: blue;">2</a>](#software)      |     Atende   |
-| 5   | As informações coletadas foram documentadas com precisão e de maneira imparcial?                 |  [<a href="#software" style="color: blue;">2</a>](#software)            |     Atende   |
-| 6   | Houve uma análise crítica das atividades observadas, identificando oportunidades de melhoria?     |  [<a href="#software" style="color: blue;">2</a>](#software)          |    Não Atende    |
+| 5   | As informações coletadas foram documentadas com precisão e de maneira imparcial?  |  [<a href="#software" style="color: blue;">2</a>](#software)            |     Atende   |
+| 6   | Houve uma análise crítica das atividades observadas, identificando oportunidades de melhoria? |  [<a href="#software" style="color: blue;">2</a>](#software)          |    Não Atende    |
 | 7   | Foram consideradas variáveis contextuais, como ambiente físico, ferramentas utilizadas e comportamento dos usuários? |  [<a href="#software" style="color: blue;">2</a>](#software)    |   Não Atende     |
-| 8   | As descobertas da observação foram confrontadas com o conhecimento existente para validação?      |  [<a href="#user-stories" style="color: blue;">3</a>](#user-stories)            |    Atende    |
+| 8   | As descobertas da observação foram confrontadas com o conhecimento existente para validação? |  [<a href="#user-stories" style="color: blue;">3</a>](#user-stories)            |    Atende    |
 | 9   | Houve reflexão pessoal (introspecção) sobre as experiências e sentimentos dos usuários observados? | [<a href="#user-stories" style="color: blue;">3</a>](#user-stories)           |      Atende  |
 | 10  | As informações obtidas foram integradas com outras técnicas de elicitação para fornecer uma visão completa dos requisitos? |  [<a href="#software" style="color: blue;">2</a>](#software)    |  Atende      |
 | 11  | Foi utilizado um processo de revisão e validação das observações com os stakeholders?             | [<a href="#contextual-design" style="color: blue;">1</a>](#contextual-design)         |   Atende     |
