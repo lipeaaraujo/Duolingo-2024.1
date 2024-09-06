@@ -1,30 +1,33 @@
 ## Introdução
 
-Esse documento tem como objetivo realizar a verificação do artefato [Istar](../../) a partir do método de inspeção
+Esse documento tem como objetivo realizar a verificação do artefato [Istar](../../ModelagemAgil/i-estrela.md) a partir do método de inspeção
 
 ### Checklist de Verificação para Artefato iStar
 
 | ID  | Descrição | Referência | Status |
 |-----|-----------|------------|--------|
-| 1   | Todos os atores principais (Agentes, Papéis, Grupos) estão claramente identificados e representados no modelo? | [Yu, E. S. K. (1997)](#towards-modelling) |        |
-| 2   | Todos os objetivos, metas e softgoals foram corretamente mapeados? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 3   | As tarefas necessárias para atingir os objetivos estão descritas com clareza? | [Yu, E. S. K. (1997)](#towards-modelling) |        |
-| 4   | As dependências entre os atores estão representadas adequadamente? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 5   | O diagrama é fácil de entender por todas as partes interessadas, incluindo não-técnicos? | [Lapouchnian, A. (2005)](#goal-oriented) |        |
-| 6   | A nomenclatura e os símbolos estão consistentes com as convenções do iStar? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 7   | Existe coerência entre os elementos do modelo, sem contradições ou ambiguidade? | [Yu, E. S. K. (1997)](#towards-modelling) |        |
-| 8   | As relações entre atores e suas contribuições para os objetivos estão claras? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 9   | Cada elemento do modelo iStar (atores, metas, tarefas, recursos) possui uma justificativa clara no contexto do projeto? | [Lapouchnian, A. (2005)](#goal-oriented) |        |
-| 10  | Há rastreabilidade das metas do sistema para requisitos específicos do projeto? | [Yu, E. S. K. (1997)](#towards-modelling) |        |
-| 11  | Os softgoals foram suficientemente detalhados para refletir as qualidades não-funcionais esperadas? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 12  | Os objetivos dos atores estão corretamente definidos e refletidos no modelo? | [Yu, E. S. K. (1997)](#towards-modelling) |        |
-| 13  | Cada ator tem seus objetivos e tarefas claramente identificados? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 14  | As dependências entre os atores estão corretamente modeladas (ex.: dependências de meta, tarefa, recurso, ou softgoal)? | [Yu, E. S. K. (1997)](#towards-modelling) |        |
-| 15  | As interações entre atores refletem o comportamento esperado do sistema? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 16  | As contribuições para a realização de softgoals estão explicitamente representadas? | [Lapouchnian, A. (2005)](#goal-oriented) |        |
-| 17  | As contribuições positivas e negativas entre tarefas, metas e softgoals estão bem estabelecidas? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) |        |
-| 18  | O artefato iStar reflete os cenários reais e necessidades dos stakeholders no projeto Duolingo? | [Yu, E. S. K. (1997)](#towards-modelling) |        |
-| 19  | O modelo foi revisado por diferentes membros da equipe para garantir sua precisão? | [Lapouchnian, A. (2005)](#goal-oriented) |        |
+| 1   | Todos os atores principais (Agentes, Papéis, Grupos) estão claramente identificados e representados no modelo? | [Yu, E. S. K. (1997)](#towards-modelling) | Sim |
+| 2   | Todos os objetivos, metas e softgoals foram corretamente mapeados? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim |
+| 3   | As tarefas necessárias para atingir os objetivos estão descritas com clareza? | [Yu, E. S. K. (1997)](#towards-modelling) | Sim |
+| 4   | As dependências entre os atores estão representadas adequadamente? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim  |
+| 5   | O diagrama é fácil de entender por todas as partes interessadas, incluindo não-técnicos? | [Lapouchnian, A. (2005)](#goal-oriented) | Sim  |
+| 6   | A nomenclatura e os símbolos estão consistentes com as convenções do iStar? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim |
+| 7   | Existe coerência entre os elementos do modelo, sem contradições ou ambiguidade? | [Yu, E. S. K. (1997)](#towards-modelling) | Sim |
+| 8   | As relações entre atores e suas contribuições para os objetivos estão claras? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim  |
+| 9   | Cada elemento do modelo iStar (atores, metas, tarefas, recursos) possui uma justificativa clara no contexto do projeto? | [Lapouchnian, A. (2005)](#goal-oriented) | Sim |
+| 10  | Há rastreabilidade das metas do sistema para requisitos específicos do projeto? | [Yu, E. S. K. (1997)](#towards-modelling) | Não |
+| 11  | Os softgoals foram suficientemente detalhados para refletir as qualidades não-funcionais esperadas? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim |
+| 12  | Os objetivos dos atores estão corretamente definidos e refletidos no modelo? | [Yu, E. S. K. (1997)](#towards-modelling) | Sim|
+| 13  | Cada ator tem seus objetivos e tarefas claramente identificados? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim  |
+| 14  | As interações entre atores refletem o comportamento esperado do sistema? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim  |
+| 15  | As contribuições para a realização de softgoals estão explicitamente representadas? | [Lapouchnian, A. (2005)](#goal-oriented) | Sim  |
+| 16  | As contribuições positivas e negativas entre tarefas, metas e softgoals estão bem estabelecidas? | [Dalpiaz, F., Franch, X., & Horkoff, J. (2016)](#istar-2.0) | Sim |
+| 17  | O artefato iStar reflete os cenários reais e necessidades dos stakeholders no projeto Duolingo? | [Yu, E. S. K. (1997)](#towards-modelling) | Sim|
+| 18  | O modelo foi revisado por diferentes membros da equipe para garantir sua precisão? | [Lapouchnian, A. (2005)](#goal-oriented) | Sim |
+
+## Problemas Encontrados
+
+- Durante a inspeção foi constatado a ausência da rastreabilidade entre as metas do sistema e os requisitos elicitados durante o processo de elicitação.
 
 ## Referências
 

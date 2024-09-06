@@ -2,10 +2,13 @@
 
 ## **1- Introdução**
 Este documento descreve as especificações do projeto de requisitos do Duolingo, buscando definir e descrever todos os requisitos, a especificação suplementar é um documento essencial no processo de desenvolvimento de software, destinado a complementar e expandir as informações fornecidas pelos requisitos funcionais, garantindo que todos os requisitos do sistema sejam comtemplados.
+
 ## **2- Metodologia**
 A metodologia utilizada como base para a criação foi a FURPS+, o acronimo representa Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suportabilidade, utilizando tabelas e topicos que descrevem cada um dos topicos da metodologia utilizada.
+
 ## **3- Funcionalidade**
-Os requisitos funcionais estão bem definidos e especificados nos [cenários]()
+Os requisitos funcionais estão bem definidos e especificados nos [cenários](../Modelagem/Cenarios/cenariosFinais.md) e nos [Casos de Uso](../Modelagem/Casos/introducao.md)
+
 ## **4- Usabilidade**
 
 <center>
