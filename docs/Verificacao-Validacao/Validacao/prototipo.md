@@ -66,7 +66,3 @@ No embed abaixo, você pode visualizar e interagir com o protótipo desenvolvido
 | 08/09/2024 | 1.1    | Adição das figura das telas e do embed do protótipo | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>
-
----
-
-Essas alterações visam melhorar a clareza e a fluidez do texto, mantendo seu conteúdo essencial.
