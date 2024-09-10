@@ -75,11 +75,11 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RNF50 | 50 | [MM29](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais), [AP15](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | As lições devem ter conteúdo confiável e verificado | Alta Prioridade |
 | RNF51 | 51 | [AP14](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | As mensagens de feedback devem ser claras e objetivas | Alta Prioridade |
 | RNF52 | 52 | [AP16](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | O design do aplicativo deve ser padronizado | Média Prioridade |
-| RNF53 | 53 | [MM32](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | Média Prioridade |
-| RNF54 | 54 | [MM35](observacao.md#tabela-02-requisitos-nao-funcionais)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | Alta Prioridade |
-| RNF55 | 55 | [MM36](observacao.md#tabela-02-requisitos-nao-funcionais)  | O sistema deve suportar versões anteriores | Média Prioridade|
-| RNF56 | 56 | [MM37](observacao.md#tabela-02-requisitos-nao-funcionais)  | O design deve ser responsívo | Média Prioridade |
-| RNF57 | 57 | [MM38](observacao.md#tabela-02-requisitos-nao-funcionais)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo | Média Prioridade |
+| RNF53 | 53 | [MM32](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | Média Prioridade |
+| RNF54 | 54 | [MM35](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | Alta Prioridade |
+| RNF55 | 55 | [MM36](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | O sistema deve suportar versões anteriores | Média Prioridade|
+| RNF56 | 56 | [MM37](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | O design deve ser responsívo | Média Prioridade |
+| RNF57 | 57 | [MM38](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo | Média Prioridade |
 
 ### Tabela 02 - Requisitos Priorizados pelo MoSCoW
 
@@ -137,11 +137,11 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RNF50 | 50  | [MM24](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais), [AP15](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | As lições devem ter conteúdo confiável e verificado                      | M    |
 | RNF51 | 51  | [AP14](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | As mensagens de feedback devem ser claras e objetivas                    | M    |
 | RNF52 | 52  | [AP16](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | O design do aplicativo deve ser padronizado                              | S    |
-| RNF53 | 53 | [MM32](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | S |
-| RNF54 | 54 | [MM35](observacao.md#tabela-02-requisitos-nao-funcionais)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | M |
-| RNF55 | 55 | [MM36](observacao.md#tabela-02-requisitos-nao-funcionais)  | O sistema deve suportar versões anteriores | S |
-| RNF56 | 56 | [MM37](observacao.md#tabela-02-requisitos-nao-funcionais)  | O design deve ser responsívo | S |
-| RNF57 | 57 | [MM38](observacao.md#tabela-02-requisitos-nao-funcionais)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo | S |
+| RNF53 | 53 | [MM32](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | S |
+| RNF54 | 54 | [MM35](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | M |
+| RNF55 | 55 | [MM36](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | O sistema deve suportar versões anteriores | S |
+| RNF56 | 56 | [MM37](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | O design deve ser responsívo | S |
+| RNF57 | 57 | [MM38](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo | S |
 
 
 ### Tabela 03 - Resultado da Priorização
@@ -200,11 +200,11 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RNF50 | 50 | [MM24](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais), [AP15](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | As lições devem ter conteúdo confiável e verificado | Alta Prioridade, M |
 | RNF51 | 51 | [AP14](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | As mensagens de feedback devem ser claras e objetivas | Alta Prioridade, M |
 | RNF52 | 52 | [AP16](../ElicitacaodeRequisitos/protocolo.md#tabela-02-requisitos-nao-funcionais) | O design do aplicativo deve ser padronizado | Média Prioridade, S |
-| RNF53 | 53 | [MM32](observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | Média Prioridade, S |
-| RNF54 | 54 | [MM35](observacao.md#tabela-02-requisitos-nao-funcionais)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | Alta Prioridade, M |
-| RNF55 | 55 | [MM36](observacao.md#tabela-02-requisitos-nao-funcionais)  | O sistema deve suportar versões anteriores | Média Prioridade, S|
-| RNF56 | 56 | [MM37](observacao.md#tabela-02-requisitos-nao-funcionais)  | O design deve ser responsívo | Média Prioridade, S |
-| RNF57 | 57 | [MM38](observacao.md#tabela-02-requisitos-nao-funcionais)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo | Média Prioridade, S |
+| RNF53 | 53 | [MM32](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | Média Prioridade, S |
+| RNF54 | 54 | [MM35](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | Alta Prioridade, M |
+| RNF55 | 55 | [MM36](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | O sistema deve suportar versões anteriores | Média Prioridade, S|
+| RNF56 | 56 | [MM37](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | O design deve ser responsívo | Média Prioridade, S |
+| RNF57 | 57 | [MM38](../ElicitacaodeRequisitos/observacao.md#tabela-02-requisitos-nao-funcionais)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo | Média Prioridade, S |
 
 
 </center>

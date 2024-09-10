@@ -6,7 +6,7 @@ O NFR (Non-Functional Requirements) Framework é uma abordagem para identificar,
 
 ## Metodologia
 
-A partir dos [requisitos não funcionais](../Elicitacao/priorizacao/priorizados.md#Tabela-03-Resultado-da-Priorizacao) requisitados, foi realizada uma análise aprofundada para entender e documentar os principais aspectos críticos do sistema. Essa análise incluiu a revisão e a classificação dos requisitos em categorias como segurança,usabilidade e design.
+A partir dos [requisitos não funcionais](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) requisitados, foi realizada uma análise aprofundada para entender e documentar os principais aspectos críticos do sistema. Essa análise incluiu a revisão e a classificação dos requisitos em categorias como segurança,usabilidade e design.
 
 ## NFR Framework
 
@@ -14,7 +14,7 @@ A partir dos [requisitos não funcionais](../Elicitacao/priorizacao/priorizados.
 
 **Imagem 1** - NFR de Design e Usabilidade  
 
-![NFR](../../assets/images/NFR-Design-Usabilidade.jpeg)
+![NFR](../assets/images/NFR-Design-Usabilidade.jpeg)
 
 **Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022)
 
@@ -24,15 +24,19 @@ A partir dos [requisitos não funcionais](../Elicitacao/priorizacao/priorizados.
 
 **Imagem 2** - NFR de Segurança 
 
-![NFR](../../assets/images/NFR-Segurança.jpeg)
+![NFR](../assets/images/NFR-Segurança.jpeg)
 
 **Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022)
 
 </center>
 
-**Documento 1** - Link para acessar os modelos produzidos:  [NFR Framework](https://lucid.app/lucidspark/a4e9f445-64c9-4dbe-9634-9de9d57d31ab/edit?viewport_loc=-174%2C-1031%2C3456%2C1663%2C0_0&invitationId=inv_c5256f5d-b14d-48d3-b27b-6dc1738f76ab)
+## **Link dos diagramas gerados**  
+
+<center>
+Link para acessar os modelos produzidos:  [NFR Framework](https://lucid.app/lucidspark/a4e9f445-64c9-4dbe-9634-9de9d57d31ab/edit?viewport_loc=-174%2C-1031%2C3456%2C1663%2C0_0&invitationId=inv_c5256f5d-b14d-48d3-b27b-6dc1738f76ab)
 
 **Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022)
+</center>
 
 
 

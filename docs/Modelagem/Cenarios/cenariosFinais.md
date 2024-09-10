@@ -10,22 +10,22 @@ Durante a reunião gravada, foram também levantados requisitos novos de autoria
 
 | ID   | Titulo                                    | Rastreabilidade |
 |------|-------------------------------------------|-----------------|
-| CN1  | Escolher [curso](../lexico.md#curso) | [Dupla 1](cenarios1.md#cn1-escolha-de-um-idioma), [Dupla 2](cenarios2.md#cn1---escolher-curso) |
-| CN2  | [Revisar](../lexico.md#revisar) [nível](../lexico.md#nivel) | [Dupla 1](cenarios1.md#cn2---refazer-lição) |
-| CN3  | [Cadastrar](../lexico.md#cadastrar) [conta](../lexico.md#conta) | [Dupla 1](cenarios1.md#cn3---cadastro-de-conta) |
-| CN4  | [Excluir](../lexico.md#excluir) [conta](../lexico.md#conta) | [Dupla 2](cenarios2.md#cn5---excluir-a-conta) |
-| CN5  | [Praticar](../lexico.md#praticar) [lição](../lexico.md#licao) | [Dupla 1](cenarios1.md#cn4---fazer-lições), [Dupla 2](cenarios2.md#cn6---fazer-lições) |
-| CN6  | Acompanhar [progresso](../lexico.md#progresso) | [Dupla 1](cenarios1.md#cn5---acompanhamento-de-progresso), [Dupla 2](cenarios2.md#cn8---monitorar-o-progresso) |
-| CN7  | [Personalizar](../lexico.md#personalizar) [perfil](../lexico.md#perfil) | [Dupla 2](cenarios2.md#cn4---personalizar-a-conta) |
-| CN8  | [Personalizar](../lexico.md#personalizar) o aplicativo | [Dupla 1](cenarios1.md#cn6---personalização--às-necessidades-do-usuário), [Dupla 2](cenarios2.md#cn9---personalizar-o-aplicativo) |
-| CN9  | Receber [notificações](../lexico.md#notificacao) | [Dupla 2](cenarios2.md#cn10---receber-notificações) |
-| CN10 | Concluir [missão](../lexico.md#missao) | [Dupla 2](cenarios2.md#cn11---realizar-missões) |
-| CN11 | Conquistar [recompensa](../lexico.md#recompensas) | [Dupla 2](cenarios2.md#cn12---receber-recompensas) |
-| CN12 | Competir em uma [divisão](../lexico.md#divisao) | [Dupla 2](cenarios2.md#cn13---competir-em-uma-divisão) |
-| CN13 | Manter uma [ofensiva](../lexico.md#ofensiva) | [Dupla 2](cenarios2.md#cn14---manter-uma-ofensiva) |
-| CN14 | [Comprar](../lexico.md#comprar) na [loja](../lexico.md#loja) | [Dupla 1](cenarios1.md#cn8---fazer-compra-na-loja), [Dupla 2](cenarios2.md#cn15---utilizar-a-loja) |
-| CN15 | [Navegar](../lexico.md#navegar) entre [interfaces](../lexico.md#interface) | [Dupla 2](cenarios2.md#cn16---navegar-entre-interfaces) |
-| CN16 | Escolher o [idioma padrão](../lexico.md#idioma-padrao) | [Dupla 1](cenarios1.md#cn7---escolher-o-idioma-base-do-duolingo) |
+| CN1  | Escolher [curso](../lexico.md#curso) | [Dupla 1](cenarios1.md#cn1-escolha-de-um-idioma), [Dupla 2](cenarios2.md#cn1-escolher-curso) |
+| CN2  | [Revisar](../lexico.md#revisar) [nível](../lexico.md#nivel) | [Dupla 1](cenarios1.md#cn2-refazer-licao) |
+| CN3  | [Cadastrar](../lexico.md#cadastrar) [conta](../lexico.md#conta) | [Dupla 1](cenarios1.md#cn3-cadastro-de-conta) |
+| CN4  | [Excluir](../lexico.md#excluir) [conta](../lexico.md#conta) | [Dupla 2](cenarios2.md#cn5-excluir-a-conta) |
+| CN5  | [Praticar](../lexico.md#praticar) [lição](../lexico.md#licao) | [Dupla 1](cenarios1.md#cn4-fazer-licoes), [Dupla 2](cenarios2.md#cn6-fazer-licoes) |
+| CN6  | Acompanhar [progresso](../lexico.md#progresso) | [Dupla 1](cenarios1.md#cn5-acompanhamento-de-progresso), [Dupla 2](cenarios2.md#cn8-monitorar-o-progresso) |
+| CN7  | [Personalizar](../lexico.md#personalizar) [perfil](../lexico.md#perfil) | [Dupla 2](cenarios2.md#cn4-personalizar-a-conta) |
+| CN8  | [Personalizar](../lexico.md#personalizar) o aplicativo | [Dupla 1](cenarios1.md#cn6-personalizacao-as-necessidades-do-usuario), [Dupla 2](cenarios2.md#cn9-personalizar-o-aplicativo) |
+| CN9  | Receber [notificações](../lexico.md#notificacao) | [Dupla 2](cenarios2.md#cn10-receber-notificacoes) |
+| CN10 | Concluir [missão](../lexico.md#missao) | [Dupla 2](cenarios2.md#cn11-realizar-missoes) |
+| CN11 | Conquistar [recompensa](../lexico.md#recompensas) | [Dupla 2](cenarios2.md#cn12-receber-recompensas) |
+| CN12 | Competir em uma [divisão](../lexico.md#divisao) | [Dupla 2](cenarios2.md#cn13-competir-em-uma-divisao) |
+| CN13 | Manter uma [ofensiva](../lexico.md#ofensiva) | [Dupla 2](cenarios2.md#cn14-manter-uma-ofensiva) |
+| CN14 | [Comprar](../lexico.md#comprar) na [loja](../lexico.md#loja) | [Dupla 1](cenarios1.md#cn8-fazer-compra-na-loja), [Dupla 2](cenarios2.md#cn15-utilizar-a-loja) |
+| CN15 | [Navegar](../lexico.md#navegar) entre [interfaces](../lexico.md#interface) | [Dupla 2](cenarios2.md#cn16-navegar-entre-interfaces) |
+| CN16 | Escolher o [idioma padrão](../lexico.md#idioma-padrao) | [Dupla 1](cenarios1.md#cn7-escolher-o-idioma-base-do-duolingo) |
 | CN17 | [Logar](../lexico.md#logar) no Duolingo | Após junção |
 | CN18 | [Deslogar](../lexico.md#deslogar) da [conta](../lexico.md#conta) | Após junção |
 | CN19 | Utilizar [bloqueio de ofensiva](../lexico.md#bloqueio-de-ofensiva) | Após junção |

@@ -96,6 +96,7 @@ Importante ressaltar que este documento, assim como outros do projeto, pode sofr
 |---------|-------|---------|-----------|
 | <a id="aprender">Aprender</a> | Refere-se ao ato de adquirir conhecimento ou habilidade em um novo idioma através de [lições](#licao), exercícios e atividades na plataforma | O objetivo central do Duolingo, onde o [usuário](#usuario) progride em seu [aprendizado](#aprender) de idiomas por meio de conteúdo interativo e [feedback](#feedback) instantâneo | Estudar, Absorver, Dominar |
 | <a id="cadastrar">Cadastrar</a> | Ato de criar uma nova [conta](#conta) em plataformas e serviços | Permite que o [usuário](#usuario) usufrua das funcionalidades da plataforma/serviço | Registrar |
+| <a id="competir">Competir</a> | Refere-se à participação do [usuário](#usuario) em [ligas](#liga), desafios ou competições dentro da plataforma Duolingo, visando se destacar entre outros [usuários](#usuario) em termos de progresso ou pontos | Promove a motivação do [usuário](#usuario) ao engajá-lo em uma dinâmica de competição saudável, incentivando o uso contínuo e o avanço no aprendizado | Disputar, Concorrer, Competição |
 | <a id="comprar">Comprar</a> | Trocar [cristais](#cristais) por itens na loja | No Duolingo, é utilizado para fornecer itens que melhoram a experiência do [usuário](#usuario) | Escambo, Troca, Obter |
 | <a id="configurar">Configurar</a> | Ajustar preferências pessoais, como notificações, idioma, ou aparência do aplicativo | Permite ao [usuário](#usuario) [personalizar](#personalizar) a experiência de uso, tornando a plataforma mais adequada às suas necessidades e hábitos | Ajustar, Personalizar, Definir |
 | <a id="desbloquear">Desbloquear</a> | Ato de tornar acessível um conteúdo ou funcionalidade que estava inicialmente restrito ou inacessível | Incentiva o [progresso](#progresso), recompensando o [usuário](#usuario) por completar [lições](#licao) ou alcançar metas, e permitindo o acesso a novos desafios ou áreas de aprendizado | Liberar, Acessar, Abrir |
@@ -146,5 +147,6 @@ Importante ressaltar que este documento, assim como outros do projeto, pode sofr
 | 15/08/2024 | 1.1 | Adição das tabelas de objetos, verbos e estados | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 | 16/08/2024 | 1.2 | Descrição dos objetos, verbos e estados | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 | 17/08/2024 | 1.3 | Adicionando links e alguns termos | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 07/09/2024 | 1.4 | Adicionando verbo "competir" | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>
