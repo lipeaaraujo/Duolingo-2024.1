@@ -50,9 +50,11 @@ O fluxo de tarefas realizadas na entrevista foi:
 - Visualizar as posições e informações na tela de classificação da nova liga
 - Voltar para a tela de ligas disponíveis, observar a nova liga presente e acessá-la novamente
 
-(comportamento e opiniões da usuária)
+A usuária foi capaz de realizar todas as tarefas do fluxo e demonstrou satisfação com a nova funcionalidade, destacou que a interface está intuitiva e que conseguiu realizar as tarefas de forma eficiente
 
 <center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LptN3qdvICo?si=dJyZCa4QavjKTxIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Vídeo 2:** Entrevista 2 de Validação do Protótipo
 
