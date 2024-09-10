@@ -78,3 +78,8 @@ nav:
     - Product Backlog: ModelagemAgil/product-backlog.md
     - Priorização das Histórias de Usuário: ModelagemAgil/priorizacao-historias.md
     - Minimum Viable Product e Sprint Backlog: ModelagemAgil/sprint-backlog.md
+  - Pós-Rastreabilidade:
+    - Baseline: PosRastreabilidade/baseline.md
+    - Backward-From: PosRastreabilidade/backward.md
+    - Forward-From: PosRastreabilidade/forward.md
+    - Elos: PosRastreabilidade/elos.md
