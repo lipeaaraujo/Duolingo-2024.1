@@ -76,7 +76,8 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RNF51 | 51 | [AP14](../ElicitacaodeRequisitos/protocolo.md#ap14) | As mensagens de feedback devem ser claras e objetivas | Alta Prioridade |
 | RNF52 | 52 | [AP16](../ElicitacaodeRequisitos/protocolo.md#ap16) | O design do aplicativo deve ser padronizado | Média Prioridade |
 | RNF53 | 53 | [MM32](../ElicitacaodeRequisitos/observacao.md#mm32) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | Média Prioridade |
-| RNF54 | 54 | [MM35](../ElicitacaodeRequisitos/observacao.md#mm35)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | Alta Prioridade |
+| RNF54 | 54 | [MM35](../ElicitacaodeRequisitos/observacao.md#[MM18](../ElicitacaodeRequisitos/observacao.md#mm18)
+[MM18](../ElicitacaodeRequisitos/observacao.md#mm18)mm35)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | Alta Prioridade |
 | RNF55 | 55 | [MM36](../ElicitacaodeRequisitos/observacao.md#mm36)  | O sistema deve suportar versões anteriores | Média Prioridade|
 | RNF56 | 56 | [MM37](../ElicitacaodeRequisitos/observacao.md#mm37)  | O design deve ser responsívo | Média Prioridade |
 | RNF57 | 57 | [MM38](../ElicitacaodeRequisitos/observacao.md#mm38)  | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo | Média Prioridade |
@@ -98,7 +99,8 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RF11  | 11  | [BS07](../ElicitacaodeRequisitos/brainstorm.md#bs07), [ST08](../ElicitacaodeRequisitos/storytelling.md#st08), [MM05](../ElicitacaodeRequisitos/observacao.md#mm05), [AP04](../ElicitacaodeRequisitos/protocolo.md#ap04), [AP07](../ElicitacaodeRequisitos/protocolo.md#ap07) | O aplicativo deve dar feedback durante a realização das questões         | M    |
 | RF12  | 12  | [BS08](../ElicitacaodeRequisitos/brainstorm.md#bs08), [ST10](../ElicitacaodeRequisitos/storytelling.md#st10) | O usuário deve ser capaz de monitorar seu progresso no curso             | M    |
 | RF13  | 13  | [BS09](../ElicitacaodeRequisitos/brainstorm.md#bs09) | O usuário deve receber notificações                                      | S    |
-| RF14  | 14  | [BS10](../ElicitacaodeRequisitos/brainstorm.md#bs10), [MM09](../ElicitacaodeRequisitos/observacao.md#mm09), [AP10](../ElicitacaodeRequisitos/protocolo.md#ap10) | O aplicativo deve oferecer um sistema de missões ao usuário              | S    |
+| RF14  | 14  | [BS10](../ElicitacaodeRequisitos/brainstorm.md#bs10), [MM09](../ElicitacaodeRequisitos/observacao.md#mm09), [AP10](../ElicitacaodeRequisitos/protocolo.md#ap10) | O aplicativo deve oferecer um sistema de missões ao usuário              | S    |[MM18](../ElicitacaodeRequisitos/observacao.md#mm18)
+[MM18](../ElicitacaodeRequisitos/observacao.md#mm18)
 | RF15  | 15  | [BS11](../ElicitacaodeRequisitos/brainstorm.md#bs11), [MM10](../ElicitacaodeRequisitos/observacao.md#mm10) | O aplicativo deve ter um sistema de recompensas                          | S    |
 | RF16  | 16  | [BS12](../ElicitacaodeRequisitos/brainstorm.md#bs12), [MM14](../ElicitacaodeRequisitos/observacao.md#mm14), [ST07](../ElicitacaodeRequisitos/storytelling.md#st07), [AP09](../ElicitacaodeRequisitos/protocolo.md#ap09) | O aplicativo deve ter um sistema de competição                           | S    |
 | RF17  | 17  | [BS13](../ElicitacaodeRequisitos/brainstorm.md#bs13), [ST04](../ElicitacaodeRequisitos/storytelling.md#st04), [ST05](../ElicitacaodeRequisitos/storytelling.md#st05), [MM08](../ElicitacaodeRequisitos/observacao.md#mm08), [AP13](../ElicitacaodeRequisitos/protocolo.md#ap13) | O aplicativo deve ter um sistema de amizades                             | C    |
@@ -119,25 +121,25 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RF32 | 32 | [MM20](../ElicitacaodeRequisitos/observacao.md#mm20) | O usuário deve ser capaz de reportar um problema | S |
 | RF33 | 33 | [MM21](../ElicitacaodeRequisitos/observacao.md#mm21) | O aplicativo deve fornecer um conjunto de notícias/novidades para o usuario | C |
 | RF34 | 34 | [MM22](../ElicitacaodeRequisitos/observacao.md#mm22) | O aplicativo permite ao usuário utilizar os seus respectivos itens | M |
-| RNF35 | 35  | [BS16](../ElicitacaodeRequisitos/brainstorm.md#bs16), [ST13](../ElicitacaodeRequisitos/storytelling.md#st13) | As lições do aplicativo devem ser interativas                            | S    |
-| RNF36 | 36  | [BS17](../ElicitacaodeRequisitos/brainstorm.md#bs17), [MM25](../ElicitacaodeRequisitos/observacao.md#mm25) | Deve existir um feedback imediato após a realização de uma questão       | S    |
+| RNF35 | 35  | [BS16](../ElicitacaodeRequisitos/brainstorm.md#bs16), [ST13](../EliO usuário deve ser capaz de gerenciar o seu perfilcitacaodeRequisitos/storytelling.md#st13) | As lições do aplicativo devem ser interativas                            | S    |
+| RNF36 | 36  | [BS17](../ElicitacaodeRequisitos/brainstorm.md#bs17), [MM30](../ElicitacaodeRequisitos/observacao.md#mm30) | Deve existir um feedback imediato após a realização de uma questão       | S    |
 | RNF37 | 37  | [BS18](../ElicitacaodeRequisitos/brainstorm.md#bs18), [ST16](../ElicitacaodeRequisitos/storytelling.md#st16) | O aplicativo deve possuir funcionalidades no modo off-line               | C    |
-| RNF38 | 38  | [BS19](../ElicitacaodeRequisitos/brainstorm.md#bs19), [ST18](../ElicitacaodeRequisitos/storytelling.md#st18), [MM18](../ElicitacaodeRequisitos/observacao.md#mm18), [AP17](../ElicitacaodeRequisitos/protocolo.md#ap17) | O aplicativo deve ser gamificado                                         | S    |
+| RNF38 | 38  | [BS19](../ElicitacaodeRequisitos/brainstorm.md#bs19), [ST18](../ElicitacaodeRequisitos/storytelling.md#st18), [MM23](../ElicitacaodeRequisitos/observacao.md#mm23), [AP17](../ElicitacaodeRequisitos/protocolo.md#ap17) | O aplicativo deve ser gamificado                                         | S    |
 | RNF39 | 39  | [BS20](../ElicitacaodeRequisitos/brainstorm.md#bs20) | A maioria das funcionalidades devem ser gratuitas                        | M    |
-| RNF40 | 40  | [BS21](../ElicitacaodeRequisitos/brainstorm.md#bs21), [MM20](../ElicitacaodeRequisitos/observacao.md#mm20) | O aplicativo deve suportar muitos usuários simultaneamente               | S    |
-| RNF41 | 41  | [BS22](../ElicitacaodeRequisitos/brainstorm.md#bs22), [MM23](../ElicitacaodeRequisitos/observacao.md#mm23) | O aplicativo deve apresentar uma navegação simples                       | S    |
-| RNF42 | 42  | [BS23](../ElicitacaodeRequisitos/brainstorm.md#bs23), [MM22](../ElicitacaodeRequisitos/observacao.md#mm22) | O aplicativo deve apresentar uma interface intuitiva                     | S    |
+| RNF40 | 40  | [BS21](../ElicitacaodeRequisitos/brainstorm.md#bs21), [MM25](../ElicitacaodeRequisitos/observacao.md#mm25) | O aplicativo deve suportar muitos usuários simultaneamente               | S    |
+| RNF41 | 41  | [BS22](../ElicitacaodeRequisitos/brainstorm.md#bs22), [MM28](../ElicitacaodeRequisitos/observacao.md#mm28) | O aplicativo deve apresentar uma navegação simples                       | S    |
+| RNF42 | 42  | [BS23](../ElicitacaodeRequisitos/brainstorm.md#bs23), [MM27](../ElicitacaodeRequisitos/observacao.md#mm27) | O aplicativo deve apresentar uma interface intuitiva                     | S    |
 | RNF43 | 43  | [BS24](../ElicitacaodeRequisitos/brainstorm.md#bs24), [ST12](../ElicitacaodeRequisitos/storytelling.md#st12) | As lições devem ser curtas e objetivas                                   | S    |
 | RNF44 | 44  | [BS26](../ElicitacaodeRequisitos/brainstorm.md#bs26), [ST14](../ElicitacaodeRequisitos/storytelling.md#st14) | O aplicativo deve estar disponível a qualquer horário e local            | S    |
 | RNF45 | 45  | [ST15](../ElicitacaodeRequisitos/storytelling.md#st15) |  O aplicativo deve estar disponível em diversos tipos de dispositivos, como exemplo, Androids e IOSs    | S    |
 | RNF46 | 46  | [ST17](../ElicitacaodeRequisitos/storytelling.md#st17) | O aplicativo deve ser acessível para qualquer idade                      | C    |
 | RNF47 | 47  | [ST19](../ElicitacaodeRequisitos/storytelling.md#st19) | O aplicativo deve estar disponível em diversos idiomas                   | M    |
 | RNF48 | 48  | [ST20](../ElicitacaodeRequisitos/storytelling.md#st20) | O aplicativo deve permitir a sincronização de contas em dispositivos diferentes | C    |
-| RNF49 | 49  | [MM21](../ElicitacaodeRequisitos/observacao.md#mm21) | As transações dentro da loja devem ser seguras                           | M    |
-| RNF50 | 50  | [MM24](../ElicitacaodeRequisitos/observacao.md#mm24), [AP15](../ElicitacaodeRequisitos/protocolo.md#ap15) | As lições devem ter conteúdo confiável e verificado                      | M    |
+| RNF49 | 49  | [MM26](../ElicitacaodeRequisitos/observacao.md#mm26) | As transações dentro da loja devem ser seguras                           | M    |
+| RNF50 | 50  | [MM29](../ElicitacaodeRequisitos/observacao.md#mm29), [AP15](../ElicitacaodeRequisitos/protocolo.md#ap15) | As lições devem ter conteúdo confiável e verificado                      | M    |
 | RNF51 | 51  | [AP14](../ElicitacaodeRequisitos/protocolo.md#ap14) | As mensagens de feedback devem ser claras e objetivas                    | M    |
 | RNF52 | 52  | [AP16](../ElicitacaodeRequisitos/protocolo.md#ap16) | O design do aplicativo deve ser padronizado                              | S    |
-| RNF53 | 53 | [MM32](../ElicitacaodeRequisitos/observacao.md#mm32) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | S |
+| RNF53 | 53 | [MM34](../ElicitacaodeRequisitos/observacao.md#mm34) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | S |
 | RNF54 | 54 | [MM35](../ElicitacaodeRequisitos/observacao.md#mm35)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | M |
 | RNF55 | 55 | [MM36](../ElicitacaodeRequisitos/observacao.md#mm36)  | O sistema deve suportar versões anteriores | S |
 | RNF56 | 56 | [MM37](../ElicitacaodeRequisitos/observacao.md#mm37)  | O design deve ser responsívo | S |
@@ -149,8 +151,7 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | Tipo | ID | Rastreabilidade | Descrição | Resultado |
 | - | - | - | - | - |
 | <a id="rf01">RF01</a> | 01 | [BS01](../ElicitacaodeRequisitos/brainstorm.md#bs01), [ST07](../ElicitacaodeRequisitos/storytelling.md#st07), [MM01](../ElicitacaodeRequisitos/observacao.md#mm01) | O aplicativo deve ter uma variedade de cursos e idiomas | Alta Prioridade, M |
-| <a id="rf02">RF02</a> | 02 | [ST02](../ElicitacaodeRequisitos/storytelling.md#st02) | O usuário deve poder refazer as lições | Alta Prioridade, S |
-| <a id="rf03">RF03</a> | 03 | [BS02](../ElicitacaodeRequisitos/brainstorm.md#bs02), [ST03](../ElicitacaodeRequisitos/storytelling.md#st03) | O aplicativo deve ter um sistema de revisão de conteúdo | Média Prioridade, C |
+| <a id="rf02">RF02</a> | 02 | [ST02](../ElicitacaodeRequisitos/storytelling.md#st02) | O usuário deve poder refazer as lições | Alta PrioridA maioria das funcionalidades devem ser gratuitas#st03) | O aplicativo deve ter um sistema de revisão de conteúdo | Média Prioridade, C |
 | <a id="rf04">RF04</a> | 04 | [ST09](../ElicitacaodeRequisitos/storytelling.md#st09), [MM06](../ElicitacaodeRequisitos/observacao.md#mm06) | O aplicativo deve permitir o cadastro e gerenciamento de contas | Alta Prioridade, M |
 | <a id="rf05">RF05</a> | 05 | [MM07](../ElicitacaodeRequisitos/observacao.md#mm07) | O perfil do usuário deve exibir informações importantes | Média Prioridade, C |
 | <a id="rf06">RF06</a> | 06 | [MM11](../ElicitacaodeRequisitos/observacao.md#mm11) | O aplicativo deve exibir as coleções de erros, palavras aprendidas e histórias estudadas | Baixa Prioridade, W |
@@ -178,29 +179,29 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | <a id="rf28">RF28</a> | 28 | [AP06](../ElicitacaodeRequisitos/protocolo.md#ap06) | Permite pular ou adiar questões de fala e escuta | Média Prioridade, C |
 | <a id="rf29">RF29</a> | 29 | [AP11](../ElicitacaodeRequisitos/protocolo.md#ap11) | Permite o compartilhamento do perfil e de conquistas | Média Prioridade, W |
 | <a id="rf30">RF30</a> | 30 | [MM18](../ElicitacaodeRequisitos/observacao.md#mm18) | O usuário deve ser capaz de gerenciar o seu perfil | Alta prioridade, M |
-| <a id="rf31">RF31</a> | 31 | [MM19](../ElicitacaodeRequisitos/observacao.md#mm19) | Um nível deve ser dívido em lições | ALta prioridade, S |
+| <a id="rf31">RF31</a> | 31 | [MM19](../ElicitacaodeRequisitos/observacao.md#mm19) | Um nível deve ser dívido em lições | Alta prioridade, S |
 | <a id="rf32">RF32</a> | 32 | [MM20](../ElicitacaodeRequisitos/observacao.md#mm20) | O usuário deve ser capaz de reportar um problema | Média Prioridade S |
 | <a id="rf33">RF33</a> | 33 | [MM21](../ElicitacaodeRequisitos/observacao.md#mm21) | O aplicativo deve fornecer um conjunto de notícias/novidades para o usuario | Média Prioridade, C |
 | <a id="rf34">RF34</a> | 34 | [MM22](../ElicitacaodeRequisitos/observacao.md#mm22) | O aplicativo permite ao usuário utilizar os seus respectivos itens | Alta Prioridade, M |
 | <a id="rnf35">RNF35</a> | 35 | [BS16](../ElicitacaodeRequisitos/brainstorm.md#bs16), [ST13](../ElicitacaodeRequisitos/storytelling.md#st13) | As lições do aplicativo devem ser interativas | Média Prioridade, S |
-| <a id="rnf36">RNF36</a> | 36 | [BS17](../ElicitacaodeRequisitos/brainstorm.md#bs17), [MM25](../ElicitacaodeRequisitos/observacao.md#mm25) | Deve existir um feedback imediato após a realização de uma questão | Média Prioridade, S |
+| <a id="rnf36">RNF36</a> | 36 | [BS17](../ElicitacaodeRequisitos/brainstorm.md#bs17), [MM30](../ElicitacaodeRequisitos/observacao.md#mm30) | Deve existir um feedback imediato após a realização de uma questão | Média Prioridade, S |
 | <a id="rnf37">RNF37</a> | 38 | [BS18](../ElicitacaodeRequisitos/brainstorm.md#bs18), [ST16](../ElicitacaodeRequisitos/storytelling.md#st16) | O aplicativo deve possuir funcionalidades no modo off-line | Média Prioridade, C |
-| <a id="rnf38">RNF38</a> | 38 | [BS19](../ElicitacaodeRequisitos/brainstorm.md#bs19), [ST18](../ElicitacaodeRequisitos/storytelling.md#st18), [MM18](../ElicitacaodeRequisitos/observacao.md#mm18), [AP17](../ElicitacaodeRequisitos/protocolo.md#ap17) | O aplicativo deve ser gamificado | Média Prioridade, S |
+| <a id="rnf38">RNF38</a> | 38 | [BS19](../ElicitacaodeRequisitos/brainstorm.md#bs19), [ST18](../ElicitacaodeRequisitos/storytelling.md#st18), [MM23](../ElicitacaodeRequisitos/observacao.md#mm23), [AP17](../ElicitacaodeRequisitos/protocolo.md#ap17) | O aplicativo deve ser gamificado | Média Prioridade, S |
 | <a id="rnf39">RNF39</a> | 39 | [BS20](../ElicitacaodeRequisitos/brainstorm.md#bs20) | A maioria das funcionalidades devem ser gratuitas | Alta Prioridade, M |
-| <a id="rnf40">RNF40</a> | 40 | [BS21](../ElicitacaodeRequisitos/brainstorm.md#bs21), [MM20](../ElicitacaodeRequisitos/observacao.md#mm20) | O aplicativo deve suportar muitos usuários simultaneamente | Alta Prioridade, S |
-| <a id="rnf41">RNF41</a> | 41 | [BS22](../ElicitacaodeRequisitos/brainstorm.md#bs22), [MM23](../ElicitacaodeRequisitos/observacao.md#mm23) | O aplicativo deve apresentar uma navegação simples | Média Prioridade, S |
-| <a id="rnf42">RNF42</a> | 42 | [BS23](../ElicitacaodeRequisitos/brainstorm.md#bs23), [MM22](../ElicitacaodeRequisitos/observacao.md#mm22) | O aplicativo deve apresentar uma interface intuitiva | Média Prioridade, S |
+| <a id="rnf40">RNF40</a> | 40 | [BS21](../ElicitacaodeRequisitos/brainstorm.md#bs21), [MM25](../ElicitacaodeRequisitos/observacao.md#mm25) | O aplicativo deve suportar muitos usuários simultaneamente | Alta Prioridade, S |
+| <a id="rnf41">RNF41</a> | 41 | [BS22](../ElicitacaodeRequisitos/brainstorm.md#bs22), [MM28](../ElicitacaodeRequisitos/observacao.md#mm28) | O aplicativo deve apresentar uma navegação simples | Média Prioridade, S |
+| <a id="rnf42">RNF42</a> | 42 | [BS23](../ElicitacaodeRequisitos/brainstorm.md#bs23), [MM27](../ElicitacaodeRequisitos/observacao.md#mm27) | O aplicativo deve apresentar uma interface intuitiva | Média Prioridade, S |
 | <a id="rnf43">RNF43</a> | 43 | [BS24](../ElicitacaodeRequisitos/brainstorm.md#bs24), [ST12](../ElicitacaodeRequisitos/storytelling.md#st12) | As lições devem ser curtas e objetivas | Alta Prioridade, S |
 | <a id="rnf44">RNF44</a> | 44 | [BS26](../ElicitacaodeRequisitos/brainstorm.md#bs26), [ST14](../ElicitacaodeRequisitos/storytelling.md#st14) | O aplicativo deve estar disponível a qualquer horário e local | Alta Prioridade, S |
 | <a id="rnf45">RNF45</a> | 45 | [ST15](../ElicitacaodeRequisitos/storytelling.md#st15) |  O aplicativo deve estar disponível em diversos tipos de dispositivos, como exemplo, Androids e IOSs | Média Prioridade, S |
 | <a id="rnf46">RNF46</a> | 46 | [ST17](../ElicitacaodeRequisitos/storytelling.md#st17) | O aplicativo deve ser acessível para qualquer idade | Média Prioridade, C |
 | <a id="rnf47">RNF47</a> | 47 | [ST19](../ElicitacaodeRequisitos/storytelling.md#st19) | O aplicativo deve estar disponível em diversos idiomas | Alta Prioridade, M |
 | <a id="rnf48">RNF48</a> | 48 | [ST20](../ElicitacaodeRequisitos/storytelling.md#st20) | O aplicativo deve permitir a sincronização de contas em dispositivos diferentes | Baixa Prioridade, C |
-| <a id="rnf49">RNF49</a> | 49 | [MM21](../ElicitacaodeRequisitos/observacao.md#mm21) | As transações dentro da loja devem ser seguras | Alta Prioridade, M |
-| <a id="rnf50">RNF50</a> | 50 | [MM24](../ElicitacaodeRequisitos/observacao.md#mm24), [AP15](../ElicitacaodeRequisitos/protocolo.md#ap15) | As lições devem ter conteúdo confiável e verificado | Alta Prioridade, M |
+| <a id="rnf49">RNF49</a> | 49 | [MM26](../ElicitacaodeRequisitos/observacao.md#mm26) | As transações dentro da loja devem ser seguras | Alta Prioridade, M |
+| <a id="rnf50">RNF50</a> | 50 | [MM29](../ElicitacaodeRequisitos/observacao.md#mm29), [AP15](../ElicitacaodeRequisitos/protocolo.md#ap15) | As lições devem ter conteúdo confiável e verificado | Alta Prioridade, M |
 | <a id="rnf51">RNF51</a> | 51 | [AP14](../ElicitacaodeRequisitos/protocolo.md#ap14) | As mensagens de feedback devem ser claras e objetivas | Alta Prioridade, M |
 | <a id="rnf52">RNF52</a> | 52 | [AP16](../ElicitacaodeRequisitos/protocolo.md#ap16) | O design do aplicativo deve ser padronizado | Média Prioridade, S |
-| <a id="rnf53">RNF53</a> | 53 | [MM32](../ElicitacaodeRequisitos/observacao.md#mm32) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | Média Prioridade, S |
+| <a id="rnf53">RNF53</a> | 53 | [MM34](../ElicitacaodeRequisitos/observacao.md#mm34) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento | Média Prioridade, S |
 | <a id="rnf54">RNF54</a> | 54 | [MM35](../ElicitacaodeRequisitos/observacao.md#mm35)  | As resposta a ações do usuário não podem ultrapassar 1,5 segundo | Alta Prioridade, M |
 | <a id="rnf55">RNF55</a> | 55 | [MM36](../ElicitacaodeRequisitos/observacao.md#mm36)  | O sistema deve suportar versões anteriores | Média Prioridade, S|
 | <a id="rnf56">RNF56</a> | 56 | [MM37](../ElicitacaodeRequisitos/observacao.md#mm37)  | O design deve ser responsívo | Média Prioridade, S |
