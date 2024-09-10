@@ -48,37 +48,37 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RF01 | BS01 | O aplicativo deve ter uma variedade de idiomas   |
-| RF02 | BS02 | O aplicativo deve permitir a revisão de conteúdo  |
-| RF03 | BS03 | Um determinado curso deve ser organizado por seções  |
-| RF04 | BS04 | Uma seção deve ser organizada em unidades  |
-| RF05 | BS05 | Uma unidade contém lições  |
-| RF06 | BS06 | As lições abrangem questões tanto de fala, de escrita, de leitura e de escuta  |
-| RF07 | BS07 | Deve ter um feedback na realização das lições  |
-| RF08 | BS08 | O usuário deve ser capaz de monitorar seu progresso no curso  |
-| RF09 | BS09 | O usuário deve receber notificações  |
-| RF10 | BS10 | Oferecer missões diárias para o usuário  |
-| RF11 | BS11 | Deve existir um sistema de recompensas  |
-| RF12 | BS12 | Deve existir um sistema de competição  |
-| RF13 | BS13 | Deve permitir interações entre amigos  |
-| RF14 | BS14 | Deve fornecer um sistema de controle da frequência de acesso do usuário  |
-| RF15 | BS15 | O aplicativo deve ser personalizável as necessidades do usuário |
+| RF01 | <a id="bs01">BS01</a> | O aplicativo deve ter uma variedade de idiomas   |
+| RF02 | <a id="bs02">BS02</a> | O aplicativo deve permitir a revisão de conteúdo  |
+| RF03 | <a id="bs03">BS03</a> | Um determinado curso deve ser organizado por seções  |
+| RF04 | <a id="bs04">BS04</a> | Uma seção deve ser organizada em unidades  |
+| RF05 | <a id="bs05">BS05</a> | Uma unidade contém lições  |
+| RF06 | <a id="bs06">BS06</a> | As lições abrangem questões tanto de fala, de escrita, de leitura e de escuta  |
+| RF07 | <a id="bs07">BS07</a> | Deve ter um feedback na realização das lições  |
+| RF08 | <a id="bs08">BS08</a> | O usuário deve ser capaz de monitorar seu progresso no curso  |
+| RF09 | <a id="bs09">BS09</a> | O usuário deve receber notificações  |
+| RF10 | <a id="bs10">BS10</a> | Oferecer missões diárias para o usuário  |
+| RF11 | <a id="bs11">BS11</a> | Deve existir um sistema de recompensas  |
+| RF12 | <a id="bs12">BS12</a> | Deve existir um sistema de competição  |
+| RF13 | <a id="bs13">BS13</a> | Deve permitir interações entre amigos  |
+| RF14 | <a id="bs14">BS14</a> | Deve fornecer um sistema de controle da frequência de acesso do usuário  |
+| RF15 | <a id="bs15">BS15</a> | O aplicativo deve ser personalizável as necessidades do usuário |
 
 ### Tabela 02 - Requisitos não-funcionais
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RNF01 | BS16 | As lições do aplicativo devem ser interativas |
-| RNF02 | BS17 | Deve existir um feedback imediato após a realização de uma questão |
-| RNF03 | BS18 | O aplicativo deve funcionar off-line  |
-| RNF04 | BS19 | O aplicativo deve ser gamificado  |
-| RNF05 | BS20 | A maioria das funcionalidades devem ser gratuitas |
-| RNF06 | BS21 | As ligas devem suportar muitos usuários simultaneamente  |
-| RNF07 | BS22 | Apresentar uma navegação simples  |
-| RNF08 | BS23 | Apresentar uma interface intuitiva  |
-| RNF09 | BS24 | As lições devem ser curtas e objetivas   |
-| RNF10 | BS25 | Deve suportar uma grande quantidade de usuários simultâneos   |
-| RNF11 | BS26 | O aplicativo deve estar disponível a qualquer horário e local  |
+| RNF01 | <a id="bs16">BS16</a> | As lições do aplicativo devem ser interativas |
+| RNF02 | <a id="bs17">BS17</a> | Deve existir um feedback imediato após a realização de uma questão |
+| RNF03 | <a id="bs18">BS18</a> | O aplicativo deve funcionar off-line  |
+| RNF04 | <a id="bs19">BS19</a> | O aplicativo deve ser gamificado  |
+| RNF05 | <a id="bs20">BS20</a> | A maioria das funcionalidades devem ser gratuitas |
+| RNF06 | <a id="bs21">BS21</a> | As ligas devem suportar muitos usuários simultaneamente  |
+| RNF07 | <a id="bs22">BS22</a> | Apresentar uma navegação simples  |
+| RNF08 | <a id="bs23">BS23</a> | Apresentar uma interface intuitiva  |
+| RNF09 | <a id="bs24">BS24</a> | As lições devem ser curtas e objetivas   |
+| RNF10 | <a id="bs25">BS25</a> | Deve suportar uma grande quantidade de usuários simultâneos   |
+| RNF11 | <a id="bs26">BS26</a> | O aplicativo deve estar disponível a qualquer horário e local  |
 
 </center>
 
@@ -107,5 +107,7 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)|
 | 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 10/09/2024 | 1.3 | Corrigindo rastreabilidade dos requisitos | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
 
 </center>

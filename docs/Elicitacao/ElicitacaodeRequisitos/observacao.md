@@ -43,28 +43,28 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RF01 | MM01 | O aplicativo deve oferecer uma variedade de idiomas e cursos |
-| RF02 | MM02 | Os cursos oferecidos devem estar divididos em seções |
-| RF03 | MM03 | As seções devem estar divididas em unidades |
-| RF04 | MM04 | As unidades devem estar divididas em níveis |
-| RF05 | MM05 | O aplicativo deve dar feedback para o usuário |
-| RF06 | MM06 | O usuário deve ser capaz de criar e gerenciar seu perfil |
-| RF07 | MM07 | O perfil do usuário deve exibir informações importantes |
-| RF08 | MM08 | O aplicativo deve permitir a adição e interação de amigos |
-| RF09 | MM09 | O aplicativo deve ter missões diárias e missões entre amigos |
-| RF10 | MM10 | O aplicativo deve ter um sistema de recompensas |
-| RF11 | MM11 | O aplicativo deve exibir as coleções de erros, palavras aprendidas e histórias estudadas |
-| RF12 | MM12 | O aplicativo deve rastrear os dias consecutivos de estudo |
-| RF13 | MM13 | O aplicativo deve ter conquistas para marcos específicos no aprendizado |
-| RF14 | MM14 | O aplicativo deve ter um sistema de competições |
-| RF15 | MM15 | O aplicativo deve ter uma loja |
-| RF16 | MM16 | O aplicativo deve suportar compras com dinheiro real |
-| RF17 | MM17 | O aplicativo deve permitir a sincronização com contas de outras plataformas |
-| RF18 | MM18 | o usuário deve ser capaz de gerenciar o seu perfil |
-| RF19 | MM19 | Um nível deve ser dívido em lições |
-| RF20 | MM20 | O usuário deve ser capaz de reportar um problema |
-| RF21 | MM21 | O aplicativo deve fornecer um conjunto de notícias/novidades para o usuario |
-| RF22 | MM22 | O aplicativo permite ao usuário utilizar os seus respectivos itens |
+| RF01 | <a id="mm01">MM01</a> | O aplicativo deve oferecer uma variedade de idiomas e cursos |
+| RF02 | <a id="mm02">MM02</a> | Os cursos oferecidos devem estar divididos em seções |
+| RF03 | <a id="mm03">MM03</a> | As seções devem estar divididas em unidades |
+| RF04 | <a id="mm04">MM04</a> | As unidades devem estar divididas em níveis |
+| RF05 | <a id="mm05">MM05</a> | O aplicativo deve dar feedback para o usuário |
+| RF06 | <a id="mm06">MM06</a> | O usuário deve ser capaz de criar e gerenciar seu perfil |
+| RF07 | <a id="mm07">MM07</a> | O perfil do usuário deve exibir informações importantes |
+| RF08 | <a id="mm08">MM08</a> | O aplicativo deve permitir a adição e interação de amigos |
+| RF09 | <a id="mm09">MM09</a> | O aplicativo deve ter missões diárias e missões entre amigos |
+| RF10 | <a id="mm10">MM10</a> | O aplicativo deve ter um sistema de recompensas |
+| RF11 | <a id="mm11">MM11</a> | O aplicativo deve exibir as coleções de erros, palavras aprendidas e histórias estudadas |
+| RF12 | <a id="mm12">MM12</a> | O aplicativo deve rastrear os dias consecutivos de estudo |
+| RF13 | <a id="mm13">MM13</a> | O aplicativo deve ter conquistas para marcos específicos no aprendizado |
+| RF14 | <a id="mm14">MM14</a> | O aplicativo deve ter um sistema de competições |
+| RF15 | <a id="mm15">MM15</a> | O aplicativo deve ter uma loja |
+| RF16 | <a id="mm16">MM16</a> | O aplicativo deve suportar compras com dinheiro real |
+| RF17 | <a id="mm17">MM17</a> | O aplicativo deve permitir a sincronização com contas de outras plataformas |
+| RF18 | <a id="mm18">MM18</a> | o usuário deve ser capaz de gerenciar o seu perfil |
+| RF19 | <a id="mm19">MM19</a> | Um nível deve ser dívido em lições |
+| RF20 | <a id="mm20">MM20</a> | O usuário deve ser capaz de reportar um problema |
+| RF21 | <a id="mm21">MM21</a> | O aplicativo deve fornecer um conjunto de notícias/novidades para o usuario |
+| RF22 | <a id="mm22">MM22</a> | O aplicativo permite ao usuário utilizar os seus respectivos itens |
 
 
 
@@ -72,22 +72,22 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RNF01 | MM23 | O aplicativo deve possuir gamificação |
-| RNF02 | MM24 | As ligas de competição devem suportar muitos usuários simultâneos |
-| RNF03 | MM25 | O aplicativo deve suportar uma grande quantidade de usuários simultâneos |
-| RNF04 | MM26 | As transações de compras dentro do aplicativo devem ser seguras |
-| RNF05 | MM27 | O aplicativo deve possuir uma interface intuitiva |
-| RNF06 | MM28 | O aplicativo deve ter uma navegação simples |
-| RNF07 | MM29 | As lições de curso devem ter conteúdo confiável e verificado |
-| RNF08 | MM30 | O feedback do aplicativo deve ser imediato |
-| RNF08 | MM31 | O aplicativo poderá ficar no máxima 24 horas inacessível devido a manutenção |
-| RNF09 | MM32 | O aplicativo deve realizar backups regulares |
-| RNF10 | MM33 | O aplicativo deve realizar a sincronização dos dados em nuvem de forma imediata |
-| RNF11 | MM34 | O aplicativo não deve ocupar mais do que 500 MB de armazenamento |
-| RNF12 | MM35 | As resposta a ações do usuário não podem ultrapassar 1,5 segundo |
-| RNF13 | MM36 | O sistema deve suportar versões anteriores |
-| RNF14 | MM37 | O design deve ser responsivo |
-| RNF15 | MM38 | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo |
+| RNF01 | <a id="mm23">MM23</a> | O aplicativo deve possuir gamificação |
+| RNF02 | <a id="mm24">MM24</a> | As ligas de competição devem suportar muitos usuários simultâneos |
+| RNF03 | <a id="mm25">MM25</a> | O aplicativo deve suportar uma grande quantidade de usuários simultâneos |
+| RNF04 | <a id="mm26">MM26</a> | As transações de compras dentro do aplicativo devem ser seguras |
+| RNF05 | <a id="mm27">MM27</a> | O aplicativo deve possuir uma interface intuitiva |
+| RNF06 | <a id="mm28">MM28</a> | O aplicativo deve ter uma navegação simples |
+| RNF07 | <a id="mm29">MM29</a> | As lições de curso devem ter conteúdo confiável e verificado |
+| RNF08 | <a id="mm30">MM30</a> | O feedback do aplicativo deve ser imediato |
+| RNF08 | <a id="mm31">MM31</a> | O aplicativo poderá ficar no máxima 24 horas inacessível devido a manutenção |
+| RNF09 | <a id="mm32">MM32</a> | O aplicativo deve realizar backups regulares |
+| RNF10 | <a id="mm33">MM33</a> | O aplicativo deve realizar a sincronização dos dados em nuvem de forma imediata |
+| RNF11 | <a id="mm34">MM34</a> | O aplicativo não deve ocupar mais do que 500 MB de armazenamento |
+| RNF12 | <a id="mm35">MM35</a> | As resposta a ações do usuário não podem ultrapassar 1,5 segundo |
+| RNF13 | <a id="mm36">MM36</a> | O sistema deve suportar versões anteriores |
+| RNF14 | <a id="mm37">MM37</a> | O design deve ser responsivo |
+| RNF15 | <a id="mm38">MM38</a> | As ilustrações e animações devem seguir um estilo coerente com a identidade visual do aplicativo |
 
 
 </center>
@@ -119,5 +119,7 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 19/08/2024 | 1.3 | Adição  e modificações em requisitos | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022) |
+| 10/09/2024 | 1.4 | Corrigindo rastreabilidade dos requisitos | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
 
 </center>

@@ -62,31 +62,31 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RF01 | ST01 | O aplicativo deve ter lições de fala, escrita, escuta e leitura |
-| RF02 | ST02 | O usuário pode refazer as lições |
-| RF03 | ST03 | O aplicativo fornece um sistema de revisão  |
-| RF04 | ST04 | O aplicativo deve ter um sistema de amizades |
-| RF05 | ST05 | O aplicativo deve permitir interação entre amigos |
-| RF06 | ST06 | O aplicativo deve ter um sistema de competição |
-| RF07 | ST07 | O aplicativo deve fornecer vários cursos de idiomas |
-| RF08 | ST08 | O aplicativo deve gerar métricas de desempenho ao final de cada lição |
-| RF09 | ST09 | O aplicativo deve permitir o cadastro de usuários |
-| RF10 | ST10 | No aplicativo deve ser possível acompanhar o progresso no curso, na própria lição |
-| RF11 | ST11 | O aplicativo permite encerrar uma lição prematuramente |
+| RF01 | <a id="st01">ST01</a> | O aplicativo deve ter lições de fala, escrita, escuta e leitura |
+| RF02 | <a id="st02">ST02</a> | O usuário pode refazer as lições |
+| RF03 | <a id="st03">ST03</a> | O aplicativo fornece um sistema de revisão  |
+| RF04 | <a id="st04">ST04</a> | O aplicativo deve ter um sistema de amizades |
+| RF05 | <a id="st05">ST05</a> | O aplicativo deve permitir interação entre amigos |
+| RF06 | <a id="st06">ST06</a> | O aplicativo deve ter um sistema de competição |
+| RF07 | <a id="st07">ST07</a> | O aplicativo deve fornecer vários cursos de idiomas |
+| RF08 | <a id="st08">ST08</a> | O aplicativo deve gerar métricas de desempenho ao final de cada lição |
+| RF09 | <a id="st09">ST09</a> | O aplicativo deve permitir o cadastro de usuários |
+| RF10 | <a id="st10">ST10</a> | No aplicativo deve ser possível acompanhar o progresso no curso, na própria lição |
+| RF11 | <a id="st11">ST11</a> | O aplicativo permite encerrar uma lição prematuramente |
 
 ### Tabela 02 - Requisitos não-funcionais
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RNF01 | ST12 | O aplicativo deve possuir lições curtas e objetivas |
-| RNF02 | ST13 | As lições não podem ser tediosas |
-| RNF03 | ST14 | O aplicativo deve ter disponibilidade em qualquer lugar e horário |
-| RNF04 | ST15 | O aplicativo deve ser disponível em diversos tipos de aparelhos celulares |
-| RNF05 | ST16 | O aplicativo deve ter funcionalidades off-line |
-| RNF06 | ST17 | O aplicativo deve testar disponível tanto para crianças, adultos e idosos |
-| RNF07 | ST18 | O aplicativo deve ser gamificado |
-| RNF08 | ST19 | O aplicativo deve estar disponível em diversos idiomas |
-| RNF09 | ST20 | O aplicativo deve permitir o uso de uma mesma conta em mais de um aparelho |
+| RNF01 | <a id="st12">ST12</a> | O aplicativo deve possuir lições curtas e objetivas |
+| RNF02 | <a id="st13">ST13</a> | As lições não podem ser tediosas |
+| RNF03 | <a id="st14">ST14</a> | O aplicativo deve ter disponibilidade em qualquer lugar e horário |
+| RNF04 | <a id="st15">ST15</a> | O aplicativo deve ser disponível em diversos tipos de aparelhos celulares |
+| RNF05 | <a id="st16">ST16</a> | O aplicativo deve ter funcionalidades off-line |
+| RNF06 | <a id="st17">ST17</a> | O aplicativo deve testar disponível tanto para crianças, adultos e idosos |
+| RNF07 | <a id="st18">ST18</a> | O aplicativo deve ser gamificado |
+| RNF08 | <a id="st19">ST19</a> | O aplicativo deve estar disponível em diversos idiomas |
+| RNF09 | <a id="st20">ST20</a> | O aplicativo deve permitir o uso de uma mesma conta em mais de um aparelho |
 
 </center>
 
@@ -105,5 +105,7 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | 31/07/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 | 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+| 10/09/2024 | 1.3 | Corrigindo rastreabilidade dos requisitos | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
 
 </center>

@@ -73,29 +73,29 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RF01 | AP01 | O aplicativo deve permitir lições de escrita, escuta, leitura e fala |
-| RF02 | AP02 | O usuário pode reproduzir os áudios quantas vezes quiser  |
-| RF03 | AP03 | O aplicativo deve permitir a redução da velocidade de áudios  |
-| RF04 | AP04 | O aplicativo deve mostrar um feedback após a resolução de cada questão  |
-| RF05 | AP05 | No aplicativo novas palavras devem ser visualmente destacadas e deve mostrar a sua tradução  |
-| RF06 | AP06 | O aplicativo deve permitir pular/adiar questões de fala e escuta devido a disponibilidade do usuário  |
-| RF07 | AP07 | O aplicativo deve gerar métricas de desempenho ao final de cada lição |
-| RF08 | AP08 | O aplicativo deve ter controle da frequência do usuário |
-| RF09 | AP09 | O aplicativo deve permitir um sistema de competição entre os usuários |
-| RF10 | AP10 | O aplicativo deve gerar missões |
-| RF11 | AP11 | O aplicativo deve permitir o compartilhamento do perfil e conquistas  |
-| RF12 | AP12 | O aplicativo deve ter controle dos itens do usuário |
-| RF13 | AP13 | O aplicativo deve possuir um sistema de amizade|
+| RF01 | <a id="ap01">AP01</a> | O aplicativo deve permitir lições de escrita, escuta, leitura e fala |
+| RF02 | <a id="ap02">AP02</a> | O usuário pode reproduzir os áudios quantas vezes quiser  |
+| RF03 | <a id="ap03">AP03</a> | O aplicativo deve permitir a redução da velocidade de áudios  |
+| RF04 | <a id="ap04">AP04</a> | O aplicativo deve mostrar um feedback após a resolução de cada questão  |
+| RF05 | <a id="ap05">AP05</a> | No aplicativo novas palavras devem ser visualmente destacadas e deve mostrar a sua tradução  |
+| RF06 | <a id="ap06">AP06</a> | O aplicativo deve permitir pular/adiar questões de fala e escuta devido a disponibilidade do usuário  |
+| RF07 | <a id="ap07">AP07</a> | O aplicativo deve gerar métricas de desempenho ao final de cada lição |
+| RF08 | <a id="ap08">AP08</a> | O aplicativo deve ter controle da frequência do usuário |
+| RF09 | <a id="ap09">AP09</a> | O aplicativo deve permitir um sistema de competição entre os usuários |
+| RF10 | <a id="ap10">AP10</a> | O aplicativo deve gerar missões |
+| RF11 | <a id="ap11">AP11</a> | O aplicativo deve permitir o compartilhamento do perfil e conquistas  |
+| RF12 | <a id="ap12">AP12</a> | O aplicativo deve ter controle dos itens do usuário |
+| RF13 | <a id="ap13">AP13</a> | O aplicativo deve possuir um sistema de amizade|
 
 
 ### Tabela 02 - Requisitos não-funcionais
 
 | Tipo | ID | Descrição |
 | - | - | - |
-| RNF01 | AP14 | O aplicativo deve possuir mensagens de erro devem ser claras e objetivas  |
-| RNF02 | AP15 | O aplicativo deve possuir lições com conteúdo verificado e confiável |
-| RNF03 | AP16 | O aplicativo deve ter uma padronização do design respeitando o significado cultural das cores |
-| RNF04 | AP17 | O aplicativo deve ser gamificado |
+| RNF01 | <a id="ap14">AP14</a> | O aplicativo deve possuir mensagens de erro devem ser claras e objetivas  |
+| RNF02 | <a id="ap15">AP15</a> | O aplicativo deve possuir lições com conteúdo verificado e confiável |
+| RNF03 | <a id="ap16">AP16</a> | O aplicativo deve ter uma padronização do design respeitando o significado cultural das cores |
+| RNF04 | <a id="ap17">AP17</a> | O aplicativo deve ser gamificado |
 
 </center>
 
@@ -128,5 +128,7 @@ Os requisitos identificados podem ser encontrados na composição da tabela 01, 
 | 01/08/2024 | 1.1 | Adição da legenda das tabelas | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 | 01/08/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
 | 14/08/2024 | 1.3 | Adição de uma nova Análise de Protocolo com foco em Gerenciamenteo de Conta | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022)|
+| 10/09/2024 | 1.4 | Corrigindo rastreabilidade dos requisitos | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+
 
 </center>
