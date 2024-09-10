@@ -24,3 +24,27 @@ Sendo que os critérios de status de cada elemento é definido como:
 - **Não se aplica**: O critério não pode ser verificado devido ao contexto do projeto
 
 E por fim, ao final de cada documento criamos o tópico **Problemas encontrados** com o intuito de aprensentar uma breve conclusão da inspeção focado nos problemas.
+
+### Gravações
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tMEUgzDsAOk?si=4CnfiS2nhbMGeisg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 1** Parte 1 da execução da inspeção
+
+**Autores** [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) e [Guilherme Silva Dutra](https://github.com/GuiDutra21)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bAHTwjiqmxU?si=UoOktcclGOI53KDZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Vídeo 2** Parte 2 da execução da inspeção
+
+**Autores** [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) e [Guilherme Silva Dutra](https://github.com/GuiDutra21)
+
+</center>
+
+### Histórico de versão
+
+| Data | Versão | Descrição | Autor |
+| ---- | ------ | --------- | ----- |
+| 04/09/2024 | 1.0 | Criação do documento |[Guilherme Silva Dutra](https://github.com/GuiDutra21), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), [Raquel Ferreira Andrade](https://github.com/raquel-andrade)|
+|10/09/2024 |1.1| Adição das gravações | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
