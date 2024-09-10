@@ -151,7 +151,8 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | Tipo | ID | Rastreabilidade | Descrição | Resultado |
 | - | - | - | - | - |
 | <a id="rf01">RF01</a> | 01 | [BS01](../ElicitacaodeRequisitos/brainstorm.md#bs01), [ST07](../ElicitacaodeRequisitos/storytelling.md#st07), [MM01](../ElicitacaodeRequisitos/observacao.md#mm01) | O aplicativo deve ter uma variedade de cursos e idiomas | Alta Prioridade, M |
-| <a id="rf02">RF02</a> | 02 | [ST02](../ElicitacaodeRequisitos/storytelling.md#st02) | O usuário deve poder refazer as lições | Alta PrioridA maioria das funcionalidades devem ser gratuitas#st03) | O aplicativo deve ter um sistema de revisão de conteúdo | Média Prioridade, C |
+| <a id="rf02">RF02</a> | 02 | [ST02](../ElicitacaodeRequisitos/storytelling.md#st02) | O usuário deve poder refazer as lições | Alta Prioridade, S |
+|<a id="rf03">RF03</a> | 03 | [BS02](../ElicitacaodeRequisitos/brainstorm.md#bs02), [ST03](../ElicitacaodeRequisitos/storytelling.md#st03) |O aplicativo deve ter um sistema de revisão de conteúdo | Média Prioridade, C |
 | <a id="rf04">RF04</a> | 04 | [ST09](../ElicitacaodeRequisitos/storytelling.md#st09), [MM06](../ElicitacaodeRequisitos/observacao.md#mm06) | O aplicativo deve permitir o cadastro e gerenciamento de contas | Alta Prioridade, M |
 | <a id="rf05">RF05</a> | 05 | [MM07](../ElicitacaodeRequisitos/observacao.md#mm07) | O perfil do usuário deve exibir informações importantes | Média Prioridade, C |
 | <a id="rf06">RF06</a> | 06 | [MM11](../ElicitacaodeRequisitos/observacao.md#mm11) | O aplicativo deve exibir as coleções de erros, palavras aprendidas e histórias estudadas | Baixa Prioridade, W |
@@ -221,5 +222,6 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | 06/08/2024 | 1.2 | Adição da tabela de resultado | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Julio Roberto](https://github.com/JulioR2022) |
 | 19/08/2024 | 1.3 | Ajustes no documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022) |
 | 10/09/2024 | 1.4 | Corrigindo rastreabilidade dos requisitos | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 10/09/2024 | 1.5 | Corrigindo erro no RF03 | [Julio Roberto](https://github.com/JulioR2022) |
 
 </center>
