@@ -72,7 +72,7 @@ Os requisitos priorizados e suas respectivas versões estão descritos na tabela
 |        | [1.2](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs10) | Oferecer missões diárias para o usuário | Média |
 |        | [1.1](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm09) | O aplicativo deve ter missões diárias e missões entre amigos | Média |
 |        | [1.0](../Elicitacao/ElicitacaodeRequisitos/protocolo.md#ap10) | O aplicativo deve gerar missões | Média |
-| **RF15** | **[1.2](../Elicitacao/priorizacao/priorizados.md#rf15)** | **O aplicativo deve oferecer um sistema de missões ao usuário** | **Média** |
+| **RF15** | **[1.2](../Elicitacao/priorizacao/priorizados.md#rf15)** | **O aplicativo deve oferecer um sistema de recompensa ao usuário** | **Média** |
 |        | [1.1](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs11) | Deve existir um sistema de recompensas | Média |
 |        | [1.0](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm10) | O aplicativo deve ter um sistema de recompensas | Média |
 | **RF16** | **[1.4](../Elicitacao/priorizacao/priorizados.md#rf16)** | **O aplicativo deve ter um sistema de competição** | **Média** |
@@ -96,7 +96,7 @@ Os requisitos priorizados e suas respectivas versões estão descritos na tabela
 |        | [1.0](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st11) | O aplicativo permite encerrar uma lição prematuramente | Média |
 | **RF21** | **[1.1](../Elicitacao/priorizacao/priorizados.md#rf21)** | **Permite a sincronização com a conta de outras plataformas** | **Baixa** |
 |        | [1.0](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm17) | O aplicativo deve permitir a sincronização com contas de outras plataformas | Baixa |
-| **RF22** | **[1.1](../Elicitacao/priorizacao/priorizados.md#rf22)** | **Permitir o usuário encerrar uma lição prematuramente** | **Baixa** |
+| **RF22** | **[1.1](../Elicitacao/priorizacao/priorizados.md#rf22)** | **O aplicativo oferece conquistas para marcos específicos no aprendizado** | **Baixa** |
 |        | [1.0](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm13) | O aplicativo deve ter conquistas para marcos específicos no aprendizado | Baixa |
 | **RF23** | **[1.2](../Elicitacao/priorizacao/priorizados.md#rf23)** | **O aplicativo deve fornecer uma loja** | **Média** |
 |        | [1.1](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm15) | O aplicativo deve ter uma loja | Média |
