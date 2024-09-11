@@ -2,6 +2,10 @@ site_name: Duolingo
 repo_name: "Duolingo-2024.1"
 repo_url: https://github.com/lipeaaraujo/Duolingo-2024.1
 
+markdown_extensions:
+  - toc:
+      permalink: "#"
+
 theme:
   logo: assets/images/duolingo-logo.svg
   favicon: assets/images/duolingo-logo.svg
@@ -71,13 +75,39 @@ nav:
       - Introdução: Modelagem/Casos/introducao.md
       - Diagrama 1: Modelagem/Casos/Caso_de_Uso_1.md
       - Diagrama 2: Modelagem/Casos/Caso_de_Uso_2.md
-    - Especificação suplementar: Modelagem/especificacao.md
-    - iStar: Modelagem/i-estrela.md 
+    - Especificação Suplementar: Modelagem/especificacao.md
   - Modelagem Ágil:
     - NFR Framework: ModelagemAgil/nfr-framework.md
     - Product Backlog: ModelagemAgil/product-backlog.md
     - Priorização das Histórias de Usuário: ModelagemAgil/priorizacao-historias.md
     - Minimum Viable Product e Sprint Backlog: ModelagemAgil/sprint-backlog.md
+    - iStar: ModelagemAgil/i-estrela.md 
+  - Verificação e Validação:
+    - Verificação:
+      - Introdução: Verificacao-Validacao/introducao.md
+      - Pré-Rastreabilidade: Verificacao-Validacao/rastreabilidade.md
+      - Elicitação: 
+        - Observação/Introspecção: Verificacao-Validacao/Elicitacao/observacao.md
+        - Brainstorming: Verificacao-Validacao/Elicitacao/brainstorming.md
+        - Análise de Protocolo: Verificacao-Validacao/Elicitacao/protocolo.md
+        - Storytelling: Verificacao-Validacao/Elicitacao/storytelling.md
+      - Priorização:
+        - Three-Level: Verificacao-Validacao/Priorizacao/three-level-scale.md
+        - Moscow:  Verificacao-Validacao/Priorizacao/moscow.md
+      - Modelagem:   
+        - Cenários: Verificacao-Validacao/Modelagem/cenarios.md
+        - Léxicos: Verificacao-Validacao/Modelagem/lexicos.md
+        - Casos de uso: Verificacao-Validacao/Modelagem/casos-de-uso.md
+        - Especificação Suplementar: Verificacao-Validacao/Modelagem/especificacao.md
+      - Modelagem Ágil:
+        - NFR Framework:  Verificacao-Validacao/ModelagemAgil/nfr.md
+        - Backlog:  Verificacao-Validacao/ModelagemAgil/backlog.md
+        - Priorização das US: Verificacao-Validacao/ModelagemAgil/priorizacao-us.md
+        - MVP: Verificacao-Validacao/ModelagemAgil/mvp.md
+        - iStar: Verificacao-Validacao/ModelagemAgil/istar.md
+    - Validação:
+      - Protótipo Criado: Verificacao-Validacao/Validacao/prototipo.md
+      - Validação por Entrevista: Verificacao-Validacao/Validacao/validacao.md
   - Pós-Rastreabilidade:
     - Baseline: PosRastreabilidade/baseline.md
     - Backward-From: PosRastreabilidade/backward.md

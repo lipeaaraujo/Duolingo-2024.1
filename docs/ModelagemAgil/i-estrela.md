@@ -28,10 +28,13 @@ O processo teve como ponto de partida a análise dos documentos de [Product Back
 
 De forma a otimizar a representação dos dados, dividimos o iStar em três diagramas distintos, cada um abordando um tema específico e focando nos sistemas que interagem com o usuário. Esses diagramas capturam as principais dependências e intenções, descrevendo como as funcionalidades contribuem para atender às necessidades dos usuários e do sistema Duolingo como um todo.
 
-O quadro completo pode ser acessado no link a seguir: [Quadro do iStar](https://lucid.app/lucidspark/d3b6ca17-f419-4e14-b89b-18c5c492b595/edit?viewport_loc=-7617%2C-1070%2C6400%2C3310%2C0_0&invitationId=inv_fe68aa28-b286-4c83-82f1-e357d6d1c7a7)
-
 ## Diagramas
 
+### Link dos diagrams gerados
+
+<center>
+O quadro completo pode ser acessado no link a seguir: [Quadro do iStar](https://lucid.app/lucidspark/d3b6ca17-f419-4e14-b89b-18c5c492b595/edit?viewport_loc=-7617%2C-1070%2C6400%2C3310%2C0_0&invitationId=inv_fe68aa28-b286-4c83-82f1-e357d6d1c7a7)
+</center>
 ### Gerência de Conta
 
 Este diagrama iStar ilustra as funcionalidades relacionadas à gestão de contas dentro do aplicativo Duolingo. Nele, são representadas as dependências e metas associadas ao gerenciamento de perfis de usuários, incluindo a criação de contas, login, configurações de preferências e controle de progresso. O diagrama ajuda a entender como o sistema possibilita que o usuário gerencie sua conta de forma autônoma, assegurando que todas as necessidades relacionadas à personalização e segurança sejam atendidas.
