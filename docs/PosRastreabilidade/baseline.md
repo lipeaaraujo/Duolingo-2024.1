@@ -2,11 +2,29 @@
 
 ## Introdução
 
+Este documento introduz a baseline de requisitos levantados durante o projeto de análise e elicitação dos requisitos do Duolingo Mobile. O baseline é um artefato que apresenta uma versão estável de cada um dos requisitos elicitados e priorizados, incluindo sua evolução com as respectivas versões, com o objetivo de permitir o acompanhamento das mudanças por meio da rastreabilidade. 
+
 ## Metodologia
+
+O baseline foi desenvolvido como uma tabela contendo todas as versões dos requisitos elicitados, apresentados na [tabela 03 no documento de priorização](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao), por diferentes técnicas como [observação direta](../Elicitacao/ElicitacaodeRequisitos/observacao.md), [brainstorming](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md), [storytelling](../Elicitacao/ElicitacaodeRequisitos/storytelling.md) e [análise de protocolo](../Elicitacao/ElicitacaodeRequisitos/protocolo.md). Cada requisito foi documentado e numerado para facilitar sua rastreabilidade, a tabela também contém a prioridade definida do requisito
 
 <center>
 
-### Tabela 01 - Baseline dos Requisitos
+### Tabela 01 - Template do Baseline
+
+| ID | Versão | Descrição | Prioridade |
+|----|--------|-----------|------------|
+| Enumeração do requisito (RFxx ou RNFxx) | Respectiva versão (1.x) | Pequeno detalhamento do requisito | Prioridade definida (alta, média ou baixa) |
+
+**Autores:** [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)
+
+</center>
+
+Os requisitos priorizados e suas respectivas versões estão descritos na tabela 02, onde a versões mais atuais estão destacadas em **negrito**
+
+<center>
+
+### Tabela 02 - Baseline dos Requisitos
 
 | ID | Versão | Descrição | Prioridade |
 |----|--------|-----------|------------|
@@ -168,6 +186,13 @@
 
 </center>
 
+## Referências
+
+1. Clegg, D., & Barker, R. (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
+2. Pressman, R. S. (2014). Engenharia de Software: Uma Abordagem Profissional. McGraw Hill Brasil.
+3. Sayão, L. e Leite, J. C. S. P. Rastreabilidade de Requisitos, ISSN 0103-9741.
+4. SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 26. 2024.
+
 ## Histórico de Versão
 
 <center>
@@ -175,5 +200,7 @@
 | Data | Versão | Descrição | Autor |
 | ---- | ------ | --------- | ----- |
 | 10/09/2024 | 1.0 | Criação do documento e da tabela de Baseline | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 10/09/2024 | 1.1 | Adição dos textos de introdução e metodologia | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 11/09/2024 | 1.2 | Adição das referências | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
 
 </center>
