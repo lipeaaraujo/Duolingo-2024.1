@@ -22,7 +22,7 @@ A seguir, as tabelas das especificações de cada Caso de Uso do diagrama criado
 |-------------------------|------------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**         | Acessar a Conta |
 | **Descrição**           | O usuário acessa o aplicativo usando suas credenciais. |
-| **Requisitos**          | RF04, RF21, RFN45, RFN47 |
+| **Requisitos**          | RF04, RF21, RFN40, RFN45, RFN48 |
 | **Atores**              | Estudante  |
 | **Frequência de Uso**   | Média |
 | **Pré-condições**       | - Ter conexão à internet<br>- O usuário deve ter o aplicativo instalado<br>- Já ter uma conta no aplicativo |
@@ -111,7 +111,7 @@ A seguir, as tabelas das especificações de cada Caso de Uso do diagrama criado
 |-------------------------|---------------------------------------------------------------------------------------------------------|
 | **Casos de Uso**        | Visualizar novidades |
 | **Descrição**           | O usuário consegue visualizar e até mesmo interagir com as principais notícias/novidades que o aplicativo fornece. |
-| **Requisitos**          | Nenhum especificado |
+| **Requisitos**          | RF33 |
 | **Atores**              | Estudante |
 | **Frequência de Uso**   | Baixa |
 | **Pré-condições**       | - O usuário deve ter conexão à internet<br>- O usuário deve ter o aplicativo instalado<br>- O usuário deve estar autenticado.<br>- O usuário deve possuir um curso selecionado. |

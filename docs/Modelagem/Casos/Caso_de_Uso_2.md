@@ -39,16 +39,15 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 ### Caso de Uso - Personalizar o avatar
 | **Campo**             | **Descrição**|
 |-----------------------|---------------------------------------------------------------------------------------------------------|
-| **Caso de Uso**       | Realizar missões |
-| **Descrição**         | Durante a execução de algumas atividades o usuário alcança determinados marcos e, dessa forma, realiza missões |
+| **Caso de Uso**       | Personalizar o avatar |
+| **Descrição**         | O usuário edita a aparência do seu avatar dentre as opções disponíveis |
 | **Requisitos**        | RF04, RF05, RNF38 |
 | **Atores**            | Estudante |
-| **Frequência de Uso** | Alta |
-| **Pré-condições**     | Conexão à internet<br>Entrar na conta<br>Ter um curso selecionado<br>Ter missões disponíveis a serem realizadas<br>Dependendo da missão, seguir algum amigo<br>Ter ao menos uma lição já realizada naquela semana |
-| **Fluxo principal**   | 1. O usuário entra na sua conta<br>2. Entra na página de missões, acionando o Caso de Uso "Gerar Missões diárias e semanais" e checa as missões disponíveis<br>3. Começa a realizar as lições para cumprir as missões<br>4. Depois de realizar uma missão, recebe a recompensa associada a ela |
-| **Fluxos alternativos** | **FA1 - Missões que não envolvem a realização de lições**<br>1. O usuário entra na sua conta<br>2. Entra na página de missões, acionando o Caso de Uso "Gerar Missões diárias e semanais" e checa as missões disponíveis<br>3. Realiza a ação necessária para cumprir a(s) missão(ões), como exemplo, mandar um presente para um amigo, avançar numa liga e aumentar a sua ofensiva<br>4. Depois de realizar uma missão, recebe a recompensa associada a ela<br><br>**FA2 - Realizar uma missão entre amigos**<br>1. O usuário entra na sua conta<br>2. Entra na página de missões e checa a missão disponível em relação a um determinado amigo, acionando o Caso de Uso "Competir com amigos"<br>3. Realiza a ação necessária para cumprir a missão, como exemplo, mandar um presente para um amigo, avançar numa liga e aumentar a sua ofensiva<br>4. Depois de realizar uma missão, recebe a recompensa associada a ela<br>5. Além disso, salva no histórico da competição com esse amigo que o usuário realizou mais uma missão |
-| **Fluxos de exceção** | **FE1 - Missão não totalmente finalizada**<br>1. O usuário entra na sua conta<br>2. Entra na página de missões, acionando o Caso de Uso "Gerar Missões diárias e semanais" e checa as missões disponíveis<br>3. Tenta realizar as lições ou ações associadas a uma determinada missão<br>4. Por algum motivo, não atinge o objetivo necessário e o tempo da missão se esgota<br>5. Aquela missão desaparece da lista de missões disponíveis e o usuário não recebe nenhuma recompensa por isso<br><br>**FE2 - Não tem cristais o suficiente para enviar um presente para cumprir uma missão**<br>1. O usuário entra na sua conta<br>2. Realiza a primeira lição da semana<br>3. Checa a aba de missões e vê que está em uma missão com o amigo<br>4. Nessa aba de missão com um amigo, ele clica na opção de dar um presente<br>5. Uma modal aparece e ele clica em confirmar o envio do presente, mas uma nova modal aparece<br>6. Na nova modal, aparece uma mensagem dizendo que o usuário não tem cristais o suficiente e opções de compra de cristais com dinheiro real são apresentadas<br>7. Ou o usuário clica na opção "agora não" e retorna para a página de missões, ou então ele compra mais cristais e depois realiza o envio do presente (item) desejado anteriormente |
-| **Pós-condições**     | O usuário completa uma determinada missão e recebe uma recompensa associada a ela |
+| **Frequência de Uso** | Baixa |
+| **Pré-condições**     | Conexão à internet<br>Entrar na conta<br> |
+| **Fluxo principal**   | 1. O usuário entra na sua conta<br>2. Clica na aba de perfil<br>3. Clica em cima do seu avatar e é direcionado para a tela de edição do avatar<br>4. Personaliza o avatar como deseja<br>5. Confirma clicando na opção de Pronto<br>6. O usuário é redirecionado para a tela do perfil |
+| **Fluxos de exceção** | **FE1 -  Faz alterações no avatar, mas cancela**<br>1. O usuário entra na sua conta<br>2. Clica na aba de perfil<br>3. Clica em cima do seu avatar e é direcionado para a tela de edição do avatar<br>4. Personaliza o avatar<br>5. Muda de ideia e cancela as alterações clicando no botão em forma de X<br>6. As alterações não são salvas e o usuário é redirecionado para a tela do perfil |
+| **Pós-condições**     | O avatar do usuário é alterado visualmente conforme o desejado |
 | **Data da Criação**   | 13/08 |
 
 ### Caso de Uso - Realizar Missões
@@ -73,7 +72,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Interagir com amigos |
 | **Descrição**         | Após encontrar a conta de outra pessoa no Duolingo, você começa a segui-la e interagir com ela dentro do app |
-| **Requisitos**        | RF17, RF29, RNF38                                                                                        |
+| **Requisitos**        | RF17, RF29, RFN38                                                                                        |
 | **Atores**            | Estudante |
 | **Frequência de Uso** | Baixa |
 | **Pré-condições**     | Conexão à internet<br>Entrar na conta<br>Ter um curso selecionado<br>Seguir ao menos um amigo<br>Dependendo da interação, é necessário ter missões disponíveis a serem realizadas com um determinado amigo |
@@ -105,7 +104,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Utilizar itens para impulsionar o aprendizado |
 | **Descrição**         | O usuário, com o objetivo de impulsionar o seu aprendizado, utiliza itens como vidas, porções de XP, bloqueadores de ofensiva e esticadores de tempo. |
-| **Requisitos**        | RF23, RF24, RNF38 |
+| **Requisitos**        | RF23, RF24, RF34, RNF38 |
 | **Atores**            | Estudante |
 | **Frequência de Uso** | Média  |
 | **Pré-condições**     | Conexão à internet<br>O usuário precisa estar na sua conta<br>Possuir algum item, como vidas, porções, esticadores de tempo e bloqueadores de ofensiva<br>Estar em uma lição que permita o uso de algum de seus itens |
@@ -121,7 +120,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Casos de Uso** | Acompanhar métricas gerais da gamificação |
 | **Descrição**  | O usuário consegue visualizar e acompanhar algumas métricas gamificadas relacionadas ao seu histórico no app |
-| **Requisitos** | RF15, RF18, RF22, RNF38 |
+| **Requisitos** | RF15, RF18, RF22, RFN38 |
 | **Atores** | Estudante |
 | **Frequência de Uso** | Alta |
 | **Pré-condições**     | - Conexão à internet<br>- O usuário precisa estar na sua conta<br>- O usuário precisa ter um curso em andamento |
