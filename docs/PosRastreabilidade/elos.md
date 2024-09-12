@@ -48,14 +48,27 @@ A seguir, serão registrados os elos de rastreabilidade de desenvolvimento.
 | ELO18S  | - [RF22]() O aplicativo oferece conquistas para marcos específicos no aprendizado <br> - [US20]() Visualizar as conquistas | A História de Usuário [US20]() satisfaz o requisito [RF22]()  |   |
 | ELO19S  | - [RF23]() O aplicativo deve fornecer uma loja <br> - [EO11]() Loja| O Épico [EO11]() satisfaz o requisito [RF23]() |   |
 | ELO20S  | - [RF24]() O aplicativo deve permitir a compra de recursos a partir de dinheiro real <br> - [US30]() Comprar com dinheiro real na loja | A História de Usuário [US30]() satisfaz o requisito [RF24]() |   |
-| ELO21S  | - []() <br> -[]() | []() []()  |   |
-| ELO22S  | - []() <br> -[]() | []() []()  |   |
-| ELO23S  | - []() <br> -[]() | []() []()  |   |
-| ELO24S  | - []() <br> -[]() | []() []()  |   |
-| ELO25S  | - []() <br> -[]() | []() []()  |   |
-| ELO26S  | - []() <br> -[]() | []() []()  |   |
-| ELO27S  | - []() <br> -[]() | []() []()  |   |
-| ELO28S  | - []() <br> -[]() | []() []()  |   |
+| ELO21S  | - [RF25]() O usuário pode reproduzir os áudios quantos vezes desejar <br> -[US13]() Praticar uma lição | A História de Usuário [US13]() satisfaz o requisito [RF25]()  |   |
+| ELO22S  | - [RF26]() Permite alterar a velocidade de reprodução de áudios <br> -[US13]() Praticar uma lição | A História de Usuário [US13]() satisfaz o requisito [RF26]()  |   |
+| ELO23S  | - [RF27]() Novas palavras devem ser visualmente destacadas e deve-se mostrar a sua tradução <br> -[US13]() Praticar uma lição | A História de Usuário [US13]() satisfaz o requisito [RF27]()  |   |
+| ELO24S  | - [RF28]() Permite pular ou adiar questões de fala e escuta <br> -[US13]() Praticar uma lição | A História de Usuário [US13]() satisfaz o requisito [RF28]()  |   |
+| ELO25S  | - [RF30]() O usuário deve ser capaz de gerenciar o seu perfil <br> -[US01]() Personalizar Perfil  | A História de Usuário [US01]() satisfaz parcialmente o requisito [RF30]()  |   |  |   |
+| ELO26S  | - [RF32]() O usuário deve ser capaz de reportar um problema <br> -[US45]() Reportar um problema | A História de Usuário [US45]() satisfaz o requisito [RF32]() |   |
+| ELO27S  | - [RF34]() O aplicativo permite ao usuário utilizar os seus respectivos itens <br> -[US29]() Comprar com cristais na loja<br> - [US31]() Recarregar as vidas<br> -[US36]() Utilizar um bloqueio de ofensiva| As seguintes Historias de Usuário [US29](), [US31]() e [US36]() possuem critérios de aceitação que simultanemente satisfazem o requisito [RF34]()|   |
+| ELO28S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO29S  | - [RFN36]() Deve existir um feedback imediato após a realização de uma questão <br> -[US16]() |  A História de Usuário [US16]() satisfaz o requisito [RFN36]()   |   |
+| ELO30S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO31S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO32S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO33S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO34S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO35S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO36S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO37S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO38S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO39S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO40S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
+| ELO41S  | - [RFN35]() As lições do aplicativo devem ser interativas <br> -[US13]() |  A História de Usuário [US13]() satisfaz o requisito [RFN35]()   |   |
 
 <center>
 
