@@ -2,7 +2,7 @@
 
 Esse documento tem como objetivo realizar a verificação do artefato [Especificação Suplementar](../../Modelagem/especificacao.md) a partir do método de inspeção
 
-## Checklist de Validação da Especificação Suplementar
+## Checklist de Verificação da Especificação Suplementar
 
 | ID  | Descrição | Referência | Status |
 |-----|-----------|------------|--------|

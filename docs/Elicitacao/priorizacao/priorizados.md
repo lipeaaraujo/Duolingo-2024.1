@@ -119,7 +119,7 @@ Esse documento agrupa os resultados da priorização dos requisitos utilizando a
 | RF32 | 32 | [MM20](../ElicitacaodeRequisitos/observacao.md#mm20) | O usuário deve ser capaz de reportar um problema | S |
 | RF33 | 33 | [MM21](../ElicitacaodeRequisitos/observacao.md#mm21) | O aplicativo deve fornecer um conjunto de notícias/novidades para o usuario | C |
 | RF34 | 34 | [MM22](../ElicitacaodeRequisitos/observacao.md#mm22) | O aplicativo permite ao usuário utilizar os seus respectivos itens | M |
-| RNF35 | 35  | [BS16](../ElicitacaodeRequisitos/brainstorm.md#bs16), [ST13](../EliO usuário deve ser capaz de gerenciar o seu perfilcitacaodeRequisitos/storytelling.md#st13) | As lições do aplicativo devem ser interativas                            | S    |
+| RNF35 | 35  | [BS16](../ElicitacaodeRequisitos/brainstorm.md#bs16), [ST13](../ElicitacaodeRequisitos/storytelling.md#st13) | As lições do aplicativo devem ser interativas                            | S    |
 | RNF36 | 36  | [BS17](../ElicitacaodeRequisitos/brainstorm.md#bs17), [MM30](../ElicitacaodeRequisitos/observacao.md#mm30) | Deve existir um feedback imediato após a realização de uma questão       | S    |
 | RNF37 | 37  | [BS18](../ElicitacaodeRequisitos/brainstorm.md#bs18), [ST16](../ElicitacaodeRequisitos/storytelling.md#st16) | O aplicativo deve possuir funcionalidades no modo off-line               | C    |
 | RNF38 | 38  | [BS19](../ElicitacaodeRequisitos/brainstorm.md#bs19), [ST18](../ElicitacaodeRequisitos/storytelling.md#st18), [MM23](../ElicitacaodeRequisitos/observacao.md#mm23), [AP17](../ElicitacaodeRequisitos/protocolo.md#ap17) | O aplicativo deve ser gamificado                                         | S    |

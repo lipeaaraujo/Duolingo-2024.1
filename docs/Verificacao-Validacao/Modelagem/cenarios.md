@@ -6,23 +6,23 @@ Esse documento tem como objetivo realizar a verificação do artefato [Cenários
 
 <center>
 
-### Checklist da Validação dos Cenários
+### Checklist da Verificação dos Cenários
 
 | ID  | Descrição                                                                                                          | Referência | Status |
 |-----|--------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1   | Todos os cenários foram definidos com base em requisitos claros e compreendidos?                                   | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Atende    |
-| 2   | Cada cenário descreve um fluxo de trabalho ou uma situação específica de uso do sistema?                           | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Atende    |
-| 3   | Os cenários cobrem uma gama representativa de casos de uso, incluindo cenários típicos e exceções?                 | [Sommerville, I. (2011)](#software)          |   Atende     |
-| 4   | Cada cenário inclui informações completas sobre os atores, suas ações e o sistema?                               | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Atende    |
-| 5   | Os cenários estão escritos de forma clara e compreensível, evitando ambiguidades?                                 | [Sommerville, I. (2011)](#software)         |     Atende   |
-| 6   | Os cenários são consistentes com os requisitos funcionais e não funcionais do sistema?                           | [Sommerville, I. (2011)](#software)          |    Atende    |
-| 7   | Foi realizada uma revisão dos cenários com stakeholders para garantir que todos os aspectos importantes foram cobertos? | [Sommerville, I. (2011)](#software)          |    Atende    |
-| 8   | Cada cenário tem uma estrutura padrão, como introdução, precondições, fluxo principal e pós-condições?            | [Robertson, S., & Robertson, J. (2013)](#requirements)          |   Atende     |
-| 9   | Os cenários incluem tanto o fluxo normal quanto exceções? | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Atende    |
-| 10  | Os cenários são verificáveis e fornecem critérios claros para validar a funcionalidade do sistema?                | [Sommerville, I. (2011)](#software)          |    Atende    |
-| 11  | Os cenários estão alinhados com os objetivos e restrições do projeto?                                            | [Robertson, S., & Robertson, J. (2013)](#requirements)          |   Atende     |
-| 12  | Os cenários foram documentados de maneira que facilitem a comunicação entre desenvolvedores, testadores e stakeholders? | [Robertson, S., & Robertson, J. (2013)](#requirements)          |     Atende   |
-| 13  | Foi feita uma análise de cobertura para garantir que todos os aspectos críticos do sistema estejam representados? | [Robertson, S., & Robertson, J. (2013)](#requirements)          |   Atende     |
+| 1   | Todos os cenários foram definidos com base em requisitos claros e compreendidos?                                   | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Sim    |
+| 2   | Cada cenário descreve um fluxo de trabalho ou uma situação específica de uso do sistema?                           | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Sim    |
+| 3   | Os cenários cobrem uma gama representativa de casos de uso, incluindo cenários típicos e exceções?                 | [Sommerville, I. (2011)](#software)          |   Sim     |
+| 4   | Cada cenário inclui informações completas sobre os atores, suas ações e o sistema?                               | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Sim    |
+| 5   | Os cenários estão escritos de forma clara e compreensível, evitando ambiguidades?                                 | [Sommerville, I. (2011)](#software)         |     Sim   |
+| 6   | Os cenários são consistentes com os requisitos funcionais e não funcionais do sistema?                           | [Sommerville, I. (2011)](#software)          |    Sim    |
+| 7   | Foi realizada uma revisão dos cenários com stakeholders para garantir que todos os aspectos importantes foram cobertos? | [Sommerville, I. (2011)](#software)          |    Sim    |
+| 8   | Cada cenário tem uma estrutura padrão, como introdução, precondições, fluxo principal e pós-condições?            | [Robertson, S., & Robertson, J. (2013)](#requirements)          |   Sim     |
+| 9   | Os cenários incluem tanto o fluxo normal quanto exceções? | [Robertson, S., & Robertson, J. (2013)](#requirements)          |    Sim    |
+| 10  | Os cenários são verificáveis e fornecem critérios claros para validar a funcionalidade do sistema?                | [Sommerville, I. (2011)](#software)          |    Sim    |
+| 11  | Os cenários estão alinhados com os objetivos e restrições do projeto?                                            | [Robertson, S., & Robertson, J. (2013)](#requirements)          |   Sim     |
+| 12  | Os cenários foram documentados de maneira que facilitem a comunicação entre desenvolvedores, testadores e stakeholders? | [Robertson, S., & Robertson, J. (2013)](#requirements)          |     Sim   |
+| 13  | Foi feita uma análise de cobertura para garantir que todos os aspectos críticos do sistema estejam representados? | [Robertson, S., & Robertson, J. (2013)](#requirements)          |   Sim     |
 
 </center>
 

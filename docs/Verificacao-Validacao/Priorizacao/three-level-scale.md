@@ -10,18 +10,18 @@ Esse documento tem como objetivo realizar a verificação do artefato [Three Lev
 
 | ID  | Descrição                                                                                                        | Referência | Status |
 |-----|------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1   | Todos os requisitos foram identificados e documentados antes da priorização?                                     | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |     Atende   |
-| 2   | A escala de três níveis foi definida claramente (por exemplo: Alta, Média, Baixa) antes de iniciar a priorização? | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |     Atende   |
-| 3   | Os critérios para classificar os requisitos em cada nível de prioridade estão bem documentados e compreendidos?   | [Cohn, M. (2004)](#agile)         |    Não Atende    |
-| 4   | Cada requisito foi avaliado de forma objetiva quanto à importância e urgência utilizando a escala de três níveis? | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |   Atende     |
-| 5   | Existe consenso entre os stakeholders sobre a classificação dos requisitos nas categorias de prioridade?         | [Cohn, M. (2004)](#agile)          |     Atende   |
-| 6   | As prioridades foram ajustadas considerando os recursos disponíveis e o prazo do projeto?                        | [Cohn, M. (2004)](#agile)          |    Não Atende    |
-| 7   | A priorização reflete o valor de negócio e impacto de cada requisito para os objetivos do projeto?                | [Sommerville, I. (2011)](#software)          |    Atende    |
-| 8   | As dependências entre requisitos foram consideradas na priorização?                                              | [Cohn, M. (2004)](#agile)          |     Atende   |
-| 9   | Foi realizada uma revisão para garantir que todos os requisitos foram corretamente priorizados?                  | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |   Atende     |
-| 10  | A escala de prioridade foi aplicada consistentemente ao longo de todos os requisitos?                            | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |     Atende   |
-| 11  | O processo de priorização foi documentado e está disponível para revisão futura?                               | [Cohn, M. (2004)](#agile)          |    Atende    |
-| 12  | A priorização foi revisada e validada com os stakeholders para garantir alinhamento com as expectativas?        | [Sommerville, I. (2011)](#software)          |    Atende    |
+| 1   | Todos os requisitos foram identificados e documentados antes da priorização?                                     | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |     Sim   |
+| 2   | A escala de três níveis foi definida claramente (por exemplo: Alta, Média, Baixa) antes de iniciar a priorização? | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |     Sim   |
+| 3   | Os critérios para classificar os requisitos em cada nível de prioridade estão bem documentados e compreendidos?   | [Cohn, M. (2004)](#agile)         |    Não    |
+| 4   | Cada requisito foi avaliado de forma objetiva quanto à importância e urgência utilizando a escala de três níveis? | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |   Sim     |
+| 5   | Existe consenso entre os stakeholders sobre a classificação dos requisitos nas categorias de prioridade?         | [Cohn, M. (2004)](#agile)          |     Sim   |
+| 6   | As prioridades foram ajustadas considerando os recursos disponíveis e o prazo do projeto?                        | [Cohn, M. (2004)](#agile)          |    Não    |
+| 7   | A priorização reflete o valor de negócio e impacto de cada requisito para os objetivos do projeto?                | [Sommerville, I. (2011)](#software)          |    Sim    |
+| 8   | As dependências entre requisitos foram consideradas na priorização?                                              | [Cohn, M. (2004)](#agile)          |     Sim   |
+| 9   | Foi realizada uma revisão para garantir que todos os requisitos foram corretamente priorizados?                  | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |   Sim     |
+| 10  | A escala de prioridade foi aplicada consistentemente ao longo de todos os requisitos?                            | [Leffingwell, D., & Widrig, D. (2003)](#managing)          |     Sim   |
+| 11  | O processo de priorização foi documentado e está disponível para revisão futura?                               | [Cohn, M. (2004)](#agile)          |    Sim    |
+| 12  | A priorização foi revisada e validada com os stakeholders para garantir alinhamento com as expectativas?        | [Sommerville, I. (2011)](#software)          |    Sim    |
 
 </center>
 
