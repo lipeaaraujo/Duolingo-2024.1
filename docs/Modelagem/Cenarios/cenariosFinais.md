@@ -35,6 +35,7 @@ Durante a reunião gravada, foram também levantados requisitos novos de autoria
 | CN23 | Impedir o [usuário](../lexico.md#usuario) de concluir [lição](../lexico.md#licao) | Após junção |
 | CN24 | Acessar [coleções](../lexico.md#colecoes) | Após junção |
 | CN25 | Acessar [conquistas](../lexico.md#conquistas) | Após junção |
+| CN26 | Reportar problema | Após junção |
 
 **Autores**: [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Samuel Alves Silva](https://github.com/samuelalvess), 2024
 
@@ -614,6 +615,29 @@ Na Tabela 25 está detalhado o CN24, que descreve como acessar a [aba](../lexico
 
 </center>
 
+## CN26 - Reportar problema
+
+Na tabela 26 está determinado o CN26, que descreve como o [usuário](../lexico.md#usuario) pode reportar um problema.
+
+<center>
+
+### Tabela 6: CN5
+
+| Elemento | Descrição     |
+|----------|---------------------|
+| Titulo  | Reportar problema |
+| Objetivo  | Permitir que o [usuário](../lexico.md#usuario) reporte um problema. |
+| Contexto  |  Local: Em praia.<br>Pré-condições: Ter acesso a internet, ter o aplicativo instalado e ter iniciado algum [curso](../lexico.md#curso) no Duolingo.    |
+| Recursos  |  Aplicativo Duolingo.<br>Dispositivo celulares e semelhantes.<br> Acesso à internet. |
+| Atores  | O [usuário](../lexico.md#usuario) do Duolingo       |
+| Episódios | O [usuário](../lexico.md#usuario) deseja fazer uma [lição](../lexico.md#licao).<br>O [usuário](../lexico.md#usuario) pega o celular.<br>O [usuário](../lexico.md#usuario) abre o Duolingo.<br>O [usuário](../lexico.md#usuario) seleciona [lição](../lexico.md#licao) desejada.<br>O [usuário](../lexico.md#usuario) clica na opção "Começar".<br> O Duolingo inicia a [lição](../lexico.md#licao).</br>O [usuário](../lexico.md#usuario) responde uma [questão](../lexico.md#questao).<br>O Duolingo mostra um [pop-up](../lexico.md#pop-up) de [feedback](../lexico.md#feedback).<br>O [usuário](../lexico.md#usuario) aperta o botão para reportar problema.<br>O Duolingo mostra um [pop-up](../lexico.md#pop-up) para o [usuário](../lexico.md#usuario) escrever o problema e enviar.<br>O [usuário](../lexico.md#usuario) termina a [lição](../lexico.md#licao).<br>O Duolingo mostra o [desempenho](../lexico.md#desempenho).      |
+| Restrição  |  A [lição](../lexico.md#licao) estar [disponível](../lexico.md#disponivel). <br> O [usuário](../lexico.md#usuario) ter [vidas](../lexico.md#vida) suficientes |
+| Exceção  | Queda de internet antes de concluir a [lição](../lexico.md#licao).<br> O aparelho celular não funcionar corretamente. <br>  A [lição](../lexico.md#licao) não estar [disponível](../lexico.md#disponivel). <br> O [usuário](../lexico.md#usuario) não ter [vidas](../lexico.md#vida) suficientes |
+
+**Autores**: [Raquel Ferreira Andrade](https://github.com/raquel-andrade), 2024
+
+</center>
+
 ## Gravação
 
 <center>
@@ -637,5 +661,7 @@ Na Tabela 25 está detalhado o CN24, que descreve como acessar a [aba](../lexico
 | 14/08/2024 | 1.2 | Ajuste do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022) |
 | 16/08/2024 | 1.3 | Adição do CN19, CN20, CN21, CN22, CN23, CN24.<br>Ajustes no documento. | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Julio Roberto](https://github.com/JulioR2022), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 | 18/08/2024 | 1.4 | Adição dos links com o léxico | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) |
+| 11/09/2024 | 1.5 | Adição do CN26 | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |
+
 
 </center>

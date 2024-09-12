@@ -58,7 +58,7 @@ Para construir a matriz de rastreabilidade backward-from, foi utilizada como bas
 | <a id="rf34">RF34</a> | 34 | [MM22](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm22) | O aplicativo permite ao usuário utilizar os seus respectivos itens | 
 | <a id="rnf35">RNF35</a> | 35 | [BS16](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs16), [ST13](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st13) | As lições do aplicativo devem ser interativas |
 | <a id="rnf36">RNF36</a> | 36 | [BS17](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs17), [MM30](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm30) | Deve existir um feedback imediato após a realização de uma questão |
-| <a id="rnf37">RNF37</a> | 38 | [BS18](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs18), [ST16](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st16) | O aplicativo deve possuir funcionalidades no modo off-line |
+| <a id="rnf37">RNF37</a> | 37 | [BS18](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs18), [ST16](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st16) | O aplicativo deve possuir funcionalidades no modo off-line |
 | <a id="rnf38">RNF38</a> | 38 | [BS19](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs19), [ST18](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st18), [MM23](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm23), [AP17](../Elicitacao/ElicitacaodeRequisitos/protocolo.md#ap17) | O aplicativo deve ser gamificado | 
 | <a id="rnf39">RNF39</a> | 39 | [BS20](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs20) | A maioria das funcionalidades devem ser gratuitas |
 | <a id="rnf40">RNF40</a> | 40 | [BS21](../Elicitacao/ElicitacaodeRequisitos/brainstorm.md#bs21), [MM25](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm25) | O aplicativo deve suportar muitos usuários simultaneamente | 
@@ -71,7 +71,7 @@ Para construir a matriz de rastreabilidade backward-from, foi utilizada como bas
 | <a id="rnf47">RNF47</a> | 47 | [ST19](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st19) | O aplicativo deve estar disponível em diversos idiomas | 
 | <a id="rnf48">RNF48</a> | 48 | [ST20](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st20) | O aplicativo deve permitir a sincronização de contas em dispositivos diferentes |
 | <a id="rnf49">RNF49</a> | 49 | [MM26](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm26) | As transações dentro da loja devem ser seguras | 
-| <a id="rnf50">RNF50</a> | 50 | [MM29](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm29), [AP15](../Elicitacao/ElicitacaodeRequisitos/protocolo.md#ap15) | As lições devem ter conteúdo confiável e verificado | Alta Prioridade, M |
+| <a id="rnf50">RNF50</a> | 50 | [MM29](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm29), [AP15](../Elicitacao/ElicitacaodeRequisitos/protocolo.md#ap15) | As lições devem ter conteúdo confiável e verificado |
 | <a id="rnf51">RNF51</a> | 51 | [AP14](../Elicitacao/ElicitacaodeRequisitos/protocolo.md#ap14) | As mensagens de feedback devem ser claras e objetivas |
 | <a id="rnf52">RNF52</a> | 52 | [AP16](../Elicitacao/ElicitacaodeRequisitos/protocolo.md#ap16) | O design do aplicativo deve ser padronizado | 
 | <a id="rnf53">RNF53</a> | 53 | [MM34](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm34) | O aplicativo não deve ocupar mais do que 500 MB de armazenamento |
