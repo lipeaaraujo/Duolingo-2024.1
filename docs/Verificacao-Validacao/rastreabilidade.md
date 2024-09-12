@@ -32,17 +32,17 @@ Esse documento tem como intuito realizar a verificação dos artefatos produzido
 
 | ID | Descrição | Refêrencia | Status |
 | - | - | - |  - |
-| 01 | O Rich Picture comunica claramente a visão geral do sistema? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Atende |
-| 02 | Todos os stakeholders envolvidos no contexto estão representados? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Atende |
-| 03 | O contexto de onde o sistema será utilizado está representado? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 04 | As principais entidades do sistema estão claramente identificadas? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |Atende |
-| 05 | Os processos principais e fluxos de informação estão representados corretamente? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 06 | Os símbolos e cores utilizados são consistentes e ajudam na compreensão do Rich Picture? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 07 | Representação gráfica de atores claramente vísivel?  |  [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Atende |
-| 08 | Label especificando quem é o ator? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 09 | Todas as operações são representadas em circulos ou ovais com labels descritivas em seu interior? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Atende |
-| 10 | "Data Stores" são representados graficamente como retângulos? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|Atende |
-| 11 | Somente as operacões podem interagir com "Data Stores" | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Não Atende |
+| 01 | O Rich Picture comunica claramente a visão geral do sistema? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |   Sim |
+| 02 | Todos os stakeholders envolvidos no contexto estão representados? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |   Sim |
+| 03 | O contexto de onde o sistema será utilizado está representado? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 04 | As principais entidades do sistema estão claramente identificadas? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Sim |
+| 05 | Os processos principais e fluxos de informação estão representados corretamente? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 06 | Os símbolos e cores utilizados são consistentes e ajudam na compreensão do Rich Picture? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 07 | Representação gráfica de atores claramente vísivel?  |  [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|  Sim |
+| 08 | Label especificando quem é o ator? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 09 | Todas as operações são representadas em circulos ou ovais com labels descritivas em seu interior? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|  Sim |
+| 10 | "Data Stores" são representados graficamente como retângulos? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Sim |
+| 11 | Somente as operacões podem interagir com "Data Stores" | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Não |
 
 **Autores**: [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Julio Roberto](https://github.com/JulioR2022), 2024
 
@@ -54,17 +54,17 @@ Esse documento tem como intuito realizar a verificação dos artefatos produzido
 
 | ID | Descrição | Refêrencia | Status |
 | - | - | - |  - |
-| 01 | O Rich Picture comunica claramente a visão geral do sistema? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Atende |
-| 02 | Todos os stakeholders envolvidos no contexto estão representados? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Atende |
-| 03 | O contexto de onde o sistema será utilizado está representado? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 04 | As principais entidades do sistema estão claramente identificadas? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |Atende |
-| 05 | Os processos principais e fluxos de informação estão representados corretamente? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 06 | Os símbolos e cores utilizados são consistentes e ajudam na compreensão do Rich Picture? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 07 | Representação gráfica de atores claramente vísivel?  |  [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Atende |
-| 08 | Label especificando quem é o ator? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 09 | Todas as operações são representadas em circulos ou ovais com labels descritivas em seu interior? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Atende |
-| 10 | "Data Stores" são representados graficamente como retângulos? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|Atende |
-| 11 | Somente as operacões podem interagir com "Data Stores" | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Não Atende |
+| 01 | O Rich Picture comunica claramente a visão geral do sistema? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |   Sim |
+| 02 | Todos os stakeholders envolvidos no contexto estão representados? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |   Sim |
+| 03 | O contexto de onde o sistema será utilizado está representado? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 04 | As principais entidades do sistema estão claramente identificadas? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Sim |
+| 05 | Os processos principais e fluxos de informação estão representados corretamente? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 06 | Os símbolos e cores utilizados são consistentes e ajudam na compreensão do Rich Picture? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 07 | Representação gráfica de atores claramente vísivel?  |  [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|  Sim |
+| 08 | Label especificando quem é o ator? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 09 | Todas as operações são representadas em circulos ou ovais com labels descritivas em seu interior? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|  Sim |
+| 10 | "Data Stores" são representados graficamente como retângulos? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Sim |
+| 11 | Somente as operacões podem interagir com "Data Stores" | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Não |
 
 **Autores**: [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Julio Roberto](https://github.com/JulioR2022), 2024
 
@@ -76,17 +76,17 @@ Esse documento tem como intuito realizar a verificação dos artefatos produzido
 
 | ID | Descrição | Refêrencia | Status |
 | - | - | - |  - |
-| 01 | O Rich Picture comunica claramente a visão geral do sistema? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Atende |
-| 02 | Todos os stakeholders envolvidos no contexto estão representados? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Não Atende |
-| 03 | O contexto de onde o sistema será utilizado está representado? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 04 | As principais entidades do sistema estão claramente identificadas? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |Não Atende |
-| 05 | Os processos principais e fluxos de informação estão representados corretamente? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 06 | Os símbolos e cores utilizados são consistentes e ajudam na compreensão do Rich Picture? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 07 | Representação gráfica de atores claramente vísivel?  |  [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Atende |
-| 08 | Label especificando quem é o ator? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
-| 09 | Todas as operações são representadas em circulos ou ovais com labels descritivas em seu interior? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Atende |
-| 10 | "Data Stores" são representados graficamente como retângulos? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|Atende |
-| 11 | Somente as operacões podem interagir com "Data Stores" | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Atende |
+| 01 | O Rich Picture comunica claramente a visão geral do sistema? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Sim |
+| 02 | Todos os stakeholders envolvidos no contexto estão representados? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |  Não |
+| 03 | O contexto de onde o sistema será utilizado está representado? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Sim |
+| 04 | As principais entidades do sistema estão claramente identificadas? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) |Não |
+| 05 | Os processos principais e fluxos de informação estão representados corretamente? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Sim |
+| 06 | Os símbolos e cores utilizados são consistentes e ajudam na compreensão do Rich Picture? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Sim |
+| 07 | Representação gráfica de atores claramente vísivel?  |  [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Sim |
+| 08 | Label especificando quem é o ator? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Sim |
+| 09 | Todas as operações são representadas em circulos ou ovais com labels descritivas em seu interior? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)| Sim |
+| 10 | "Data Stores" são representados graficamente como retângulos? | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf)|Sim |
+| 11 | Somente as operacões podem interagir com "Data Stores" | [A Rich Traceability Model for Social Interactions](https://www-di.inf.puc-rio.br/~julio/ser-tra-11.pdf) | Sim |
 
 **Autores**: [Raquel Ferreira Andrade](https://github.com/raquel-andrade), [Julio Roberto](https://github.com/JulioR2022), 2024
 

@@ -10,18 +10,18 @@ Neste documento será contemplado o checklist produzido para verificar a qualida
 
 | ID  | Descrição                                                                                       | Referência | Status |
 |-----|-------------------------------------------------------------------------------------------------|------------|--------| 
-| 1   | O objetivo da observação está claramente definido? | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)          |  Atende      |
-| 2   | As atividades observadas foram selecionadas com base na relevância para os requisitos do sistema? |  [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)       |     Atende   |
-| 3   | A observação foi realizada em um ambiente natural e sem interferência dos observadores? | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)          |      Atende  |
-| 4   | Foram utilizados métodos para minimizar o impacto da presença do observador nas atividades observadas? | [Sommerville, I. (2011)](#software)      |     Atende   |
-| 5   | As informações coletadas foram documentadas com precisão e de maneira imparcial?  |  [Sommerville, I. (2011)](#software)            |     Atende   |
-| 6   | Houve uma análise crítica das atividades observadas, identificando oportunidades de melhoria? |  [Sommerville, I. (2011)](#software)          |    Não Atende    |
-| 7   | Foram consideradas variáveis contextuais, como ambiente físico, ferramentas utilizadas e comportamento dos usuários? |  [Sommerville, I. (2011)](#software)    |   Não Atende     |
-| 8   | As descobertas da observação foram confrontadas com o conhecimento existente para validação? |  [Cohn, M. (2004)](#user-stories)            |    Atende    |
-| 9   | Houve reflexão pessoal (introspecção) sobre as experiências e sentimentos dos usuários observados? | [Cohn, M. (2004)](#user-stories)           |      Atende  |
-| 10  | As informações obtidas foram integradas com outras técnicas de elicitação para fornecer uma visão completa dos requisitos? |  [Sommerville, I. (2011)](#software)    |  Atende      |
-| 11  | Foi utilizado um processo de revisão e validação das observações com os stakeholders?             | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)         |   Atende     |
-| 12  | As atividades observadas estão documentadas de forma a garantir rastreabilidade nos requisitos?   | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)          |     Atende   |
+| 1   | O objetivo da observação está claramente definido? | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)          |  Sim      |
+| 2   | As atividades observadas foram selecionadas com base na relevância para os requisitos do sistema? |  [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)       |     Sim   |
+| 3   | A observação foi realizada em um ambiente natural e sem interferência dos observadores? | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)          |      Sim  |
+| 4   | Foram utilizados métodos para minimizar o impacto da presença do observador nas atividades observadas? | [Sommerville, I. (2011)](#software)      |     Sim   |
+| 5   | As informações coletadas foram documentadas com precisão e de maneira imparcial?  |  [Sommerville, I. (2011)](#software)            |     Sim   |
+| 6   | Houve uma análise crítica das atividades observadas, identificando oportunidades de melhoria? |  [Sommerville, I. (2011)](#software)          |    Não    |
+| 7   | Foram consideradas variáveis contextuais, como ambiente físico, ferramentas utilizadas e comportamento dos usuários? |  [Sommerville, I. (2011)](#software)    |   Não     |
+| 8   | As descobertas da observação foram confrontadas com o conhecimento existente para validação? |  [Cohn, M. (2004)](#user-stories)            |    Sim    |
+| 9   | Houve reflexão pessoal (introspecção) sobre as experiências e sentimentos dos usuários observados? | [Cohn, M. (2004)](#user-stories)           |      Sim  |
+| 10  | As informações obtidas foram integradas com outras técnicas de elicitação para fornecer uma visão completa dos requisitos? |  [Sommerville, I. (2011)](#software)    |  Sim      |
+| 11  | Foi utilizado um processo de revisão e validação das observações com os stakeholders?             | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)         |   Sim     |
+| 12  | As atividades observadas estão documentadas de forma a garantir rastreabilidade nos requisitos?   | [Beyer, H., & Holtzblatt, K. (1998)](#contextual-design)          |     Sim   |
 
 </center>
 

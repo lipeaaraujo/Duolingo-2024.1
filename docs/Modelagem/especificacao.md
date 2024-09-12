@@ -13,11 +13,11 @@ Os requisitos funcionais estão bem definidos e especificados nos [cenários](..
 
 <center>
 
-Tabela 01 - Usabilidade
+<a id= "usabilidade" style="color: black;"> Tabela 01 - Usabilidade</a>
 
 | ID   | Descrição dos Requisitos |
 |------|--------------------------|
-| [RNF39](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | O aplicativo deve ser gamificado |
+| [RNF39](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | A maioria das funcionalidades devem ser gratuitas |
 | [RNF35](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | As lições do aplicativo devem ser interativas |
 | [RNF38](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | O aplicativo deve ser gamificado |
 | [RNF41](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | O aplicativo deve apresentar uma navegação simples |
@@ -33,7 +33,8 @@ Tabela 01 - Usabilidade
 
 ## 3 - Confiabilidade
 <center>
-Tabela 02 - Confiabilidade
+
+<a id = "confiabilidade" style="color: black;">Tabela 02 - Confiabilidade</a>
 
 | ID   | Descrição dos Requisitos |
 |------|--------------------------|
@@ -49,7 +50,8 @@ Tabela 02 - Confiabilidade
 
 ## 4 - Desempenho
 <center>
-Tabela 03 - Desempenho
+
+<a id="desempenho" style="color: black;">Tabela 03 - Desempenho </a>
 
 | ID   | Descrição dos Requisitos |
 |------|--------------------------|
@@ -65,7 +67,8 @@ Tabela 03 - Desempenho
 
 ## 5 - Suportabilidade
 <center>
-Tabela 04 - Suportabilidade
+
+<a id= "suportabilidade" style="color: black;">Tabela 04 - Suportabilidade</a>
 
 
 | ID   | Descrição dos Requisitos |
@@ -81,7 +84,8 @@ Tabela 04 - Suportabilidade
 
 ## 6 - Restrição de Design
 <center>
-Tabela 04 - Restrição de Design
+
+<a id = "design" style="color: black;">Tabela 05 - Restrição de Design</a>
 
 
 | ID   | Descrição dos Requisitos |
@@ -109,5 +113,6 @@ Tabela 04 - Restrição de Design
 | 19/08/2024 | 1.0 | Criação do documento | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Julio Roberto](https://github.com/JulioR2022) |
 | 21/08/2024 | 1.1 | Adições das tabelas de especificações | [Gabryel Nicolas S de Sousa](https://github.com/gabryelns), [Julio Roberto](https://github.com/JulioR2022), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
 | 06/08/2024 | 1.2 | Rastreabilidade dos requisitos e atualização nos títulos | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo), [Guilherme Silva Dutra](https://github.com/GuiDutra21) |
+| 11/09/2024 | 1.3 | Adição das tag para utilizar links | [Julio Roberto](https://github.com/JulioR2022) |
 
 </center>

@@ -106,7 +106,7 @@ nav:
     - Priorização das Histórias de Usuário: ModelagemAgil/priorizacao-historias.md
     - Minimum Viable Product e Sprint Backlog: ModelagemAgil/sprint-backlog.md
     - iStar: ModelagemAgil/i-estrela.md 
-  - Verificação e Validação:
+  - V & V:
     - Verificação:
       - Introdução: Verificacao-Validacao/introducao.md
       - Pré-Rastreabilidade: Verificacao-Validacao/rastreabilidade.md
@@ -132,5 +132,8 @@ nav:
     - Validação:
       - Protótipo Criado: Verificacao-Validacao/Validacao/prototipo.md
       - Validação por Entrevista: Verificacao-Validacao/Validacao/validacao.md
-
-
+  - Pós-Rastreabilidade:
+    - Baseline: PosRastreabilidade/baseline.md
+    - Backward-From: PosRastreabilidade/backward.md
+    - Forward-From: PosRastreabilidade/forward.md
+    - Elos: PosRastreabilidade/elos.md
