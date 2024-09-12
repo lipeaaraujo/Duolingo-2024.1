@@ -94,6 +94,11 @@ Tabela 04 - Restrição de Design
 
 </center>
 
+## Referências
+
+1. ALVES, Izabella; ZARANZA, Gabriel. Especificação Suplementar. Repositório do Grupo Economia-DF da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/#historico-de-versoes. Acesso em: 20 ago. 2024.
+
+2. NIELSEN, Jakob. 10 Usability Heuristics for User Interface Design. NN/g Nielsen Norman Group, 24 abr. 1994. Atualizado em 30 jan. 2024. Disponível em: https://www.nngroup.com/articles/ten-usability-heuristics/. Acesso em: 21 ago. 2024.
 
 ## Histórico de Versão
 
