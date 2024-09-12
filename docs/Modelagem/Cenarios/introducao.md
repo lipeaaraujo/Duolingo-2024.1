@@ -8,7 +8,7 @@ São artefatos úteis para fornecer visão sobre os fluxos, exceções, caminhos
 
 ## Metodologia
 
-Para criação dos cenários, o grupo dividiu duas duplas para elicitarem cenários cada uma, tendo em vista a utilização do aplicativo e os principais requisitos elicitados e priorizados na seção de [Requisitos Priorizados](../Elicitacao/priorizacao/priorizados.md).
+Para criação dos cenários, o grupo dividiu duas duplas para elicitarem cenários cada uma, tendo em vista a utilização do aplicativo e os principais requisitos elicitados e priorizados na seção de [Requisitos Priorizados](../../Elicitacao/priorizacao/priorizados.md).
 
 <center>
 
