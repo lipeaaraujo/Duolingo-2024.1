@@ -60,7 +60,7 @@ Com a definição do **MVP**, as histórias de usuário restantes foram agregada
 | [US24](product-backlog.md#us24) | Personalizar exercícios de fala e escuta | Média | Média |
 | [US25](product-backlog.md#us25) | Competir com amigos | Média | Baixa |
 | [US27](product-backlog.md#us27) | Realizar missões | Média | Média |
-| [US28](product-backlog.md#us28) |  Realizar missões dos amigos | Média | Média |
+| [US28](product-backlog.md#us28) | Realizar missões dos amigos | Média | Média |
 | [US33](product-backlog.md#us33) | Receber baús com outras recompensas | Média | Baixa |
 | [US34](product-backlog.md#us34) | Receber troféus de conquistas | Baixa | Média |
 | [US35](product-backlog.md#us35) | Receber recompensas por desafios da ofensiva | Média | Baixa |
