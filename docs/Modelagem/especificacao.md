@@ -17,7 +17,7 @@ Tabela 01 - Usabilidade
 
 | ID   | Descrição dos Requisitos |
 |------|--------------------------|
-| [RNF39](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | O aplicativo deve ser gamificado |
+| [RNF39](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | A maioria das funcionalidades devem ser gratuitas |
 | [RNF35](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | As lições do aplicativo devem ser interativas |
 | [RNF38](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | O aplicativo deve ser gamificado |
 | [RNF41](../Elicitacao/priorizacao/priorizados.md#tabela-03-resultado-da-priorizacao) | O aplicativo deve apresentar uma navegação simples |

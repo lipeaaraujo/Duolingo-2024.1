@@ -161,7 +161,7 @@ Os requisitos priorizados e suas respectivas versões estão descritos na tabela
 | **RNF47** | **[1.1](../Elicitacao/priorizacao/priorizados.md#rnf47)** | **O aplicativo deve estar disponível em diversos idiomas** | **Alta** |
 |        | [1.0](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st19) | O aplicativo deve estar disponível em diversos idiomas | Alta |
 | **RNF48** | **[1.1](../Elicitacao/priorizacao/priorizados.md#rnf48)** | **O aplicativo deve permitir a sincronização de contas em dispositivos diferentes** | **Baixa** |
-|        | [1.0](../ElicitacaodeRequisitos/storytelling.md#st20) | O aplicativo deve permitir o uso de uma mesma conta em mais de um aparelho | Baixa |
+|        | [1.0](../Elicitacao/ElicitacaodeRequisitos/storytelling.md#st20) | O aplicativo deve permitir o uso de uma mesma conta em mais de um aparelho | Baixa |
 | **RNF49** | **[1.1](../Elicitacao/priorizacao/priorizados.md#rnf49)** | **As transações dentro da loja devem ser seguras** | **Alta** |
 |        | [1.0](../Elicitacao/ElicitacaodeRequisitos/observacao.md#mm26) | As transações de compras dentro do aplicativo devem ser seguras | Alta |
 | **RNF50** | **[1.2](../Elicitacao/priorizacao/priorizados.md#rnf50)** | **As lições devem ter conteúdo confiável e verificado** | **Alta** |

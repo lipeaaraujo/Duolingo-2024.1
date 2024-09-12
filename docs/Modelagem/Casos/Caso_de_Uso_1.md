@@ -22,7 +22,7 @@ A seguir, as tabelas das especificações de cada Caso de Uso do diagrama criado
 |-------------------------|------------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**         | Acessar a Conta |
 | **Descrição**           | O usuário acessa o aplicativo usando suas credenciais. |
-| **Requisitos**          | RF04, RF21, RFN40, RFN43 |
+| **Requisitos**          | RF04, RF21, RFN45, RFN47 |
 | **Atores**              | Estudante  |
 | **Frequência de Uso**   | Média |
 | **Pré-condições**       | - Ter conexão à internet<br>- O usuário deve ter o aplicativo instalado<br>- Já ter uma conta no aplicativo |
@@ -81,7 +81,7 @@ A seguir, as tabelas das especificações de cada Caso de Uso do diagrama criado
 |--------------------------------------------|---------------------------------------------------------------------------------------|
 | **Caso de Uso**         | Escolher o Curso |
 | **Descrição**           | O usuário escolhe o idioma que deseja aprender ou praticar no aplicativo. |
-| **Requisitos**          | RF01, RF19, RFN42 |
+| **Requisitos**          | RF01, RF19, RFN47 |
 | **Atores**              | Estudante |
 | **Frequência de Uso**   | Média |
 | **Pré-condições**       | - O usuário deve ter conexão à internet<br>- O usuário deve ter o aplicativo instalado<br>- O usuário deve estar autenticado |
@@ -96,7 +96,7 @@ A seguir, as tabelas das especificações de cada Caso de Uso do diagrama criado
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**         | Realizar Lições |
 | **Descrição**           | O usuário realiza um conjunto de questões que podem envolver escrita, leitura, escuta e fala para praticar o idioma que está aprendendo. |
-| **Requisitos**          | RF02, RF10, RF11, RF25, RF26, RF27, RF28, RNF30, RF31, RNF38, RNF45 |
+| **Requisitos**          | RF02, RF10, RF11, RF25, RF26, RF27, RF28, RNF35, RNF36, RNF43, RNF50 |
 | **Atores**              | Estudante |
 | **Frequência de Uso**   | Alta |
 | **Pré-condições**       | - O usuário deve ter conexão à internet<br>- O usuário deve ter o aplicativo instalado<br>- O usuário deve estar autenticado.<br>- O usuário deve possuir um curso selecionado. |

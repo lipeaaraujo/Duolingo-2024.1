@@ -25,7 +25,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|--------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Comprar itens na loja |
 | **Descrição**         | O usuário compra itens na loja, o que envolve comprar itens com dinheiro real ou com outros itens do aplicativo |
-| **Requisitos**        | RF23, RF24, RNF33, RNF44 |
+| **Requisitos**        | RF23, RF24, RNF38, RNF49 |
 | **Atores**            | Estudante  |
 | **Frequência de Uso** | Baixa |
 | **Pré-condições**     | Conexão à internet<br>Ter uma conta no aplicativo<br>Ter um cartão salvo no Google Play ou Apple Store ou ter cristais suficientes para comprar outros itens da loja |
@@ -41,7 +41,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Realizar missões |
 | **Descrição**         | Durante a execução de algumas atividades o usuário alcança determinados marcos e, dessa forma, realiza missões |
-| **Requisitos**        | RF02, RF14, RNF33 |
+| **Requisitos**        | RF04, RF05, RNF38 |
 | **Atores**            | Estudante |
 | **Frequência de Uso** | Alta |
 | **Pré-condições**     | Conexão à internet<br>Entrar na conta<br>Ter um curso selecionado<br>Ter missões disponíveis a serem realizadas<br>Dependendo da missão, seguir algum amigo<br>Ter ao menos uma lição já realizada naquela semana |
@@ -57,7 +57,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Realizar missões                                                                                        |
 | **Descrição**         | Durante a execução de algumas atividades, o usuário alcança determinados marcos e, dessa forma, realiza missões.|
-| **Requisitos**        | RF02, RF14, RNF33                                                                                       |
+| **Requisitos**        | RF02, RF14, RNF38                                                                                       |
 | **Atores**            | Estudante|
 | **Frequência de Uso** | Alta |
 | **Pré-condições**     | Conexão à internet<br>Entrar na conta<br>Ter um curso selecionado<br>Ter missões disponíveis a serem realizadas<br>Dependendo da missão, seguir algum amigo<br>Ter ao menos uma lição já realizada naquela semana |
@@ -73,7 +73,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Interagir com amigos |
 | **Descrição**         | Após encontrar a conta de outra pessoa no Duolingo, você começa a segui-la e interagir com ela dentro do app |
-| **Requisitos**        | RF17, RF29, RF33                                                                                        |
+| **Requisitos**        | RF17, RF29, RNF38                                                                                        |
 | **Atores**            | Estudante |
 | **Frequência de Uso** | Baixa |
 | **Pré-condições**     | Conexão à internet<br>Entrar na conta<br>Ter um curso selecionado<br>Seguir ao menos um amigo<br>Dependendo da interação, é necessário ter missões disponíveis a serem realizadas com um determinado amigo |
@@ -89,7 +89,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Competir com outros usuários |
 | **Descrição**         | O usuário consegue entrar em competições com outros usuários, seja um amigo ou não.                      |
-| **Requisitos**        | RF14, RF16, RF17, RNF33 |
+| **Requisitos**        | RF14, RF16, RF17, RNF38 |
 | **Atores**            | Estudante |
 | **Frequência de Uso** | Alta |
 | **Pré-condições**     | Conexão à internet<br>Para competir nas ligas, o usuário deve ter realizado pelo menos 5 lições em qualquer unidade<br>Para competir com amigos, o usuário deve possuir amigos<br>Para as missões, o usuário deve ter realizado a primeira lição da semana |
@@ -105,7 +105,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|---------------------------------------------------------------------------------------------------------|
 | **Caso de Uso**       | Utilizar itens para impulsionar o aprendizado |
 | **Descrição**         | O usuário, com o objetivo de impulsionar o seu aprendizado, utiliza itens como vidas, porções de XP, bloqueadores de ofensiva e esticadores de tempo. |
-| **Requisitos**        | RF23, RF24, RNF33 |
+| **Requisitos**        | RF23, RF24, RNF38 |
 | **Atores**            | Estudante |
 | **Frequência de Uso** | Média  |
 | **Pré-condições**     | Conexão à internet<br>O usuário precisa estar na sua conta<br>Possuir algum item, como vidas, porções, esticadores de tempo e bloqueadores de ofensiva<br>Estar em uma lição que permita o uso de algum de seus itens |
@@ -121,7 +121,7 @@ A seguir, as tabelas de especificações de cada Caso de Uso do diagrama criado:
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Casos de Uso** | Acompanhar métricas gerais da gamificação |
 | **Descrição**  | O usuário consegue visualizar e acompanhar algumas métricas gamificadas relacionadas ao seu histórico no app |
-| **Requisitos** | RF15, RF18, RF22, RF33 |
+| **Requisitos** | RF15, RF18, RF22, RNF38 |
 | **Atores** | Estudante |
 | **Frequência de Uso** | Alta |
 | **Pré-condições**     | - Conexão à internet<br>- O usuário precisa estar na sua conta<br>- O usuário precisa ter um curso em andamento |
